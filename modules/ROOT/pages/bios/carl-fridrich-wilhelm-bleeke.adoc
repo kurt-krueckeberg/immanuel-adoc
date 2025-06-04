@@ -1,8 +1,9 @@
 = Carl Fridrich Wilhelm Bleeke
+:page-role: doc-width
+
+image::07-carl-friedrich-wilhelm-bleeke.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
 
 == Transliteration from old German script
-
-Download xref:attachment$07-carl-friedrich-wilhelm-bleeke.jpg[original image of biography]
 
 No. 7
 

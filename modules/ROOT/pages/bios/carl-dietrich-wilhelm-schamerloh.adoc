@@ -1,8 +1,11 @@
 = Carl Dietrich Wilhelm Schamerloh
+:page-role: doc-width
+
+== Biography
+
+image::carl-dietrich-wilhelm-schamerloh.jpg[align=left,title='Carl Dietrich Wilhelm Schamerloh bio (Click to enlarge)',link=self]
 
 == Transliteration from old German script
-
-Download xref:attachment$carl-dietrich-wilhelm-schamerloh.jpg[original image of biography]
 
 No. 9
 
