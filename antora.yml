@@ -1,0 +1,11 @@
+name: immanuel
+title: Immanuel Lutheran Kirchenbuch, Decatur, Indiana
+url: https://immanuel.krueckeberg.org
+version: '1.0' 
+# start_page: genealogy::index.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+  - modules/ROOT/nav-top.adoc
