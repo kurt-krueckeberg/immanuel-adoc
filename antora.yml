@@ -8,4 +8,4 @@ asciidoc:
     source-language: asciidoc@
     table-caption: false
 nav:
-  - modules/ROOT/nav-top.adoc
+  - modules/ROOT/nav.adoc
