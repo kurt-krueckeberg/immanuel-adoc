@@ -2,7 +2,7 @@ name: immanuel
 title: Immanuel Lutheran, Decatur IN
 url: https://immanuel.krueckeberg.org
 version: '1.0' 
-# start_page: genealogy::index.adoc
+#start_page: immanuel:ROOT:index.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
