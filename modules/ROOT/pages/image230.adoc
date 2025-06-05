@@ -1,0 +1,32 @@
+= Image 230
+:page-role: doc-width
+
+image::230.jpg[align=left,title='Page 193 (Click to enlarge)',link=self]
+
+== Transliteration
+
+NOTE: Only entries #2 and #6 from the image have been transliterated.
+
+....
+           Register
+       der Leichenbegängnisse
+
+8. Christian Wilhelm Söhnlein des Herrn Christian Bleeke und
+    seiner Ehefrau Maria geb: Rup, starb in einem 
+    Alter von 2 Jahren, 7 Monaten u[nd] 14 Tagen den 11ten
+    September 1869 u[nd] wurde am 13ten d[asselbe] M[onat] christlich
+    zur Erde gebestattet. / Taufregister No. 67
+....
+
+== Translation
+
+....
+        Register
+     of the Funerals
+
+8. Christian Wilhelm, son of Mr. Christian Bleeke and
+   his wife Maria, née Rup, died at the
+   age of 2 years, 7 months, and 14 days on 11th
+   September 1869 and was given a Christian burial on the 13th
+   of the same month. / Baptismal Register No. 67
+....
