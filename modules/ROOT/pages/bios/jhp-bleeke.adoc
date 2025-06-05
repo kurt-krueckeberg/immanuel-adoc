@@ -1,5 +1,5 @@
 = Johann Heinrich Philipp Bleeke
-:page-width: doc-width
+:page-role: doc-width
 
 == Biography
 
