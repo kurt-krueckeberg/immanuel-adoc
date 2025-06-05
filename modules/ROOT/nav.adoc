@@ -21,7 +21,7 @@
 ** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
 ** xref:bios/david-bibelheimer.adoc[]
 * xref:taufregister.adoc[]
-** xref:image46.adoc[1850 Marie Louise Bleeke Baptism]
+** xref:image46-1.adoc[]
 ** xref:image46.adoc[1851 Christian Fridrich Weÿland Baptism]
 ** xref:image46.adoc[1853 Carl Heinrich Christian Grote Baptism]
 ** xref:image46.adoc[1853 Sophie Louise Bleeke Baptism]
