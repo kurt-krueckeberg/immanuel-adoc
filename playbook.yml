@@ -1,11 +1,10 @@
 site:
 # title: Krückeberg and Bleeke Genealogy Research Topics
   # the 404 page and sitemap files only get generated when the url property is set
-  url: https://immanuel.krueckeberg.org
+  url: https://imm.krueckeberg.org
 content:
   sources:
     - url: https://github.com/kurt-krueckeberg/immanuel-adoc.git
-      branches: 
       # start_path: docs
       # setting edit_url to false disables the Edit this Page link for any page that originates from this repository
       # the same thing can be achieved by adding empty credentials (i.e., @) in front of the domain in the URL
