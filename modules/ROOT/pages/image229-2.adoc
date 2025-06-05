@@ -3,7 +3,7 @@
 
 == Citation
 
-The death March 6, 1869, death of  Christina Marie nee Schwier is on <<image229, image 229>>, entry #6,
+The March 6, 1869, death of  Christina Marie nee Schwier is on <<image229, image 229>>, entry #6,
 of "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository".
 
 include::image229.adoc[]
