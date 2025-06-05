@@ -1,12 +1,11 @@
 = Johann Heinrich Krückeberg
+:page-role: doc-width
+
+== Biography
+
+image::18.jpg[align="left",title="Johann Heinrich Krückeberg bio(Click to Enlarge",link=self]
 
 == Transliteration from old German script
-
-[NOTE]
-====
-The ÿ will morph in later years into 'i` or `y`, and
-Weÿland will later become Weiland (most common) or Weyland.
-====
 
 No. 2
 

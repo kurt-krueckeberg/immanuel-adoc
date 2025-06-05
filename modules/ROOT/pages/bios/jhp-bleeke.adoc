@@ -3,7 +3,7 @@
 
 == Biography
 
-image::17.jpg[align="left",title=" Johann Heinrich Philipp Bleeke bio(Click to Enlarge",link=self]
+image::17.jpg[align="left",title="Johann Heinrich Philipp Bleeke bio(Click to Enlarge",link=self]
 
 == Transliteration from old German script
 
