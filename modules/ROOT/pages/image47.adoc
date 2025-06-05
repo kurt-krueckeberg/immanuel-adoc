@@ -5,17 +5,81 @@ image::47.jpg[align=left,title='Page 77 (Click to enlarge)',link=self]
 
 == Transliteration
 
+NOTE: Only entries 7, 8 and 9 are shown.
+
 ....
 7.             Johann Heinrich
-+11/6/33
-   geboren den 17 Februar und getauft den 25 Februar 1855
+
++11/6/33 [in pencil]
+
+        geboren den 17 Februar und getauft den 25 Februar 1855
+     
+                     Christian Fridrich Bleeke 
+             Eltern:
+                     Louise geboren Valsing
+     
+             Pathen: Johann Heinrich Bleeke u[nd] Fridrich Valsing
+     
+8.             Caroline Christine Sophie
+
+         geboren den 9 April und getauft den 29 April 1855
+
+Mrs. Robt. Lee [in pencil]
+
+                   Johann Heinrich Wilhelm Carl Grote        
+          Eltern: 
+                   Carolina Philippina Dorothee geb: Krückeberg.
+
+       Pathen: Caroline Grote, Philippine Krückeberg und Leonore Bleeke. 
+
+
+11.           Caroline Christine
+
+         geboren den 11ten September und getauft den 4ten Ocktober 1857.
+
+                   Johann Heinrich Wilhelm Carl Grote        
+          Eltern: 
+                   Carolina Philippina Dorothee geb: Krückeberg.
+
+       Pathen: Christine Krückeberg und Philippine Schamerloh. 
+....
+
+
+== Translation
+
+....
+
+7.   Johann Heinrich
+
++11/6/33 [in pencil]
+
+      born 17 February and baptized 25 February 1855
 
                    Christian Fridrich Bleeke 
-           Eltern
-                   Louise geboren Valsing
+           Parents:
+                   Louise born Valsing
 
-           Pathen: Johann Heinrich Bleeke u[nd] Fridrich Valsing
+           Godparents: Johann Heinrich Bleeke and Fridrich Valsing
+     
+8.   Caroline Christine Sophie
 
-8.           Caroline Christine Sophie
- 
+     born 9 April and baptized 29 April 1855
+
+Mrs. Robt. Lee [in pencil]
+
+                   Johann Heinrich Wilhelm Carl Grote 
+         Parents: 
+                   Carolina Philippina Dorothee née: Krückeberg.
+
+         Godparents: Caroline Grote, Philippine Krückeberg and Leonore Bleeke. 
+
+11.   Caroline Christine
+
+      born 11 September and baptized 4 October 1857.
+
+                   Johann Heinrich Wilhelm Carl Grote 
+         Parents: 
+                   Carolina Philippina Dorothee née: Krückeberg.
+
+         Godparents: Christine Krückeberg and Philippine Schamerloh.
 ....
