@@ -1,12 +1,12 @@
 = 1850 Marie Louise Bleeke Baptism
 :page-role: doc-width
 
-image::46.jpg[align=left,title='Page 77, entry 1 (Click to enlarge)',link=self]
-
 == Citation
 
 The baptism of Marie Louise Bleeke is entry #1 on <<image46, image 46>>, page 77, of the 
 "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository".
+
+image::46.jpg[align=left,title='Page 77, entry 1 (Click to enlarge)',link=self]
 
 == Transliteration
 
