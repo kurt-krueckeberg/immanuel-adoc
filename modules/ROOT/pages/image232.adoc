@@ -1,0 +1,59 @@
+= Image 232
+:page-role: doc-width
+
+image::232.jpg[align=left,title='Image 232 (Click to enlarge)',link=self]
+
+== Transliteration
+
+[NOTE]
+==== 
+* "Offenb. 14,13" is likely Offenbarung, meaning "revelation", and thus refers to the
+Biblical book of Revelation chapter 14 verse 13.
+
+* Seite 32 means "page 2", which is the biography of Johann Heinrich Krückberg.
+"Lin" is perhaps an abbreviation for "Linie", meaning line, so it perhaps is the
+line numbers in the biography?
+====
+
+....
+25.  Witwe Sophia Wilhelmine Weiland geboren den 11 Juni
+     1811, gestorben am 28 April. christlich zu Erde bestattet den
+     30(?) April 1878. Alter: 66 Jahre. 10 Monate und 17 Tage
+
+26. Johann Heinrich Carl Grote geboren den 4. Novmbr 1823, Sohn von Johann
+     Heinrich Grote und [dessen?] Ehefrau Sophia geboren Bornrauc[h/k]. Gestorben am
+     den 27 ma 1878. Christlich zur Ruhe bestattet den 29 May 1878
+
+29.  Johann Heinrich Kruekeberg geboren den 12ten
+     August 1806, gestorben den 21ten und begraben den 23ten
+     März 1879. Alter: 72 Jahre, 7 Monate und 11 Tagen
+     (Siehe Seite 32) L[in?] 2, 29. 30.
+
+30. Caroline Sophie Krückeberg, geboren den 23ten
+    Januar 1808, gestorben den 1ten und begraben den 3ten Oktober
+    1879. Alter 71 Jahre 8 Monate und 8 Tage (Offenb. 14, 13) S. [?]. 32
+....
+
+== Translation
+
+....
+25.  Widow Sophia Wilhelmine Weiland born the 11 June
+     1811, died on 28 April. Christian burial onn
+     30(?) April 1878. Age: 66 years 10 months and 17 days
+     25th widow Sophia Wilhelmine Weiland born June 11
+
+26. Johann Heinrich Carl Grote born Nov. 4, 1823, son of Johann
+    Heinrich Grote and [his?] wife Sophia born Bornrauc[h/k]. Died at
+    on 27 May 1878. Christian burial on 29 May 1878
+
+
+
+29. Johann Heinrich Kruekeberg born 12th
+    August 1806, died 21st and buried 23rd
+    March 1879. Age: 72 years, 7 months and 11 days
+    (See page 32) L[in?] 2, 29. 30.
+
+30.  Caroline Sophie Krückeberg, born January 23
+     1808, died October 1 and buried October 3
+     1879. Age 71 years 8 months and 8 days (Revelation 14:13) p[age]. [?]. 32
+....
