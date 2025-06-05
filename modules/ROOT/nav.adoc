@@ -25,9 +25,10 @@
 ** xref:image46-2.adoc[]
 ** xref:image46-3.adoc[]
 ** xref:image46-4.adoc[]
-** xref:image47.adoc[1855 Johann Heinrich Bleeke Baptism]
-** xref:image47.adoc[1855 Caroline Christine Sophie Grote Baptism]
-** xref:image47.adoc[1857 Caroline Christine Grote Baptism]
+** xref:image47-1.adoc[]
+** xref:image47-2.adoc[]
+** xref:image47-3.adoc[]
+** xref:image47-4.adoc[]
 * Confirmandenregister
 ** xref:image117.adoc[]
 * Leichenbegängnisse

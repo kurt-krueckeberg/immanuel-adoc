@@ -1,6 +1,3 @@
-= Image 47, Page 78
-:page-role: doc-width
-
 image::47.jpg[align=left,title='Image 47, Page 78 (Click to enlarge)',link=self]
 
 == Transliteration
@@ -83,3 +80,10 @@ Mrs. Robt. Lee [in pencil]
 
          Godparents: Christine Krückeberg and Philippine Schamerloh.
 ....
+
+
+[bibliography]
+== Citation
+
+* [[[image47]]] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
+church, Image 47 of 242
