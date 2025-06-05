@@ -5,6 +5,6 @@
 == Citation
 
 The death February 21, 1868, death of Christine Sophie Eleanore nee Krückeberg Thieme is on <<image229, image 229>>, entry #2,
-of 
+of "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository".
 
 include::image229.adoc[]
