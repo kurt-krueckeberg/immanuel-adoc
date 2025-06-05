@@ -7,8 +7,3 @@ The January 12, 1851, baptism of Christian Fridrich Weÿland is entry #2 on <<im
 "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository".
 
 include::image46.adoc[]
-
-[bibliography]
-== Citation
-
-* [[[image46]]] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the church, Image 47 of 242

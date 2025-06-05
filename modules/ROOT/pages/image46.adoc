@@ -132,3 +132,9 @@ image::46.jpg[align=left,title='Page 77 (Click to enlarge)',link=self]
 
             Godparents: Christine Bleeke and Louise Reinking
 ....
+
+
+[bibliography]
+== Citation
+
+* [[[image46]]] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the church, Image 47 of 242

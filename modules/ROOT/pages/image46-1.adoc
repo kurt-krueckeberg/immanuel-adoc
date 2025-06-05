@@ -7,8 +7,3 @@ The November 14, 1850, baptism of Marie Louise Bleeke is entry #1 on <<image46, 
 "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository".
 
 include::image46.adoc[]
-
-[bibliography]
-== Citation
-
-* [[[image46]]] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the church, Image 47 of 242
