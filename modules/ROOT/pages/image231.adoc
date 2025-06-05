@@ -1,0 +1,26 @@
+= Image 231
+:page-role: doc-width
+
+image::231.jpg[align=left,title='Image 231 (Click to enlarge)',link=self]
+
+== Transliteration
+
+NOTE: Only entry #18 is shown.
+
+....
+18. Heinrich Wilhelm Weyland, gestorben den 5 Sept.
+1874. in einem Altero von 59 Jahren 8 Monaten und 22 Tagen.
+christlich zur Erde bestattet den 7ten Sept 1874. Er hinterläßt
+sein Ehefrau Sophie Wilhelmine geb. Piehl und drei er-
+wachsene Kinder (Siehe Kirchenbuch Seite 35, No. 5)
+....
+
+== Translation
+
+....
+18. Heinrich Wilhelm Weyland, died the 5th Sept.
+1874. at the age of 59 years 8 months and 22 days.
+Christian burial on the 7th Sept. 1874. He leaves behind
+his wife Sophie Wilhelmine née Piehl and three
+grown children (see church register page 35, No. 5)
+....

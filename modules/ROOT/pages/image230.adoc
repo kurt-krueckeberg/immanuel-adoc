@@ -1,7 +1,7 @@
 = Image 230
 :page-role: doc-width
 
-image::230.jpg[align=left,title='Page 193 (Click to enlarge)',link=self]
+image::230.jpg[align=left,title='Image 230 (Click to enlarge)',link=self]
 
 == Transliteration
 

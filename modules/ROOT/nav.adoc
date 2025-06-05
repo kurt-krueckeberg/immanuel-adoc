@@ -28,5 +28,6 @@
 * Leichenbegängnisse
 ** xref:image229.adoc[]
 ** xref:image230.adoc[]
+** xref:image231.adoc[]
 * xref:bios/pastors-at-immanuel.adoc[Pastors]
 * link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
