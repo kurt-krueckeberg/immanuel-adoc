@@ -1,9 +1,9 @@
-= 1851 Christiaqn Fridrich Weÿland Baptism
+= 1851 Christian Fridrich Weÿland Baptism
 :page-role: doc-width
 
 == Citation
 
-The January 12, 1851, baptism of Christiaqn Fridrich Weÿland is entry #2 on <<image46, image 46>>, page 77, of the 
+The January 12, 1851, baptism of Christian Fridrich Weÿland is entry #2 on <<image46, image 46>>, page 77, of the 
 "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository".
 
 image::46.jpg[align=left,title='Page 77, entry 2 (Click to enlarge)',link=self]
