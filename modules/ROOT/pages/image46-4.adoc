@@ -3,7 +3,7 @@
 
 == Citation
 
-The March 27, 1853, baptism of Sophie Louise Bleeke is entry #5 on <<image46, image 46>>, page 77, of the 
+The March 27, 1853, birth of Sophie Louise Bleeke is entry #5 on <<image46, image 46>>, page 77, of the 
 "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository".
 
 include::image46.adoc[]
