@@ -30,11 +30,10 @@
 ** xref:image47.adoc[1857 Caroline Christine Grote Baptism]
 * Confirmandenregister
 ** xref:image117.adoc[]
-** xref:image117.adoc[]
 * Leichenbegängnisse
 ** xref:image229.adoc[1868 Christina Sophia Eleonore nee Krückeberg Thieme Burial]
 ** xref:image229.adoc[1869 Christina Maria nee Schwier Bleeke Burial]
-** xref:image230.adoc[]
-** xref:image231.adoc[]
+** xref:image230.adoc[1869 Christian Wilhelm Bleeke Burial]
+** xref:image231.adoc[1874 Heinrich Wilhelm Weyland Burial]
 * xref:bios/pastors-at-immanuel.adoc[Pastors]
 * link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
