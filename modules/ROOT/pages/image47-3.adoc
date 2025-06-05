@@ -1,9 +1,9 @@
-= 1855 Johann Heinrich Bleeke Birth
+= 1855 Fridrich Wilhelm Bleeke Birth
 :page-role: doc-width
 
 == Citation
 
-The February 17, 1855, birth of Johann Heinrich Bleeke is entry #7 on <<image47, image 47>>, page 78, of the 
+The April 13, 1855, birth of Johann Heinrich Bleeke is entry #9 on <<image47, image 47>>, page 78, of the 
 "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository".
 
 include::image47.adoc[]
