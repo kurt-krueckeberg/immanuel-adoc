@@ -32,8 +32,8 @@
 * Confirmandenregister
 ** xref:image117.adoc[]
 * Leichenbegängnisse
-** xref:image229.adoc[1868 Christina Sophia Eleonore nee Krückeberg Thieme Burial]
-** xref:image229.adoc[1869 Christina Maria nee Schwier Bleeke Burial]
+** xref:image229-1.adoc[]
+** xref:image229-2.adoc[]
 ** xref:image230.adoc[1869 Christian Wilhelm Bleeke Burial]
 ** xref:image231.adoc[1874 Heinrich Wilhelm Weyland Burial]
 ** xref:image232.adoc[TODO: 4 Persons]
