@@ -1,0 +1,3 @@
+= 1859 Carl Fridrich Wilhelm Schamerloh Birth
+
+include::image49.adoc[]

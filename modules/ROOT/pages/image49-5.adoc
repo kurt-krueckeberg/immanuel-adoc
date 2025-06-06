@@ -1,0 +1,3 @@
+= 1860 Fridrich Christian Wilhelm Krückeberg Birth
+
+include::image49.adoc[]
