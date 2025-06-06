@@ -3,7 +3,7 @@
 *Taufregister* = *baptism register*. The baptism records follow a fixed format and use a fixed vocabulary with
 the definitions given below:
 
-[%header,width="65%",cols="1,3"]
+[%header,width="75%",cols="1,2"]
 |===
 |Word|Meaning
 

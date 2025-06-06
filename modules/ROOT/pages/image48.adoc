@@ -1,5 +1,5 @@
 
-image::image48.jpg[align="left",title="Image 48 (Click to enlarge),link=self]
+image::48.jpg[align="left",title="Image 48 (Click to enlarge),link=self]
 
 == Transliteration
 
