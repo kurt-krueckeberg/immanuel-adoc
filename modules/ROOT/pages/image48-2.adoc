@@ -3,7 +3,7 @@
 
 == Citation
 
-The October 1, 1858, birth of Maria Louise Bleeke is entry #15 on <<image48, image 48>>, page 79, of the 
+The October 1, 1858, birth of Johann Fridrich Thieme is entry #15 on <<image48, image 48>>, page 79, of the 
 "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository".
 
 include::image48.adoc[]
