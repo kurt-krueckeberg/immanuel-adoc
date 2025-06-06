@@ -1,6 +1,6 @@
 = Einleitung
 
-image::image4.jpg[align="left",title="Einleitung(Introduction)",link=self"]
+image::4.jpg[align="left",title="Einleitung(Introduction)",link=self"]
 
 == Transliteration
 
