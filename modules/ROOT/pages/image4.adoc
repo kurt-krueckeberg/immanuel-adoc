@@ -6,23 +6,24 @@ image::4.jpg[align="left",title="Einleitung(Introduction)",link=self"]
 == Transliteration
 
 ....
-Kirchenordnung.
+             Kirchenordnung
 
 der deutsch evangel. lutherischen St. Imanuels-
 
-Gemeinde
+              Gemeinde
 
-Indiana.
 
-Union Township Adams County
 
-1. A.
+      Union Township Adams County Indiana.
 
-Einleitung.
+               1. A. 
+
+             Einleitung.
+
 
 Da in einer christlichen Gemeinde dem Worte Gottes
 
-gemäß Alles ehrlich um ordentlich zugehen soll, (1 Mor 14, 4)
+gemäß Alles ehrlich um ordentlich zugehen soll, (1 Mor[Cor] 14, 4)
 
 so haben wir die Unterzeichneten Gemeindeglieder es für
 
@@ -34,9 +35,9 @@ der Verwaltung unserer inneren und außeren Angelegenheiten
 
 gehalten werden soll.
 
-k. A.
+              2. A.
 
-Name der Kirche und Gemeinde
+          Name der Kirche und Gemeinde
 
 Die Gemeinde soll heißen, und auch für künftige Zeiten sein
 
@@ -44,9 +45,9 @@ und bleiben, die Deutsch, evangel. lutherische St, Imma
 
 elsgemeinde, Union Township, Adams, County, Indiana
 
-3. A.
+               3. A.
 
-Bekenntniß der Gemeinde.
+          Bekenntniß der Gemeinde.
 
 Die Gemeinde bekennt sich zu den sämtlichen canonischen
 

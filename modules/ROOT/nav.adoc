@@ -20,7 +20,7 @@
 ** xref:bios/abraham-stendler.adoc[]
 ** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
 ** xref:bios/david-bibelheimer.adoc[]
-* Kiche Ordnung
+* Kichenordnung
 ** xref:image4.adoc[]
 * xref:taufregister.adoc[]
 ** xref:image46-1.adoc[]
