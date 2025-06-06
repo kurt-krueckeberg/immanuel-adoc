@@ -1,3 +1,8 @@
+
+image::image48.jpg[align="left",title="Image 48 (Click to enlarge),link=self]
+
+== Transliteration
+
 ....
 13.  Maria Louise                      +
 
@@ -39,3 +44,52 @@ geboren den 1ten October und getauft den 10t October 1858
 
    Pathen: Christian Schamerloh, u. Carl Krückeberg.
 ....
+
+== Transliteration
+
+....
+13.     Maria Louise                +
+
+     born the 4th of March and baptized the 28th of March 1858.
+
+           Carl Fridrich Wilhelm Bleeke
+     Parents:
+           Maria née Bibelheimer
+
+     Godparents: Maria Bibelheimer and Sophie Heckmann.
+
+15.     Johann Fridrich
+
+      born October 1st and baptized October 10th 1858
+
+          Johann Andreas Thieme +5/15/20
+       Parents:
+          Christine Sophie Eleonore née Krückeberg
+
+       Godparents: Johann Gottlieb Thieme and Johann Heinrich Krückelerg
+
+16.      Christine Elise
+
+      born on February 10th and baptized on February 27th 1859.
+                                                     +4/6/61
+             Christian Fridrich Bleeke
+        Parents:
+             Anna Maria née Ruß
+      Godparents: Elisabeth Rup and Christine Heckmann
+
+17.      Carl Wilhelm Christian
+
+      born April 25th and baptized May 8th 1859. +5/13/59
+
+            Carl Dietrich Wilhelm Schamerloh.
+      Parents:
+            Caroline Philippine née Krückeberg.
+
+      Godparents: Christian Schamerloh and Carl Krückeberg.
+....
+
+[bibliography]
+== Citation
+
+* [[[image48]]] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
+church, Image 48 of 242
