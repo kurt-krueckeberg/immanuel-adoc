@@ -64,7 +64,40 @@ of Christ and the adoring angels added.
 
 == Church Registry Suggested Table of Contents
 
-This is a suggested xref:attachment$toc-immanuel.pdf[Table of Contents] for the Immanuel Lutheran, Decatur, Indiana, Kirchenbuch.
+Table of Contents
+
+* image images 1 Book Cover
+
+* image images 3 Title Page Kirchenbuch … Imanuels Gemeinde
+
+* images 4-10 Kirchen Ordnung
+
+* images 11 Resolution Regarding Fees for New Members
+
+* images 12-16 Signees of the Church Constitution, 14 Dec 1858
+
+first was Johann HP Bleeke, then his son Christian Friedrich, then John H Krückeberg
+
+* images 18-36 Immanuel Church Biographies
+
+* images 37 Pastors of the Congregation, 1865-1950
+
+* images 38-44 Registry of Members or Voters
+
+* images 46-115 Baptisms, with parents & sponsors. Last is Gretchen Mathilda Bleeke, baptized images 9 July 1905
+	 	 Gretchen was grandmother of Steve & Todd
+
+* images 116-125 Registry of Confirmands, 1867-1905
+
+* images 126-195 Registry of Communicants
+
+* images 196-205 Marriages
+
+* images 206-228 appears to be a Record of Participation in Voting, e.g. present or absent
+
+* images 229-241 Death Registry
+
+* images 242 Back Cover
 
 NOTE: Page 38 (two marriages from 1905) was out of place. Page 38 needs to be
 moved into position 205. After you make this adjustment, the page numbers shown
