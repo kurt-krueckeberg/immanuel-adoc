@@ -1,3 +1,4 @@
 = 1860 Fridrich Wilhelm Thieme Birth
+:page-role: doc-width
 
 include::image49.adoc[]
