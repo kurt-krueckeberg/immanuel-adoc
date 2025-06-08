@@ -1,7 +1,7 @@
 = Einleitung
 :page-role: doc-width
 
-image::4.jpg[align="left",title="Einleitung(Introduction)",link=self"]
+image::4.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
 == Transliteration
 
