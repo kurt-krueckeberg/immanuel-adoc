@@ -7,7 +7,7 @@ NOTE: Only entries 7, 8 and 9 are shown.
 ....
 7.             Johann Heinrich
 
-+11/6/33 [in pencil]
+[+11/6/33]
 
         geboren den 17 Februar und getauft den 25 Februar 1855
      
@@ -21,32 +21,33 @@ NOTE: Only entries 7, 8 and 9 are shown.
 
          geboren den 9 April und getauft den 29 April 1855
 
-Mrs. Robt. Lee [in pencil]
+[Mrs. Robt. Lee]
 
-                   Johann Heinrich Wilhelm Carl Grote        
+                 Johann Heinrich Wilhelm Carl Grote        
           Eltern: 
-                   Carolina Philippina Dorothee geb: Krückeberg.
+                 Carolina Philippina Dorothee geb: Krückeberg.
 
        Pathen: Caroline Grote, Philippine Krückeberg und Leonore Bleeke. 
 
 9.            Friedrich Wilhelm
 
-+5/31/39 [in pencil]
+[+5/31/39]
+
          geboren den 13 April und getauft den 29 April 1855
 
-                   Carl Friedrich Wilhelm Bleeke 
+                 Carl Friedrich Wilhelm Bleeke 
           Eltern:
-                   Maria geboren Bibelheimer
+                 Maria geboren Bibelheimer
 
           Pathen: Johann Heinrich Bleeke, Christian Fridrich Bleeke und Wilhelm Heckmann
 
 11.           Caroline Christine
 
-+        geboren den 11ten September und getauft den 4ten Ocktober 1857.
+[+]        geboren den 11ten September und getauft den 4ten Ocktober 1857.
 
-+                  Johann Heinrich Wilhelm Carl Grote        
+[+]              Johann Heinrich Wilhelm Carl Grote        
           Eltern: 
-                   Carolina Philippina Dorothee geb: Krückeberg.
+                 Carolina Philippina Dorothee geb: Krückeberg.
 
        Pathen: Christine Krückeberg und Philippine Schamerloh. 
 ....
@@ -58,7 +59,7 @@ Mrs. Robt. Lee [in pencil]
 
 7.   Johann Heinrich
 
-+11/6/33 [in pencil]
+[+11/6/33]
 
       born 17 February and baptized 25 February 1855
 
@@ -72,7 +73,7 @@ Mrs. Robt. Lee [in pencil]
 
      born 9 April and baptized 29 April 1855
 
-Mrs. Robt. Lee [in pencil]
+[Mrs. Robt. Lee]
 
                    Johann Heinrich Wilhelm Carl Grote 
          Parents: 

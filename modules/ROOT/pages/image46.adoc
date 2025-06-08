@@ -15,7 +15,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
    geboren den 14 November und getauft den 8 December 1850
 
-                   Christian Fridrich Bleeke           +7/28/21   
+                   Christian Fridrich Bleeke           [+7/28/21]   
            Eltern
                    Louise geboren Valsing
 
@@ -25,7 +25,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
    geboren den 12 Januar und getauft den 16 Februar 1851
                    
-                   Heinrich Wilhelm Weÿland            +10/21/02   
+                   Heinrich Wilhelm Weÿland            [+10/21/02]   
            Eltern
                    Sophie Wilhelmine geb, Piehl 
 
@@ -35,7 +35,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
    geboren den 21 Februar und getauft den 1 März 1851
                    
-                   David Daniel Bibelheimer     Mrs. Hy Heier 
+                   David Daniel Bibelheimer     [Mrs. Hy Heier] 
            Eltern
                    Maria geboren Jähner 
 
@@ -45,7 +45,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
    geboren den 26 Februar und getauft den 12 März 1853
 
-                   Johann Heinrich Wilhelm Carl Gr[?]ote    +11/14/28 
+                   Johann Heinrich Wilhelm Carl Gr[?]ote    [+11/14/28] 
             Eltern
                    Caroline Philippine Dorothee geb. Krückeberg
 
@@ -55,7 +55,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
    geboren: den 27 März und getauft den 28 März 1853
 
-                    Christian Fridrich Bleeke              +5/4/34 
+                    Christian Fridrich Bleeke              [+5/4/34] 
              Eltern
                     Louise geboren Valsing
 
@@ -65,7 +65,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
    geboren den 5 Oktober und getauft den 5 November 1854
 
-                    Conrad Dietrich Ferdinand Reinking    +4/12/01 
+                    Conrad Dietrich Ferdinand Reinking    [+4/12/01]
              Eltern
                     Maria Louise Eleonore geb. Bleeke
 
@@ -80,7 +80,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
     born 14 November and baptized 8 December 1850
 
-                 Christian Fridrich Bleeke +7/28/21  
+                 Christian Fridrich Bleeke         [+7/28/21]  
            Parents
                  Louise born Valsing
 
@@ -92,7 +92,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
     born 12 January and baptized 16 February 1851
 
-                 Heinrich Wilhelm Weÿland +10/21/02  
+                 Heinrich Wilhelm Weÿland          [+10/21/02]  
            Parents
                  Sophie Wilhelmine née Piehl
 
@@ -102,7 +102,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
     born 21 February and baptized 1 March 1851
 
-                David Daniel Bibelheimer Mrs. Hy Heier 
+                David Daniel Bibelheimer           [Mrs. Hy Heier] 
            Parents
                 Maria born Jähner
 
@@ -112,7 +112,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
    born 26 February and baptized 12 March 1853
 
-                 Johann Heinrich Wilhelm Carl Gr[?]ote +11/14/28 
+                 Johann Heinrich Wilhelm Carl Gr[?]ote [+11/14/28] 
            Parents
                  Caroline Philippine Dorothee née Krückeberg
 
@@ -132,7 +132,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 
    born 5 October and baptized 5 November 1854
 
-                 Conrad Dietrich Ferdinand Reinking +4/12/01 
+                 Conrad Dietrich Ferdinand Reinking    [+4/12/01] 
             Parents
                   Maria Louise Eleonore née Bleeke
 
