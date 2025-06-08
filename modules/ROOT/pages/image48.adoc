@@ -4,7 +4,7 @@ image::48.jpg[align="left",title="Image 48 (Click to enlarge),link=self]
 == Transliteration
 
 ....
-13.  Maria Louise                      +
+13.  Maria Louise                      [+]
 
 geboren den 4ten März und getauft den 28t März 1858.
 
@@ -18,7 +18,7 @@ geboren den 4ten März und getauft den 28t März 1858.
 
 geboren den 1ten October und getauft den 10t October 1858
 
-          Johann Andreas Thieme                      +5/15/20
+          Johann Andreas Thieme                      [+5/15/20]
      Eltern
           Christine Sophie Eleonore geb. Krückeberg
 
@@ -27,7 +27,7 @@ geboren den 1ten October und getauft den 10t October 1858
 16.     Christine Elise
 
     geboren den 10ten Februar und getauft den 27ten Februar 1859.
-                                                     +4/6/61
+                                                     [+4/6/61]
           Christian Fridrich Bleeke
      Eltern
           Anna Maria geborene Ruß
@@ -36,7 +36,7 @@ geboren den 1ten October und getauft den 10t October 1858
 
 17.  Carl Wilhelm Christian
 
-   geboren den 25ten April und getauft den 8ten May 1859. +5/13/59
+   geboren den 25ten April und getauft den 8ten May 1859. [+5/13/59]
 
         Carl Dietrich Wilhelm Schamerloh.
    Eltern 
@@ -48,7 +48,7 @@ geboren den 1ten October und getauft den 10t October 1858
 == Transliteration
 
 ....
-13.     Maria Louise                +
+13.     Maria Louise                [+]
 
      born the 4th of March and baptized the 28th of March 1858.
 
@@ -62,7 +62,7 @@ geboren den 1ten October und getauft den 10t October 1858
 
       born October 1st and baptized October 10th 1858
 
-          Johann Andreas Thieme +5/15/20
+          Johann Andreas Thieme [+5/15/20]
        Parents:
           Christine Sophie Eleonore née Krückeberg
 
@@ -71,7 +71,7 @@ geboren den 1ten October und getauft den 10t October 1858
 16.      Christine Elise
 
       born on February 10th and baptized on February 27th 1859.
-                                                     +4/6/61
+                                                     [+4/6/61]
              Christian Fridrich Bleeke
         Parents:
              Anna Maria née Ruß
@@ -79,7 +79,7 @@ geboren den 1ten October und getauft den 10t October 1858
 
 17.      Carl Wilhelm Christian
 
-      born April 25th and baptized May 8th 1859. +5/13/59
+      born April 25th and baptized May 8th 1859. [+5/13/59]
 
             Carl Dietrich Wilhelm Schamerloh.
       Parents:

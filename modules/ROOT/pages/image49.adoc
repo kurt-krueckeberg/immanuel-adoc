@@ -7,7 +7,7 @@ NOTE: The later penciled-in addenda that begin with "+" signify the date of deat
 Penciled-in names apparently signify the name of an individual's eventual spouse.
 
 ....
-+5/18/32 [pencil]
+[+5/18/32] 
 
 19.      Carl Fridrich Wilhelm
 
@@ -20,10 +20,10 @@ Penciled-in names apparently signify the name of an individual's eventual spouse
      Pathen: Carl Dietrich Wilhelm Schamerich u. Carl Heinrich Wilh. Kruckeberg
 
 
-+? [pencil]
+[+?] 
 20.      Caroline Elisabeth
 
-E.C. Gallmeier [pencil]
+E.C. Gallmeier 
 
      geboren den 1t November und getauft den 20t Novemb. 1859.
          
@@ -37,7 +37,7 @@ E.C. Gallmeier [pencil]
 
 21.      Maria Elise
 
-+3/10/95 [pencil]
+[+3/10/95] 
 
      geboren den 23sten Juni und getauft den 8te Juli 1860
          
@@ -49,7 +49,7 @@ E.C. Gallmeier [pencil]
 
 22.      Fridrich Wilhelm
 
-+ [pencil]
++ 
 
      geboren den 16t Juli und getauft den 29ten Juli 1860.
          
@@ -61,7 +61,7 @@ E.C. Gallmeier [pencil]
 
 23.      Fridrich Christian Wilhelm
 
-+2/1/40 [pencil]
+[+2/1/40] 
 
      geboren den 30ten September und getauft den 6t October 1860
          
@@ -73,7 +73,7 @@ E.C. Gallmeier [pencil]
 
 24.      Carl Wilhelm Christian
 
-+1/2/62
+[+1/2/62]
 
      geboren den 15ten September und getauft den 6 October 1860
          
@@ -87,7 +87,7 @@ E.C. Gallmeier [pencil]
 == Transliteration
 
 ....
-+5/18/32 [pencil]
+[+5/18/32] 
 
 19.       Carl Fridrich Wilhelm
 
@@ -99,10 +99,10 @@ E.C. Gallmeier [pencil]
     
     Godparents: Carl Dietrich Wilhelm Schamerich and Carl Heinrich Wilh. Kruckeberg
 
-+? [pencil]         
+[+?]          
 20.      Caroline Elisabeth
 
-E.C. Gallmeier [pencil]
+E.C. Gallmeier 
 
     born on November 1st and baptized on November 20th, 1859.
     
@@ -116,7 +116,7 @@ E.C. Gallmeier [pencil]
          
 21.      Maria Elise
 
-+3/10/95 [pencil]
+[+3/10/95] 
 
     born on June 23rd and baptized on July 8th, 1860
     
@@ -128,7 +128,7 @@ E.C. Gallmeier [pencil]
          
 22.      Fridrich Wilhelm
 
-+ [pencil]
+[+] 
 
     born on July 16th and baptized on July 29th, 1860.
     
@@ -140,7 +140,7 @@ E.C. Gallmeier [pencil]
          
 23.      Fridrich Christian Wilhelm
 
-+2/1/40 [pencil]
+[+2/1/40] 
 
     born on September 30th and baptized on October 6th, 1860
     
@@ -152,7 +152,7 @@ E.C. Gallmeier [pencil]
          
 24.      Carl Wilhelm Christian
 
-+1/2/62
+[+1/2/62]
 
     born on September 15th and baptized on October 6th, 1860
     
