@@ -6,6 +6,7 @@ image::4.jpg[align="left",title="Einleitung(Introduction)",link=self]
 [.narrow-width]
 == Transliteration
 
+----
              Kirchenordnung
 
 der deutsch evangel. lutherischen St. Imanuels-
@@ -50,3 +51,4 @@ das nicänische, das athanasische Sÿmbolum; der ungeänderte augs-
 burgische Confession, deren Apologi (oder Schutzschrift) die schmal-
 kaltischen Artikel, D. Luthers größer um kleiner Catechis-
 muß und die Concordienformel.
+----
