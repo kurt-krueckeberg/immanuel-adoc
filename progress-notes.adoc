@@ -1,3 +1,10 @@
+= Progress
+
+== Currently
+
+Currently working on 3rd Bedingung of image 5.
+
+== Also to Do
 
 * Make image6.doc original German match text asppearance in image.
 

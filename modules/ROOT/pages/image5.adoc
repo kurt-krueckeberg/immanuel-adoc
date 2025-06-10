@@ -1,0 +1,25 @@
+= Image 5, Page ?
+
+.Original German
+....
+              4. A.
+Bedingungen der Aufnahme in die Gemeinde.
+
+a.) Es kann niemand Glied der Gemeinde werden als wer,
+getauft ist.
+b.) sich zur hl[heiligen]. Schrift alten und neuen Testaments als Got-
+tes geoffenbarten Worte als Regel und Richtschnur des
+Glaubens und Lebens, und zu den Artickel 3 angeführten
+Bekentnißschriften der lutherischen Kirche bescheint.
+....
+
+.Corrected German
+....
+Bedingungen der Aufnahme in die Gemeinde.
+
+a.) Es kann niemand Glied der Gemeinde werden, als wer
+getauft ist.
+b) ich zur Heiligen Schrift des Alten und Neuen Testaments als Gottes
+offenbartem Wort, als Regel und Richtschnur für Glauben und Leben, und zu den
+in Artikel 3 genannten Bekenntnisschriften der lutherischen Kirche bekennt.
+....
