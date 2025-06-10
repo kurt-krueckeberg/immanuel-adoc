@@ -1,5 +1,5 @@
 = Image 6, Page ?
-//:page-role: doc-width
+:page-role: doc-width
 
 image::6.jpg[align="left",title="Click to Enlarge",link=self]
 
@@ -89,7 +89,7 @@ und nach Gottes Wort unterrichten und zur Buße, zum Glauben und zum frommen Leb
 ermahnen mit aller Geduld.
 ....
 
-//[.narrow-width]
+[.narrow-width]
 == English Translation
 
 ===  7. Article: Expulsion, withdrawal from or separation from the congregation
