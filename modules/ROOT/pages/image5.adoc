@@ -1,6 +1,11 @@
 = Image 5, Page ?
+:page-role: doc-width
+
+image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
+
 
 .Original German
+[role="literal-max-width"]
 ....
               4. A.
 Bedingungen der Aufnahme in die Gemeinde.
@@ -18,7 +23,9 @@ Haus und auf dem Felde zu wandeln gesonnen ist
 ....
 
 .Modern German
+[role="literal-max-width"]
 ....
+              4. A.
 Bedingungen der Aufnahme in die Gemeinde.
 
 a.) Es kann niemand Glied der Gemeinde werden, als wer
