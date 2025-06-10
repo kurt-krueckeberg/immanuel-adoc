@@ -3,7 +3,7 @@ body.doc-width .doc
    max-width: 80rem;  /* Changing this to 'none' widens the page */
 }
 
-/* used in: [role="literal-max-width"]
+/* used in: [role="literal-max-width"] */
 .literal-max-width {
     max-width: 87ch;
     border-left: 3px solid #ccc; /* A visual separator */ 
