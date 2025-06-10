@@ -4,7 +4,7 @@ body.doc-width .doc
 }
 
 .narrow-width {
-  max-width: 60rem;
+  max-width: 50rem;
 }
 
 @media screen and (min-width:1024px) {
