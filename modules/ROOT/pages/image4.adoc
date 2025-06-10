@@ -5,6 +5,7 @@ image::4.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
 == Transliteration
 
+[.narrow-width]
 ----
              Kirchenordnung
 
