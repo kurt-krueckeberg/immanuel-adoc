@@ -1,10 +1,11 @@
-= Image 6, Page ?
+= Image 6, Page 8
 :page-role: doc-width
 
 image::6.jpg[align="left",title="Click to Enlarge",link=self]
 
 == Conservatively Transliterated Version
 
+[role="literal-max-width"]
 ....
                     7. Ar.
 Ausschluß, Austritt aus oder Trennung von der Gemeinde

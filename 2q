@@ -3,8 +3,18 @@ body.doc-width .doc
    max-width: 80rem;  /* Changing this to 'none' widens the page */
 }
 
-.narrow-width {
-  max-width: 60rem;
+.original-german {
+
+    max-width: 85ch; /* Make it narrower */
+    margin-left: auto;
+    margin-right: auto;
+
+    border-left: 3px solid #ccc; /* A visual separator */ 
+    padding: 1em;
+/*
+    font-size: 0.9em; 
+    background-color: #f8f8f8; // A subtle background 
+*/
 }
 
 @media screen and (min-width:1024px) {
