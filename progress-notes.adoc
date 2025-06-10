@@ -1,0 +1,4 @@
+
+* Make image6.doc original German match text asppearance in image.
+
+* Adjust the 'literal-max-width' accordingly.
