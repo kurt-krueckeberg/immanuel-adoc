@@ -4,7 +4,10 @@ body.doc-width .doc
 }
 
 .narrow-width {
-  max-width: 50rem;
+    max-width: 100ch; /* 700px; Or use '60ch' for character-based width */
+    margin-left: auto; /* Centers the block horizontally */
+    margin-right: auto; /* Centers the block horizontally */
+    text-align: left; /* Keep text aligned left within the centered block, or use 'center' if you want the text itself to be centered */
 }
 
 @media screen and (min-width:1024px) {
