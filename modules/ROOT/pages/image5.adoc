@@ -5,7 +5,7 @@ image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
 
 .Original German
-[role="literal-max-width"]
+[role="literal-width-87ch"]
 ....
               4. A.
 Bedingungen der Aufnahme in die Gemeinde.

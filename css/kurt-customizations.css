@@ -4,9 +4,18 @@ body.doc-width .doc
 }
 
 /* used in: [role="literal-max-width"] */
-.literal-max-width {
+.literal-width-87ch {
     max-width: 87ch;
     border-left: 3px solid #ccc; /* A visual separator */ 
+}
+
+.section-width-87ch {
+    max-width: 87ch;
+}
+
+.image-width {
+
+   max-width: 80rem;  /* Changing this to 'none' widens the page */
 }
 
 @media screen and (min-width:1024px) {

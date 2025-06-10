@@ -5,7 +5,7 @@ image::06.jpg[align="left",title="Click to Enlarge",link=self]
 
 == Conservatively Transliterated Version
 
-[role="literal-max-width"]
+[role="literal-width-87ch"]
 ....
                     7. Ar.
 Ausschluß, Austritt aus oder Trennung von der Gemeinde
@@ -49,7 +49,7 @@ ermahnen mit aller Geduld.
 
 == Modernized German Version
 
-[role="literal-max-width"]
+[role="literal-width-87ch"]
 ....
                     7. Ar.
 Ausschluß, Austritt aus oder Trennung von der Gemeinde
@@ -91,6 +91,7 @@ und nach Gottes Wort unterrichten und zur Buße, zum Glauben und zum frommen Leb
 ermahnen mit aller Geduld.
 ....
 
+[role="section-width-87ch"]
 == English Translation
 
 ===  7. Article: Expulsion, withdrawal from or separation from the congregation
