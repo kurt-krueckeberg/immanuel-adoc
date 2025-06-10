@@ -49,6 +49,7 @@ ermahnen mit aller Geduld.
 
 == Modernized German Version
 
+[role="literal-max-width"]
 ....
                     7. Ar.
 Ausschluß, Austritt aus oder Trennung von der Gemeinde
@@ -90,7 +91,6 @@ und nach Gottes Wort unterrichten und zur Buße, zum Glauben und zum frommen Leb
 ermahnen mit aller Geduld.
 ....
 
-[.narrow-width]
 == English Translation
 
 ===  7. Article: Expulsion, withdrawal from or separation from the congregation
