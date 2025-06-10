@@ -1,4 +1,5 @@
 = Image 6, Page ?
+:page-role: doc-width
 
 image::6.jpg[align="left",title+"Click to Enlarge",link=self]
 
