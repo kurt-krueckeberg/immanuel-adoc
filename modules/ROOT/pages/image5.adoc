@@ -29,7 +29,6 @@ Schulehrers Kirche und Schule, und was sonst noch für Ausgaben sein, beizutrage
 gesonnen ist.
   
                      5. Ar.
-
                Stimm und Wahlfähigkeit.
 
 Wählbar zu einem Amte in der Gemeinde sind alle diejenigen männlichen Mitglieder,
@@ -39,7 +38,10 @@ erfüllt haben, mit zurücklegung daselben Jahres sie auch die Ordnung, zum Zeic
 ihrer Übereinstimmung, zu unterschreiben haben.
 
                      6. Ar.
-TODO
+               Gewalt der Gemeinde
+
+Die Gemeinde in ihrer Gesamtheit hat die oberste und höchste Gewalt der innern und
+aussern Verwaltung der kirchlichen und Gemeindeangelegenheiten, und alle Beamten.
 ....
 
 == In Modern German
@@ -76,7 +78,11 @@ Lebensjahr erfüllt haben und die Ordnung zum Zeichen ihrer Übereinstimmung in
 demselben Jahr auch zu unterschreiben haben.
 
                      6. Ar.
-TODO
+              Gewalt der Gemeinde
+
+Die Gemeinde in ihrer Gesamtheit hat die oberste und höchste Gewalt über die
+innere und äußere Verwaltung der kirchlichen und Gemeindeangelegenheiten, sowie
+über alle Beamten.
 ....
 
 == English Translation
@@ -108,4 +114,8 @@ least one year. All those who have completed their 21^st^ year of life are eligi
 to vote, and upon completing that same year, they also have to sign the bylaws
 as a sign of their agreement.
 
-===  6. Ar. TODO
+===  6^th^ Article Authority of the Congregation
+
+The congregation in its entirety has the supreme and highest authority over the
+internal and external administration of church and congregational affairs, as
+well as over all officials.
