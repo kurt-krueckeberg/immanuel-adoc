@@ -3,7 +3,7 @@
 
 image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
-== Original German
+== Conservatively Transliterated Version
 [role="literal-width-87ch"]
 ....
               4. A.
@@ -37,3 +37,15 @@ sondern vielmehr dem weltlichen Wesen absagt und in der Kraft
 des Heiligen Geistes – wie es den Heiligen zusteht – daheim
 und auf dem Feld zu wandeln gesonnen ist
 ....
+
+== English Translation
+
+a.) No one can become a member of the congregation unless he has been baptized.
+
+b) I confess the Holy Scriptures of the Old and New Testaments as God's
+revealed Word, as a rule and guideline for faith and life, and the
+confessional writings of the Lutheran Church mentioned in Article 3.
+c.) does not live in the revealed works of the flesh (Gal 5:19),
+but rather renounces the worldly nature and is willing to walk at home
+and in the field in the power of the Holy Spirit - as is fitting for the
+saints.
