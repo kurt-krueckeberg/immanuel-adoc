@@ -1,4 +1,5 @@
-.xref:index.adoc[]
+//.xref:index.adoc[]
+.Immanuel Kirchenbuch
 * Founders 
 ** xref:bios/jhp-bleeke.adoc[]
 ** xref:bios/johann-heinrich-krueckeberg.adoc[]
