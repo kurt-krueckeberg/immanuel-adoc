@@ -1,0 +1,3 @@
+= Cover Page
+
+image::3.jpg[aslign="left",title="Cover page (Click to Enlarge),link=self]

@@ -1,5 +1,11 @@
 //.xref:index.adoc[]
 .Immanuel Kirchenbuch
+* xref:cover-page.adoc[]
+* Kichenordnung
+** xref:image4.adoc[]
+** xref:image5.adoc[]
+** xref:image6.adoc[]
+** xref:image7.adoc[]
 * Founders 
 ** xref:bios/jhp-bleeke.adoc[]
 ** xref:bios/johann-heinrich-krueckeberg.adoc[]
@@ -22,11 +28,6 @@
 ** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
 ** xref:bios/david-bibelheimer.adoc[]
 * xref:bios/pastors-at-immanuel.adoc[Pastors]
-* Kichenordnung
-** xref:image4.adoc[]
-** xref:image5.adoc[]
-** xref:image6.adoc[]
-** xref:image7.adoc[]
 * xref:taufregister.adoc[]
 ** xref:image46-1.adoc[]
 ** xref:image46-2.adoc[]
