@@ -4,7 +4,8 @@
 image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
 == Conservatively Transliterated Version
-[role="literal-width-87ch"]
+
+[role="literal-narrower"]
 ....
                      4. A.
       Bedingungen der Aufnahme in die Gemeinde.
@@ -28,6 +29,8 @@ f.) auch unter Verhältnißen nach Vermögen zur Unterhaltung
 des Predigamtes, Schulehrers Kirche und Schule, und was
 sonst noch für Ausgaben sein, beizutragen gesonnen
 ist.
+____
+
   
                      5. Ar.
                Stimm und Wahlfähigkeit.
@@ -49,7 +52,8 @@ kirchlichen und Gemeindeangelegenheiten, und alle Beamten.
 ....
 
 == In Modern German
-[role="literal-width-87ch"]
+
+[role="literal-narrower"]
 ....
                      4. A.
       Bedingungen der Aufnahme in die Gemeinde.
@@ -89,9 +93,9 @@ innere und äußere Verwaltung der kirchlichen und Gemeindeangelegenheiten, sowi
 über alle Beamten.
 ....
 
+[role="section-narrower"]
 == English Translation
 
-[role="section-width-87ch"]
 === 4^th^ Article: Conditions of admission to the congregation.
 
 No one can become a member of the congregation unless he
@@ -112,7 +116,6 @@ f. is also willing, according to his circumstances and his means, to contribute
 to the maintenance of the preacher's office, the school teacher, the church and
 school, and all other expenses.
   
-[role="literal-width-87ch"]
 ===  5^th^ Article: Right to vote and right to be elected
 
 Eligible for an office in the congregation are all male members who have
@@ -121,7 +124,6 @@ least one year. All those who have completed their 21^st^ year of life are eligi
 to vote, and upon completing that same year, they also have to sign the bylaws
 as a sign of their agreement.
 
-[role="literal-width-87ch"]
 ===  6^th^ Article: Authority of the Congregation
 
 The congregation in its entirety has the supreme and highest authority over the
