@@ -9,8 +9,8 @@ image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
                      4. A.
       Bedingungen der Aufnahme in die Gemeinde.
 
-a.) Es kann niemand Glied der Gemeinde werden als wer,
-getauft ist.
+Es kann niemand Glied der Gemeinde werden als wer,
+a.) getauft ist.
 b.) sich zur hl. Schrift alten und neuen Testaments als Got-
 tes geoffenbarten Worte als Regel und Richtschnur des
 Glaubens und Lebens, und zu den Artickel 3 angeführten
@@ -50,8 +50,8 @@ aussern Verwaltung der kirchlichen und Gemeindeangelegenheiten, und alle Beamten
                      4. A.
       Bedingungen der Aufnahme in die Gemeinde.
 
-a.) Es kann niemand Glied der Gemeinde werden, als wer
-getauft ist.
+Es kann niemand Glied der Gemeinde werden, als wer
+a.) getauft ist.
 b) ich zur Heiligen Schrift des Alten und Neuen Testaments als Gottes
 offenbartem Wort, als Regel und Richtschnur für Glauben und Leben, und zu den
 in Artikel 3 genannten Bekenntnisschriften der lutherischen Kirche bekennt.
@@ -90,8 +90,9 @@ innere und äußere Verwaltung der kirchlichen und Gemeindeangelegenheiten, sowi
 [role="section-width-87ch"]
 === 4^th^ Article Conditions of admission to the congregation.
 
-a.) No one can become a member of the congregation unless he has been baptized.
-b) I confess the Holy Scriptures of the Old and New Testaments as God's
+No one can become a member of the congregation unless he
+a.) has been baptized.
+b.) I confess the Holy Scriptures of the Old and New Testaments as God's
 revealed Word, as a rule and guideline for faith and life, and the
 confessional writings of the Lutheran Church mentioned in Article 3.
 c.) does not live in the revealed works of the flesh (Gal 5:19),
