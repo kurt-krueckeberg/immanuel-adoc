@@ -1,7 +1,7 @@
 = Image 7, Page 9
 :page-role: doc-width
 
-image::07.jpg[align="left",title="Click to Enlarge",link=self]
+image::7.jpg[align="left",title="Click to Enlarge",link=self]
 
 == Conservatively Transliterated Version
 
