@@ -3,7 +3,6 @@
 
 image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
-
 .Original German
 [role="literal-width-87ch"]
 ....
