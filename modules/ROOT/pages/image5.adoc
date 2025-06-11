@@ -11,7 +11,7 @@ image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
 a.) Es kann niemand Glied der Gemeinde werden als wer,
 getauft ist.
-b.) sich zur hl[heiligen]. Schrift alten und neuen Testaments als Got-
+b.) sich zur hl. Schrift alten und neuen Testaments als Got-
 tes geoffenbarten Worte als Regel und Richtschnur des
 Glaubens und Lebens, und zu den Artickel 3 angeführten
 Bekentnißschriften der lutherischen Kirche bescheint.
@@ -29,6 +29,17 @@ Schulehrers Kirche und Schule, und was sonst noch für Ausgaben sein, beizutrage
 gesonnen ist.
   
                      5. Ar.
+
+               Stimm und Wahlfähigkeit.
+
+Wählbar zu einem Amte in der Gemeinde sind alle diejenigen männlichen Mitglieder,
+die das 23 Lebensjahr zurückgeleget haben und wenigstens ein Jahr Gemeindeglieder
+gewesen sind. Aber stimmberechtigt sind alle, die welche das 21te Lebensjahr
+erfüllt haben, mit zurücklegung daselben Jahres sie auch die Ordnung, zum Zeichen
+ihrer Übereinstimmung, zu unterschreiben haben.
+
+                     6. Ar.
+TODO
 ....
 
 == In Modern German
@@ -56,6 +67,16 @@ Unterhaltung des Predigtamtes, des Schullehrers, der Kirche und Schule, und
 aller sonstigen Ausgaben, beizutragen.
   
                      5. Ar.
+             Stimm- und Wahlfähigkeit
+
+Wählbar zu einem Amt in der Gemeinde sind alle diejenigen männlichen
+Mitglieder, die das 23. Lebensjahr zurückgelegt haben und wenigstens ein Jahr
+Gemeindeglieder gewesen sind. Stimmberechtigt aber sind alle, die das 21.
+Lebensjahr erfüllt haben und die Ordnung zum Zeichen ihrer Übereinstimmung in
+demselben Jahr auch zu unterschreiben haben.
+
+                     6. Ar.
+TODO
 ....
 
 == English Translation
@@ -64,7 +85,6 @@ aller sonstigen Ausgaben, beizutragen.
 === 4^th^ Article Conditions of admission to the congregation.
 
 a.) No one can become a member of the congregation unless he has been baptized.
-
 b) I confess the Holy Scriptures of the Old and New Testaments as God's
 revealed Word, as a rule and guideline for faith and life, and the
 confessional writings of the Lutheran Church mentioned in Article 3.
@@ -80,4 +100,12 @@ f.) is also willing, according to his circumstances and his means, to contribute
 to the maintenance of the preacher's office, the school teacher, the church and
 school, and all other expenses.
   
-===  5^th^ Article .....
+===  5^th^ Article Right to vote and right to be elected
+
+Eligible for an office in the congregation are all male members who have
+completed their 23rd year of life and have been congregational members for at
+least one year. All those who have completed their 21^st^ year of life are eligible
+to vote, and upon completing that same year, they also have to sign the bylaws
+as a sign of their agreement.
+
+===  6. Ar. TODO
