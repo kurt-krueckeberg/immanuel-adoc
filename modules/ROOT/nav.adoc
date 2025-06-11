@@ -1,5 +1,5 @@
 .xref:index.adoc[]
-* xref:founders.adoc[]
+* Founders 
 ** xref:bios/jhp-bleeke.adoc[]
 ** xref:bios/johann-heinrich-krueckeberg.adoc[]
 ** xref:bios/johann-heinrich-wilhelm-carl-grote.adoc[]
