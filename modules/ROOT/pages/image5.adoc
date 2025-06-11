@@ -6,7 +6,8 @@ image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 == Conservatively Transliterated Version
 [role="literal-width-87ch"]
 ....
-
+                     4. A.
+      Bedingungen der Aufnahme in die Gemeinde.
 
 a.) Es kann niemand Glied der Gemeinde werden als wer,
 getauft ist.
@@ -34,7 +35,7 @@ gesonnen ist.
 [role="literal-width-87ch"]
 ....
                      4. A.
-Bedingungen der Aufnahme in die Gemeinde.
+      Bedingungen der Aufnahme in die Gemeinde.
 
 a.) Es kann niemand Glied der Gemeinde werden, als wer
 getauft ist.
