@@ -92,7 +92,7 @@ innere und äußere Verwaltung der kirchlichen und Gemeindeangelegenheiten, sowi
 == English Translation
 
 [role="section-width-87ch"]
-=== 4^th^ Article Conditions of admission to the congregation.
+=== 4^th^ Article: Conditions of admission to the congregation.
 
 No one can become a member of the congregation unless he
 
@@ -113,7 +113,7 @@ to the maintenance of the preacher's office, the school teacher, the church and
 school, and all other expenses.
   
 [role="literal-width-87ch"]
-===  5^th^ Article Right to vote and right to be elected
+===  5^th^ Article: Right to vote and right to be elected
 
 Eligible for an office in the congregation are all male members who have
 completed their 23rd year of life and have been congregational members for at
@@ -122,7 +122,7 @@ to vote, and upon completing that same year, they also have to sign the bylaws
 as a sign of their agreement.
 
 [role="literal-width-87ch"]
-===  6^th^ Article Authority of the Congregation
+===  6^th^ Article: Authority of the Congregation
 
 The congregation in its entirety has the supreme and highest authority over the
 internal and external administration of church and congregational affairs, as
