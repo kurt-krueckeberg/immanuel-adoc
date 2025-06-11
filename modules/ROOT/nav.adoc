@@ -21,6 +21,7 @@
 ** xref:bios/abraham-stendler.adoc[]
 ** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
 ** xref:bios/david-bibelheimer.adoc[]
+* xref:bios/pastors-at-immanuel.adoc[Pastors]
 * Kichenordnung
 ** xref:image4.adoc[]
 ** xref:image5.adoc[]
@@ -54,5 +55,4 @@
 ** xref:image230.adoc[1869 Christian Wilhelm Bleeke Burial]
 ** xref:image231.adoc[1874 Heinrich Wilhelm Weyland Burial]
 ** xref:image232.adoc[TODO: 4 Persons]
-* xref:bios/pastors-at-immanuel.adoc[Pastors]
 * link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
