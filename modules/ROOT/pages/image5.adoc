@@ -6,8 +6,7 @@ image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 == Conservatively Transliterated Version
 [role="literal-width-87ch"]
 ....
-                    4. A.
-Bedingungen der Aufnahme in die Gemeinde.
+
 
 a.) Es kann niemand Glied der Gemeinde werden als wer,
 getauft ist.
@@ -28,7 +27,7 @@ f.) auch unter Verhältnißen nach Vermögen zur Unterhaltung des Predigamtes,
 Schulehrers Kirche und Schule, und was sonst noch für Ausgaben sein, beizutragen
 gesonnen ist.
   
-                    5. Ar.
+                     5. Ar.
 ....
 
 == In Modern German
@@ -55,13 +54,13 @@ f.) auch bereit ist, unter seinen Verhältnissen und nach seinem Vermögen zur
 Unterhaltung des Predigtamtes, des Schullehrers, der Kirche und Schule, und
 aller sonstigen Ausgaben, beizutragen.
   
-                    5. Ar.
+                     5. Ar.
 ....
 
 == English Translation
 
 [role="section-width-87ch"]
-=== 4. A. Conditions of admission to the congregation.
+=== 4^th^ Article Conditions of admission to the congregation.
 
 a.) No one can become a member of the congregation unless he has been baptized.
 
@@ -80,4 +79,4 @@ f.) is also willing, according to his circumstances and his means, to contribute
 to the maintenance of the preacher's office, the school teacher, the church and
 school, and all other expenses.
   
-===  5. Ar.
+===  5^th^ Article .....
