@@ -4,7 +4,8 @@
 image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
 
-.Original German
+== Original German
+
 [role="literal-width-87ch"]
 ....
               4. A.
@@ -22,7 +23,8 @@ der Kraft des hl[heiligen] Geistes, wie es den Heiligen zustehet, zu
 Haus und auf dem Felde zu wandeln gesonnen ist
 ....
 
-.Modern German
+== In Modern German
+
 [role="literal-max-width"]
 ....
               4. A.
