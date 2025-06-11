@@ -1,0 +1,37 @@
+= Image 7, Page 9
+:page-role: doc-width
+
+image::07.jpg[align="left",title="Click to Enlarge",link=self]
+
+== Conservatively Transliterated Version
+
+[role="literal-narrower"]
+....
+9
+
+
+e.) Er soll von einem rechtgläubigen Prediger ordinirt oder
+eingeführt und auf die in Ar. 3 genanten Bekentnißschriften
+verpflichtet werden.
+
+f.) Er soll in der Kirche eine rechtgläubige Agende brauchen, und
+daraus auch seine besondern Amthandlungen verrichten.
+....
+
+== Contemporay German Version
+
+[role="literal-narrower"]
+....
+9
+
+
+e.) Er soll von einem rechtgläubigen Prediger ordiniert oder eingeführt und auf
+die in Artikel 3 genannten Bekenntnisschriften verpflichtet werden.
+
+f.) Er soll in der Kirche eine rechtgläubige Agende verwenden, und daraus auch
+seine besonderen Amtshandlungen verrichten.	
+....
+
+[role="section-narrower"]
+== English Translation
+
