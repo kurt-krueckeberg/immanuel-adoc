@@ -3,8 +3,8 @@
 
 image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
-.Original German
 [role="literal-width-87ch"]
+.Original German
 ....
               4. A.
 Bedingungen der Aufnahme in die Gemeinde.
@@ -21,8 +21,8 @@ der Kraft des hl[heiligen] Geistes, wie es den Heiligen zustehet, zu
 Haus und auf dem Felde zu wandeln gesonnen ist
 ....
 
-.In Modern German
 [role="literal-max-width"]
+.In Modern German
 ....
               4. A.
 Bedingungen der Aufnahme in die Gemeinde.
