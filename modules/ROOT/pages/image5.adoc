@@ -1,4 +1,4 @@
-= Image 5, Page ?
+= Image 5, Page 7
 :page-role: doc-width
 
 image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
