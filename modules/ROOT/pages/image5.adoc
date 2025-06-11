@@ -6,7 +6,7 @@ image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 == Conservatively Transliterated Version
 [role="literal-width-87ch"]
 ....
-              4. A.
+                    4. A.
 Bedingungen der Aufnahme in die Gemeinde.
 
 a.) Es kann niemand Glied der Gemeinde werden als wer,
@@ -19,12 +19,22 @@ c.) nicht in offenbaren Werken des Fleisches lebt (Gab 5,19)
 sondern vielmehr einem weltlichen Wesen abzusagen und in
 der Kraft des hl[heiligen] Geistes, wie es den Heiligen zustehet, zu
 Haus und auf dem Felde zu wandeln gesonnen ist
+d.) sich den bereits gemeinschaftlich festgestellten und etwa noch
+zu treffenden Bestimmungen, so sie dem Worte Gottes nicht zuwider sind,
+unterwirft.
+e.) sich in brüderlicher Liebe zurecht weisen lassen will wenn er fehlt,
+oder vermeintlich gefehlt hat.
+f.) auch unter Verhältnißen nach Vermögen zur Unterhaltung des Predigamtes,
+Schulehrers Kirche und Schule, und was sonst noch für Ausgaben sein, beizutragen
+gesonnen ist.
+  
+                    5. Ar.
 ....
 
 == In Modern German
 [role="literal-width-87ch"]
 ....
-              4. A.
+                     4. A.
 Bedingungen der Aufnahme in die Gemeinde.
 
 a.) Es kann niemand Glied der Gemeinde werden, als wer
@@ -35,7 +45,17 @@ in Artikel 3 genannten Bekenntnisschriften der lutherischen Kirche bekennt.
 c.) nicht in den offenbaren Werken des Fleisches lebt (Gal 5,19),
 sondern vielmehr dem weltlichen Wesen absagt und in der Kraft
 des Heiligen Geistes – wie es den Heiligen zusteht – daheim
-und auf dem Feld zu wandeln gesonnen ist
+und auf dem Feld zu wandeln gesonnen ist.
+d.) sich den bereits gemeinschaftlich festgestellten und etwa noch
+zu treffenden Bestimmungen, so sie dem Worte Gottes nicht zuwider sind,
+unterwirft.
+e.) sich in brüderlicher Liebe zurechtweisen lassen will, wenn er fehlt oder
+vermeintlich gefehlt hat.
+f.) auch bereit ist, unter seinen Verhältnissen und nach seinem Vermögen zur
+Unterhaltung des Predigtamtes, des Schullehrers, der Kirche und Schule, und
+aller sonstigen Ausgaben, beizutragen.
+  
+                    5. Ar.
 ....
 
 == English Translation
@@ -52,21 +72,12 @@ c.) does not live in the revealed works of the flesh (Gal 5:19),
 but rather renounces the worldly nature and is willing to walk at home
 and in the field in the power of the Holy Spirit - as is fitting for the
 saints.
-
-[role="section-width-87ch"]
-=== Of the Pastor
-
-No preacher shall be accepted who is not affiliated with a recognized orthodox consistory or synod here or in Germany
-and who cannot present good testimonies from these bodies regarding their passed examination and their conduct.
-
-a) They shall preach the Word of God purely and clearly and expound it according to the confessional writings mentioned
-in Article 3. They shall be an example to the congregation with their life and conduct.
-
-b) They shall be a shining
-example to the congregation with their life and conduct.
-
-c) They shall diligently teach children God's Word and the
-Lutheran Small Catechism.
-
-d) They shall faithfully attend to individual souls and instruct them according to their
-needs, using and following God's Word, and shall exhort them with all patience to repentance, faith, and a pious life.
+d.) submits to the already communally established and any yet-to-be-made
+stipulations, as long as they are not contrary to the Word of God.
+e.) is willing to be admonished in brotherly love if he errs, or supposedly
+has erred.
+f.) is also willing, according to his circumstances and his means, to contribute
+to the maintenance of the preacher's office, the school teacher, the church and
+school, and all other expenses.
+  
+===  5. Ar.
