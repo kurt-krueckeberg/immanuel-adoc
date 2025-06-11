@@ -91,7 +91,7 @@ Schmalkaldischen Artikel, D. Luthers Größerer und Kleinerer Katechismus und di
 Konkordienformel.
 ....
 
-[role="section-narrowe"]
+[role="section-narrower"]
 == English Translation
 
 === 1^st^ Article:. Introduction.
