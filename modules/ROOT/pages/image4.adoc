@@ -1,4 +1,4 @@
-=  Image 4, Page 6
+=  Page 6, Image 4 
 :page-role: doc-width
 
 image::4.jpg[align="left",title="Einleitung(Introduction)",link=self]

@@ -1,4 +1,4 @@
-= Image 6, Page 8
+= Page 8, Image 6 
 :page-role: doc-width
 
 image::06.jpg[align="left",title="Click to Enlarge",link=self]

@@ -1,4 +1,4 @@
-= Image 7, Page 9
+= Page 9, Image 7 
 :page-role: doc-width
 
 image::7.jpg[align="left",title="Click to Enlarge",link=self]
