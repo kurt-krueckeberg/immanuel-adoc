@@ -7,8 +7,8 @@ image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
 [role="literal-narrower"]
 ....
-		         4. A.
-          Bedingungen der Aufnahme in die Gemeinde.
+    4. A.
+    Bedingungen der Aufnahme in die Gemeinde.
 
     Es kann niemand Glied der Gemeinde werden als wer,
 a.) getauft ist.
@@ -31,8 +31,8 @@ f.) auch unter Verhältnißen nach Vermögen zur Unterhaltung
     ist.
 
   
-		         5. Ar.
-	           Stimm und Wahlfähigkeit.
+    5. Ar.
+    Stimm und Wahlfähigkeit.
 
     Wählbar zu einem Amte in der Gemeinde sind alle
     diejenigen männlichen Mitglieder, die das 23 Lebensjahr
@@ -54,8 +54,8 @@ f.) auch unter Verhältnißen nach Vermögen zur Unterhaltung
 
 [role="literal-narrower"]
 ....
-		         4. A.
-          Bedingungen der Aufnahme in die Gemeinde.
+    4. A.
+    Bedingungen der Aufnahme in die Gemeinde.
 
     Es kann niemand Glied der Gemeinde werden, als wer
 a.) getauft ist.
@@ -75,8 +75,8 @@ f.) auch bereit ist, unter seinen Verhältnissen und nach seinem Vermögen zur
     Unterhaltung des Predigtamtes, des Schullehrers, der Kirche und Schule, und
     aller sonstigen Ausgaben, beizutragen.
   
-		         5. Ar.
-	         Stimm- und Wahlfähigkeit
+    5. Ar.
+    Stimm- und Wahlfähigkeit
 
     Wählbar zu einem Amt in der Gemeinde sind alle diejenigen männlichen
     Mitglieder, die das 23. Lebensjahr zurückgelegt haben und wenigstens ein Jahr
@@ -84,8 +84,8 @@ f.) auch bereit ist, unter seinen Verhältnissen und nach seinem Vermögen zur
     Lebensjahr erfüllt haben und die Ordnung zum Zeichen ihrer Übereinstimmung in
     demselben Jahr auch zu unterschreiben haben.
 
-                         6. Ar.
-                  Gewalt der Gemeinde
+    6. Ar.
+    Gewalt der Gemeinde
 
     Die Gemeinde in ihrer Gesamtheit hat die oberste und höchste Gewalt über die
     innere und äußere Verwaltung der kirchlichen und Gemeindeangelegenheiten, sowie
