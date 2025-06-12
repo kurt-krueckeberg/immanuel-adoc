@@ -1,3 +1,38 @@
 = Cover Page
 
 image::3.jpg[aslign="left",title="Cover page (Click to Enlarge),link=self]
+
+== Transliteration
+
+[role="literal-narrower"]
+....
+                  Kichenbuch
+
+                   für die 
+      
+       Deutsch evangl. luth. St. Immanuelsgemeinde
+
+                 Union Township
+
+                  Adams County
+
+                   Indiana
+....
+
+
+== Translation
+
+[role="section-narrower"]
+....
+                  Church Register
+
+                    for the
+      
+       German  Protestant Lutheran St. Immanuel Parish
+
+                 Union Township
+
+                  Adams County
+
+                   Indiana
+....
