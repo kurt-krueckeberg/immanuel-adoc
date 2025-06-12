@@ -5,12 +5,12 @@ body.doc-width .doc
 
 /* used in: [role="literal-max-width"] */
 .literal-narrower {
-    max-width: 87ch;
+    max-width: 89ch;
     border-left: 3px solid #ccc; /* A visual separator */ 
 }
 
 .section-narrower {
-    max-width: 87ch;
+    max-width: 89ch;
 }
 
 .image-width {
