@@ -7,7 +7,7 @@ image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
 [role="literal-narrower"]
 ....
-                     4. A.
+		     4. A.
       Bedingungen der Aufnahme in die Gemeinde.
 
     Es kann niemand Glied der Gemeinde werden als wer,
@@ -15,7 +15,7 @@ a.) getauft ist.
 b.) sich zur hl. Schrift alten und neuen Testaments als Got-
     tes geoffenbarten Worte als Regel und Richtschnur des
     Glaubens und Lebens, und zu den Artickel 3 angeführten
-    Bekentnißschriften der lutherischen Kirche bescheint.
+    Bekenntnißschriften der lutherischen Kirche bescheint.
 c.) nicht in offenbaren Werken des Fleisches lebt (Gab 5,19)
     sondern vielmehr einem weltlichen Wesen abzusagen und in
     der Kraft des hl Geistes, wie es den Heiligen zustehet, zu
@@ -31,8 +31,8 @@ f.) auch unter Verhältnißen nach Vermögen zur Unterhaltung
     ist.
 
   
-                     5. Ar.
-               Stimm und Wahlfähigkeit.
+		     5. Ar.
+	       Stimm und Wahlfähigkeit.
 
     Wählbar zu einem Amte in der Gemeinde sind alle
     diejenigen männlichen Mitglieder, die das 23 Lebensjahr
@@ -42,8 +42,8 @@ f.) auch unter Verhältnißen nach Vermögen zur Unterhaltung
     daselben Jahres sie auch die Ordnung, zum Zeichen ihrer
     Übereinstimmung, zu unterschreiben haben.
 
-                     6. Ar.
-               Gewalt der Gemeinde
+		     6. Ar.
+	       Gewalt der Gemeinde
 
     Die Gemeinde in ihrer Gesamtheit hat die oberste und
     höchste Gewalt der innere und äussere Verwaltung der
@@ -54,7 +54,7 @@ f.) auch unter Verhältnißen nach Vermögen zur Unterhaltung
 
 [role="literal-narrower"]
 ....
-                     4. A.
+		     4. A.
       Bedingungen der Aufnahme in die Gemeinde.
 
     Es kann niemand Glied der Gemeinde werden, als wer
@@ -75,8 +75,8 @@ f.) auch bereit ist, unter seinen Verhältnissen und nach seinem Vermögen zur
     Unterhaltung des Predigtamtes, des Schullehrers, der Kirche und Schule, und
     aller sonstigen Ausgaben, beizutragen.
   
-                     5. Ar.
-             Stimm- und Wahlfähigkeit
+		     5. Ar.
+	     Stimm- und Wahlfähigkeit
 
     Wählbar zu einem Amt in der Gemeinde sind alle diejenigen männlichen
     Mitglieder, die das 23. Lebensjahr zurückgelegt haben und wenigstens ein Jahr
