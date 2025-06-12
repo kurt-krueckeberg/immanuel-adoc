@@ -7,7 +7,7 @@ image::3.jpg[aslign="left",title="Cover page (Click to Enlarge),link=self]
 
 [role="literal-narrower"]
 ....
-                  Kichenbuch
+                  Kirchenbuch
 
                    für die 
       
