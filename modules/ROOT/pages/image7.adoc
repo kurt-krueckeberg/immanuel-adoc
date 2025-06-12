@@ -5,6 +5,20 @@ image::7.jpg[align="left",title="Click to Enlarge",link=self]
 
 == Conservatively Transliterated Version
 
+[NOTE]
+====
+No standard German word **Trosties** exists, neither in modern nor historical dictionaries.
+
+It is likely a dialectal, regional, or phonetic variant of:
+
+* **"Tröster"** (comforter, consoler), or
+
+* Possibly “Trostbruder”, or a role related to pastoral care or spiritual comfort.
+
+Given the context in a Lutheran church constitution, **“Trosties”** likely refers to
+laypersons assigned a pastoral, comforting, or caregiving role.
+====
+
 [role="literal-narrower"]
 ....
 9
@@ -62,4 +76,14 @@ a.) Es sollen Leute gewählt werden, die ihren Glauben durch ein frommes Leben b
     
 [role="section-narrower"]
 == English Translation
+  
+===  9^th^ Article: The Other Officers of the Parish
 
+The Church Council shall, given the temporary (sufficient) number of
+congregational members, consist, in addition to the preacher, of one Elder, two
+Directors/Leaders, and three 'Trosties,' (see Note above) who are all elected
+every two years, specifically so that one half retires this year, and the other
+half next year, and their positions are filled with newly elected individuals;
+however, none of whom shall serve in the same office for more than 4 years.
+People shall be elected who prove their faith through a devout life, and also
+have a good testimony among those who are outside.
