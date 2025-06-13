@@ -1,6 +1,6 @@
 = Page 10, Image 8
 
-image::image8.jpg[]
+image::8.jpg[]
 
 == Conservative Transliteration
 
