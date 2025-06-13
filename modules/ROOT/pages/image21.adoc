@@ -7,6 +7,7 @@ image::21.jpg[align="left",title="Heinrich Wilhelm Weÿland Biography (Click to 
 
 
 
+[role+literal-narrower"]
 ....
                                                                         Page 35
 
@@ -45,11 +46,9 @@ und ließ sich in hießiger Gemeinde den 21ten November desselben Jahres
 nieder, der er sich auch sogleich anschloß.
 ....
 
+
+[role="section-narrower"]
 == English Translation
-
-Page 35
-
-No. 5
 
 Heinrich Wilhelm Weÿland (in modern German, the name exists almost
 exclusively as Weiland)
