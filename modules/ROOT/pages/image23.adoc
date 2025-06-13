@@ -7,7 +7,7 @@ image::07-carl-friedrich-wilhelm-bleeke.jpg[align=left,title="Carl Fridrich Wilh
 
 No. 7
 
-dritter Sohn von xref:./jhp-bleeke.adoc[Johann Heinrich Philipp Bleeke] und Christine Marie geb.
+dritter Sohn von xref:./image17.adoc[Johann Heinrich Philipp Bleeke] und Christine Marie geb.
 Schwier, geb. den 30. November und getauft den 4. Dezember 1825 (siehe
 Seite 31, Kind No.4). Er verheiratete sich hierselbst mit Maria
 Bibelheimer, eine Tochter von David Daniel Bibelheimer und Maria geb.
@@ -49,7 +49,7 @@ No. 7
 
 Carl Fridrich Wilhelm Bleeke
 
-Third son of xref:./jhp-bleeke.adoc[Johann Heinrich Philipp Bleeke] and Christine Marie neé
+Third son of xref:./image17.adoc[Johann Heinrich Philipp Bleeke] and Christine Marie neé
 Schwier. He was born on the 30^th^ of November and baptized on December
 4^th^ 1825 (see page 31, child No.4). He married here Maria Bibelheimer,
 a daughter of David Daniel Bibelheimer and Maria neé Zähner. She was
