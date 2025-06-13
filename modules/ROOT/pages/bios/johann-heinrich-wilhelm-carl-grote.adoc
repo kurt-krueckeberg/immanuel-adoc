@@ -1,4 +1,7 @@
 = Johann Heinrich Wilhelm Carl Grote
+:page-role: doc-width
+
+image::19.jpg[align="left",title="Grote Biography (Click to Enlarge)",link=self]
 
 == Transliteration from old German script
 
