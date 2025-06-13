@@ -12,7 +12,7 @@
 ** xref:image11.adoc[]
 * Founders 
 ** xref:image17.adoc[]
-** xref:bios/johann-heinrich-krueckeberg.adoc[]
+** xref:image18.adoc[]
 ** xref:bios/johann-heinrich-wilhelm-carl-grote.adoc[]
 ** xref:bios/conrad-dietrich-ferdinand-reinking.adoc[]
 ** xref:bios/heinrich-weiland.adoc[]
