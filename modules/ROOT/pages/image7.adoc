@@ -62,6 +62,13 @@ a.) Es sollen Leute gewählt werden, die ihren Glauben durch ein from-
 a.) Er soll darauf sehen, daß die Kinder fleißig in die Schu-
     le geschickt und vom Prediger oder Schullehrer recht unterrichtet
     werden
+
+    11 Ar.
+
+    Die Pflichten der Vorsteher
+
+    Sie haben die Gemeindekasse zu verwalten und alljährlich zur festgesetzten
+    Zeit vor der Gemeinde Rechnung abzulegen.
 ....
 
 
@@ -105,6 +112,13 @@ a.) Es sollen Leute gewählt werden, die ihren Glauben durch ein frommes Leben b
 
 a.) Er soll darauf sehen, dass die Kinder fleißig in die Schule geschickt und vom
     Prediger oder Schullehrer recht unterrichtet werden.
+ 
+    11 Ar.
+
+    Die Pflichten der Vorsteher
+
+    Sie haben die Gemeindekasse zu verwalten und alljährlich zur festgesetzten
+    Zeit vor der Gemeinde Rechnung abzulegen.
 ....
     
 [role="section-narrower"]
@@ -134,3 +148,10 @@ example.
 
 a. He shall see to it that the children are diligently sent to school and
 properly instructed by the pastor or the schoolteacher.
+
+
+=== 11^th^ Article: The Duties of the Stewards 
+
+They are to manage the congregational treasury and, each year at the appointed
+time, give an account before the congregation.
+
