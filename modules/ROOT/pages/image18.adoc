@@ -8,6 +8,7 @@ image::18.jpg[align="left",title="Johann Heinrich Krückeberg bio(Click to Enlar
 == Transliteration from old German script
 
 
+[role="literal-narrower"]
 ....
 33
 
