@@ -11,7 +11,7 @@
 ** xref:image10.adoc[]
 ** xref:image11.adoc[]
 * Founders 
-** xref:bios/jhp-bleeke.adoc[]
+** xref:image17.adoc[]
 ** xref:bios/johann-heinrich-krueckeberg.adoc[]
 ** xref:bios/johann-heinrich-wilhelm-carl-grote.adoc[]
 ** xref:bios/conrad-dietrich-ferdinand-reinking.adoc[]
