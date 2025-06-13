@@ -5,9 +5,11 @@ image::19.jpg[align="left",title="Grote Biography (Click to Enlarge)",link=self]
 
 == Transliteration from old German script
 
-page 33
+[role="literal-narrower"]
+....
+                                                              page 33
 
-No. 3
+No. 3        [+] Johann Heinrich Wilhelm Grote [+]
 
 Sohn von Heinrich Grote und Sophie geborene Barnekamp, geb. den 4
 November 1823 in Jenhorst, Amt Stolzen (Stolzenau), Königreich Hannover,
@@ -17,7 +19,7 @@ von Pastor Lindemann, ausgewandert nach den Ver. St. v. N.A. den 8 Sept.
 1849, gelandet in New York den 20 Nov. s.J., und nachdem er dort wie
 auch in Fort Wayne und in Preeple (Preble) Tow. Adams Co. Ind. eine
 Zeitlang gearbeitet hatte, verheirathete er sich den 11 Juni 1852 mit
-Jungfrau xref:image18.adoc#cpd-krueckeberg[Caroline Philippine Dorathea Krückeberg] dahier (siehe die
+Jungfrau Caroline Philippine Dorathea Krückeberg dahier (siehe die
 vorige Seite, Kind 1) und ließ sich zu derselben Zeit in dieser Gemeinde
 nieder, der er sich auch alsbald anschloß.
 
@@ -43,7 +45,9 @@ den 2 Januar 1862.
 
 6. Wilhelmine Christine, geb. den 12 März und getauft den 20
 März. 1865. Taufpathen: Wilhelmine Weiland und Caroline Schamerloh.
+....
 
+[role="section-narrower"]
 == English Translation
 
 page 33
