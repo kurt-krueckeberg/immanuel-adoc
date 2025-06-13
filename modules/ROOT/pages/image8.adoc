@@ -1,1 +1,28 @@
 = Page 10, Image 8
+
+image::image8.jpg[]
+
+== Conservative Transliteration
+
+....
+a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen
+    die Coleckten zu erheben, das Nothige zum Gottesdienst und
+    Abendmahl herbeizuschaffen, und auf Ordnung bei demselben
+    zu sehen.
+
+   12. Ar.
+
+   Von 
+....
+
+== Contemporary German Version
+
+.....
+a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen, die Kollekten zu
+    erheben, das Nötige zum Gottesdienst und Abendmahl herbeizuschaffen und auf
+    Ordnung bei demselben zu achten.
+
+   12. Ar.
+
+   Von 
+....
