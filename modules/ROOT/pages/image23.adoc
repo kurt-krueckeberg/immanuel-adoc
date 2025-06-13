@@ -1,7 +1,7 @@
 = Carl Fridrich Wilhelm Bleeke
 :page-role: doc-width
 
-image::image23.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
+image::23.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
 
 == Transliteration from old German script
 

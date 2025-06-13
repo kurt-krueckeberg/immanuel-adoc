@@ -1,7 +1,7 @@
 = Christian Fridrich Bleeke:
 page-role: doc-width
 
-image::image25.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
+image::25.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
 
 == Transliteration from old German script
 
