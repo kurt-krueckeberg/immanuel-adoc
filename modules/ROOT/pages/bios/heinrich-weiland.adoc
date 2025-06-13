@@ -8,7 +8,7 @@
 
 == Transliteration from old German script
 
-Download xref:attachment$heinrich-weiland.jpg[original image of biography]
+//Download xref:attachment$heinrich-weiland.jpg[original image of biography]
 
 Page 35
 

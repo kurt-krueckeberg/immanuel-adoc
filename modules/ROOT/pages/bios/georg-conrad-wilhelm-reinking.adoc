@@ -2,7 +2,7 @@
 
 == Transliteration from old German script
 
-Download xref:attachment$georg-conrad-wilhelm-reinking.jpg[original image of biography]
+//Download xref:attachment$georg-conrad-wilhelm-reinking.jpg[original image of biography]
 No.19
 
 Sohn von Johann Friedrich Conrad Reinking und Maria Elisabeth geb.

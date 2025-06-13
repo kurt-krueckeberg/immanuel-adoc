@@ -2,7 +2,7 @@
 
 == Transliteration from old German script
 
-Download xref:attachment$20-david-bibelheimer.jpg[original scanned image of biogrphay]
+//Download xref:attachment$20-david-bibelheimer.jpg[original scanned image of biogrphay]
 
 page 50
 
