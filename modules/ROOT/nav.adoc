@@ -14,7 +14,7 @@
 ** xref:image17.adoc[]
 ** xref:image18.adoc[]
 ** xref:image19.adoc[]
-** xref:bios/conrad-dietrich-ferdinand-reinking.adoc[]
+** xref:image20.adoc[]
 ** xref:bios/heinrich-weiland.adoc[]
 ** xref:bios/johann-andreas-thieme.adoc[]
 ** xref:image23.adoc[]
