@@ -6,6 +6,10 @@
 ** xref:image5.adoc[]
 ** xref:image6.adoc[]
 ** xref:image7.adoc[]
+** xref:image8.adoc[]
+** xref:image9.adoc[]
+** xref:image10.adoc[]
+** xref:image11.adoc[]
 * Founders 
 ** xref:bios/jhp-bleeke.adoc[]
 ** xref:bios/johann-heinrich-krueckeberg.adoc[]
