@@ -17,7 +17,7 @@
 ** xref:bios/conrad-dietrich-ferdinand-reinking.adoc[]
 ** xref:bios/heinrich-weiland.adoc[]
 ** xref:bios/johann-andreas-thieme.adoc[]
-** xref:image23.qadoc[]
+** xref:image23.adoc[]
 ** xref:bios/carl-heinrich-wilhelm-krueckeberg.adoc[]
 ** xref:bios/carl-dietrich-wilhelm-schamerloh.adoc[]
 ** xref:image25.adoc[]
