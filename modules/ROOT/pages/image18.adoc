@@ -7,7 +7,11 @@ image::18.jpg[align="left",title="Johann Heinrich Krückeberg bio(Click to Enlar
 
 == Transliteration from old German script
 
-No. 2
+
+....
+33
+
+             [+]Johann Heinrich Krückeberg [+]                          No. 2
 
 geboren den 12ten August 1806 in Behrenbusch Fürstenthum Schaumburg Lippe,
 getauft in der ev. luth. Kirche zu Petzen von Pastor Stille.  Seine Taufpathen
@@ -39,7 +43,9 @@ Genannter Johann Heinrich Krückeberg wanderte aus mit seiner Familie nach
 den Vereinigten Staaten von Nord Amerika den 13 September 1849, und ließ
 sich in hießiger Gemeinde den 21 November desselben Jahres nieder, der er
 sich auch sogleich anschloß.
+....
 
+[role="section-narrower"]
 == English Translation
 
 No. 2
