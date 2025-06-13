@@ -1,9 +1,12 @@
 = Conrad Dietrich Ferdinand Reinking 
+:page-role: doc-width
+
+image::20.jpg[align="left",title="Conrad Dietrich Ferdinand Reinking Biography (Click to Enlarge)",link=self]
 
 == Transliteration from old German script
 
-//Download xref:attachment$conrad-dietrich-ferdinand-reinking.jpg[original image of biography]
-
+[role="literal-narrower"]
+....
 No. 4
 
 Sohn von Georg Wilhelm Reinking und Maria Lousie Trachtmann (could be,
