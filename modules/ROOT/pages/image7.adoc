@@ -7,16 +7,14 @@ image::7.jpg[align="left",title="Click to Enlarge",link=self]
 
 [NOTE]
 ====
-No standard German word **Trosties** exists, neither in modern nor historical dictionaries.
-
-It is likely a dialectal, regional, or phonetic variant of:
+**Trosties** is likely a dialectal, regional, or phonetic variant of:
 
 * **"Tröster"** (comforter, consoler), or
 
 * Possibly “Trostbruder”, or a role related to pastoral care or spiritual comfort.
 
-Given the context in a Lutheran church constitution, **“Trosties”** likely refers to
-laypersons assigned a pastoral, comforting, or caregiving role.
+Given the context in a Lutheran church constitution, **“Trosties”** likely refers
+to laypersons assigned a pastoral, comforting, or caregiving role.
 ====
 
 [role="literal-narrower"]
@@ -48,6 +46,22 @@ a.) Es sollen Leute gewählt werden, die ihren Glauben durch ein from-
 
     10 Ar.
 
+    Von den besonderte Pflichten des Altesten
+
+    Er hat über das geistliche Wohl der Gemeinde über Zucht und
+    Lehre zu wachen und dem Prediger beizustehen in der Kran-
+    kenpflege, z.B. bei langwiehrigen Krankheiten, wenn die
+    Hausleute nicht im Stande sind, die Nachtwachen zu vollziehen
+    oder bei drückender Armuth, oder sonstigen Werken der Lie-
+    be die nöthig erscheinen, so hat der Älsteste darauf zu sehen
+    wie dieser oder jener Noth abgeholfen werden könne, er-
+    sterer durch Bestellung solcher Leute die wachen letzterer durch
+    ein Gesuch an die Gemeinde um Abhulfe. Besonders soll
+    auch er mit guten Beispiel vorangehen.
+        
+a.) Er soll darauf sehen, daß die Kinder fleißig in die Schu-
+    le geschickt und vom Prediger oder Schullehrer recht unterrichtet
+    werden
 ....
 
 
@@ -77,6 +91,20 @@ a.) Es sollen Leute gewählt werden, die ihren Glauben durch ein frommes Leben b
     und auch ein gutes Zeugnis haben gegenüber denen, die draußen sind.
 
     10 Ar.
+
+    Von den besonderen Pflichten des Ältesten
+
+    Er hat über das geistliche Wohl der Gemeinde, über Zucht und Lehre zu wachen
+    und dem Prediger beizustehen in der Krankenpflege, z. B. bei langwierigen
+    Krankheiten, wenn die Hausleute nicht imstande sind, die Nachtwachen zu
+    vollziehen, oder bei drückender Armut oder sonstigen Werken der Liebe, die
+    nötig erscheinen. So hat der Älteste darauf zu sehen, wie dieser oder jener Not
+    abgeholfen werden könne: ersterer durch Bestellung solcher Leute, die wachen,
+    letzterer durch ein Gesuch an die Gemeinde um Abhilfe. Besonders soll auch er
+    mit gutem Beispiel vorangehen.
+
+a.) Er soll darauf sehen, dass die Kinder fleißig in die Schule geschickt und vom
+    Prediger oder Schullehrer recht unterrichtet werden.
 ....
     
 [role="section-narrower"]
@@ -86,9 +114,23 @@ a.) Es sollen Leute gewählt werden, die ihren Glauben durch ein frommes Leben b
 
 The Church Council shall, given the temporary (sufficient) number of
 congregational members, consist, in addition to the preacher, of one Elder, two
-Directors/Leaders, and three 'Trosties,' (see Note above) who are all elected
-every two years, specifically so that one half retires this year, and the other
-half next year, and their positions are filled with newly elected individuals;
-however, none of whom shall serve in the same office for more than 4 years.
-People shall be elected who prove their faith through a devout life, and also
-have a good testimony among those who are outside.
+Directors/Leaders, and three 'Trosties,' who are all elected every two years,
+specifically so that one half retires this year, and the other half next year,
+and their positions are filled with newly elected individuals; however, none of
+whom shall serve in the same office for more than 4 years.  People shall be
+elected who prove their faith through a devout life, and also have a good
+testimony among those who are outside.
+
+=== 10^th^ Article: Concerning the Particular Duties of the Elder
+
+He is to watch over the spiritual well-being of the congregation, over
+discipline and doctrine, and to assist the pastor in the care of the sick, for
+example in cases of prolonged illness when the household members are not in a
+position to keep night watch, or in times of pressing poverty or other works of
+mercy that seem necessary. The elder shall see how this or that need might be
+met: the former by appointing people to keep watch, the latter by submitting a
+request to the congregation for assistance. Above all, he should lead by good
+example.
+
+a. He shall see to it that the children are diligently sent to school and
+properly instructed by the pastor or the schoolteacher.
