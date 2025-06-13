@@ -15,7 +15,7 @@
 ** xref:image18.adoc[]
 ** xref:image19.adoc[]
 ** xref:image20.adoc[]
-** xref:bios/heinrich-weiland.adoc[]
+** xref:image21.adoc[]
 ** xref:bios/johann-andreas-thieme.adoc[]
 ** xref:image23.adoc[]
 ** xref:bios/carl-heinrich-wilhelm-krueckeberg.adoc[]
