@@ -1,5 +1,5 @@
 = Immanuel Lutheran Kirchenbuch
 
 This is a transliteration and translation into English of the 1850-1905 Kirchenbuch
-of present day Immanuel Lutheran curch, Decatur, Indiana, known then as the
-*German Protestant Lutheran St. Immanuel's Parish*.
+of present day link:https://www.immanueldecatur.org[Immanuel Lutheran Church, Decatur, Indiana],
+known then as the *German Protestant Lutheran St. Immanuel's Parish*.
