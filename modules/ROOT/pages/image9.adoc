@@ -1,1 +1,7 @@
 = Page 11,  Image 9
+
+:page-role: doc-width
+
+image::9.jpg[align="left",title="?????,link=self]
+
+
