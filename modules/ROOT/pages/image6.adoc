@@ -3,12 +3,12 @@
 
 image::6.jpg[align="left",title="Click to Enlarge",link=self]
 
+[role="section-narrower"]
 == Conservatively Transliterated Version
 
-NOTE: The first phrase is a continuation of the sentence at the bottom of the +
-prior page.
+NOTE: The first phrase, *der Gemeinde können nur im Auftrage derselben handeln*, is a
+continuation of the sentence at the bottom of the prior page.
 
-[role="literal-narrower"]
 ....
     der Gemeinde können nur im Auftrage derselben handeln
 
