@@ -3,9 +3,9 @@
 
 image::8.jpg[align="left",title="5th page of Ordnung",link=self]
 
-[role="literal-narrower"]
 == Conservative Transliteration
 
+[role="literal-narrower"]
 ....
 a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen
     die Coleckten zu erheben, das Nothige zum Gottesdienst und
@@ -38,9 +38,9 @@ f.) Überhaupt einen christlichen Lebenswandel zu führen und sich das gewohn
     heitsmäßigen Besuch der Trinkhäuser und Tanzböden u. s. w. zu enthalten.
 ....
     
-[role="literal-narrower"]
 == Contemporary German Version
 
+[role="literal-narrower"]
 ....
 a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen, die Kollekten zu
     erheben, das Nötige zum Gottesdienst und Abendmahl herbeizuschaffen und auf
