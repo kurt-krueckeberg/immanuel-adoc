@@ -4,25 +4,45 @@ image::8.jpg[]
 
 == Conservative Transliteration
 
+[role="literal-narrower"]
 ....
 a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen
     die Coleckten zu erheben, das Nothige zum Gottesdienst und
     Abendmahl herbeizuschaffen, und auf Ordnung bei demselben
     zu sehen.
 
-   12. Ar.
+    12. Ar.
+    Von den Pflichten der Trosties.
 
-   Von 
+    Sie haben auf das Kirchengut zu sehen daselbe, sowie
+    die Gebäude in gehörigen Stand zu erhalten, die in ihr Fach
+    einschlagende Rechnung zu führen, und allenfalls, so es nothig
+    die Gemeinde bei der weltlichen Obrigkeit zu vertreten.
 ....
 
 == Contemporary German Version
 
+[role="literal-narrower"]
 ....
 a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen, die Kollekten zu
     erheben, das Nötige zum Gottesdienst und Abendmahl herbeizuschaffen und auf
     Ordnung bei demselben zu achten.
 
-   12. Ar.
+    12. Ar.
+    Von den Pflichten der Trosties.
 
-   Von 
+    Sie haben auf das Kirchengut zu sehen, dasselbe sowie die Gebäude in gehörigen
+    Stand zu erhalten, die in ihr Fach einschlagende Rechnung zu führen, und
+    allenfalls, so es nötig, die Gemeinde bei der weltlichen Obrigkeit zu vertreten
 ....
+
+[role="section-narrower"]
+== English Translation
+
+a.) They have to take care of the pastor's upkeep, take up the collections, provide
+what is necessary for the church service and communion and ensure that it is
+conducted in an orderly manner.
+  
+They have to look after the church property, keep it and the buildings in
+proper condition, keep the accounts that fall within their remit and, if
+necessary, represent the congregation before the secular authorities
