@@ -5,8 +5,13 @@ image::6.jpg[align="left",title="Click to Enlarge",link=self]
 
 == Conservatively Transliterated Version
 
+NOTE: The first phrase is a continuation of the sentence at the bottom of the +
+prior page.
+
 [role="literal-narrower"]
 ....
+    der Gemeinde können nur im Auftrage derselben handeln
+
                     7. Ar.
     Ausschluß, Austritt aus oder Trennung von der Gemeinde
     
@@ -50,6 +55,8 @@ d.) Er soll den einzelnen Seelen treulich nachgehen und sie nach ihrem Bedürfni
 
 [role="literal-narrower"]
 ....
+    der Gemeinde können nur im Auftrage derselben handeln
+
                         7. Ar.
       Ausschluß, Austritt aus oder Trennung von der Gemeinde
 
@@ -91,6 +98,10 @@ d.) Er soll den einzelnen Seelen treulich nachgehen und sie nach ihrem Bedürfni
 
 [role="section-narrower"]
 == English Translation
+
+=== Continuation of 6^th^ Article:
+
+der Gemeinde können nur im Auftrage derselben handeln
 
 ===  7. Article: Expulsion, withdrawal from or separation from the congregation
 

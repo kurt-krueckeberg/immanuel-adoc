@@ -5,6 +5,10 @@ image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
 == Conservatively Transliterated Version
 
+NOTE: The last line on the page, *der Gemeinde können nur im Auftrage derselben handeln.*,
+actually appears at the top of the next page, but is also included here to complete the
+thought of the sentence.
+
 [role="literal-narrower"]
 ....
     4. A.
@@ -48,6 +52,7 @@ f.) auch unter Verhältnißen nach Vermögen zur Unterhaltung
     Die Gemeinde in ihrer Gesamtheit hat die oberste und
     höchste Gewalt der innere und äussere Verwaltung der
     kirchlichen und Gemeindeangelegenheiten, und alle Beamten.
+    der Gemeinde können nur im Auftrage derselben handeln.
 ....
 
 == In Modern German
