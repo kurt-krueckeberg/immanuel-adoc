@@ -26,4 +26,9 @@ Regex for given names
 
  */
 
-$regex = "^\s*\d+\.\s+([A-ZÄÖÜ][a-zäöüß\-]+(?:\s+[A-ZÄÖÜ][a-zäöüß\-]+){0,3})\b";
+$child_regex = "^\s*\d+\.\s+([A-ZÄÖÜ][a-zäöüß\-]+(?:\s+[A-ZÄÖÜ][a-zäöüß\-]+){0,3})\b";
+
+foreach ($file as $no => $line) {
+
+       $rc = preg_match("@$child_regex@", $matches);
+}
