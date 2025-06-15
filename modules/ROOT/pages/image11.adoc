@@ -1,4 +1,5 @@
 = Page 22, Image 11
+:page-role: doc-width
  
 image::11.jpg[]
 
