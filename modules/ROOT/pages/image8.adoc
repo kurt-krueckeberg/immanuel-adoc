@@ -1,7 +1,7 @@
 = Page 10, Image 8
 :page-role: doc-width
 
-image::8.jpg[align="left",title="page ? of Ordnung",link=self]
+image::8.jpg[align="left",title="5th page of Ordnung",link=self]
 
 == Conservative Transliteration
 
