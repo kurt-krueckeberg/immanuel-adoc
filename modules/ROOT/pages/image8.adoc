@@ -3,9 +3,9 @@
 
 image::8.jpg[align="left",title="5th page of Ordnung",link=self]
 
+[role="literal-narrower"]
 == Conservative Transliteration
 
-[role="literal-narrower"]
 ....
 a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen
     die Coleckten zu erheben, das Nothige zum Gottesdienst und
@@ -31,11 +31,16 @@ b.) Kein heimliches Partheiwesen gegen den Pastor anzuregen, förden
     gefehlt hat, und dem Einen oder den Andere Anstoß gegeben.
 c.) Die Predigt sowie die Christenlehre fleißig zu besuchen, auch die
     Kinder fleißig zur derselben sowie zur Schule angehalten.
+d.) Die Gemeindeversamlungen nicht ohne dringende Noth zu versäumen
+    und auf derselben alles fleischlichen Eifers sich zu entschlagen.
+e.) bei der Wahl der Gemeindebeamten nach Pflicht und Gewissen zu stimmen.
+f.) Überhaupt einen christlichen Lebenswandel zu führen und sich das gewohn
+    heitsmäßigen Besuch der Trinkhäuser und Tanzböden u. s. w. zu enthalten.
 ....
-
+    
+[role="literal-narrower"]
 == Contemporary German Version
 
-[role="literal-narrower"]
 ....
 a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen, die Kollekten zu
     erheben, das Nötige zum Gottesdienst und Abendmahl herbeizuschaffen und auf
@@ -60,6 +65,11 @@ b.) Es soll keine heimliche Parteilichkeit gegen den Pastor angestiftet, geförd
     gegeben wurde.
 c.) Die Predigt sowie die Christenlehre fleißig zu besuchen, auch die
     Kinder fleißig zur selben sowie zur Schule angehalten.
+d.) Die Gemeindeversamlungen nicht ohne dringende Not zu versäumen
+    und auf denselben alles fleischlichen Eifers sich zu entschlagen.
+e.) bei der Wahl der Gemeindebeamten nach Pflicht und Gewissen zu stimmen.
+f.) Überhaupt einen christlichen Lebenswandel zu führen und sich des gewohn-
+    heitsmäßigen Besuchs der Trinkhäuser und Tanzböden u. s. w. zu enthalten.
 ....
 
 [role="section-narrower"]
@@ -77,7 +87,6 @@ They have to look after the church property, keep it and the buildings in
 proper condition, keep the accounts that fall within their remit and, if
 necessary, represent the congregation before the secular authorities.
 
-
 === 13^th^ Article: The Duties of Individual Parishioners
 
 a. All instructions from the ministry, as well as personal admonitions, should
@@ -90,3 +99,9 @@ someone.
 
 c. To diligently attend the sermon and Christian instruction, and to diligently
 encourage the children to attend the same as well as school.
+
+d. Not to miss congregational meetings unless absolutely necessary
+and to renounce all carnal zeal at them.
+e. To vote according to duty and conscience in the election of congregational officials.
+f. To generally lead a Christian life and to refrain from the habitual visitation of
+drinking establishments and dance hall, etc.
