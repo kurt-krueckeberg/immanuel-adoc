@@ -5,9 +5,9 @@ image::5.jpg[align="left",title="Einleitung(Introduction)",link=self]
 
 == Conservatively Transliterated Version
 
-NOTE: The last line on the page, *der Gemeinde können nur im Auftrage derselben handeln.*,
-actually appears at the top of the next page, but is also included here to complete the
-thought of the sentence.
+NOTE: The last line of Article 6, *"der Gemeinde können nur im Auftrage derselben handeln."*,
+actually appears at the top of the next page, but is included here (as well as at the top of
+the next page) to complete the thought of Article 6.
 
 [role="literal-narrower"]
 ....
