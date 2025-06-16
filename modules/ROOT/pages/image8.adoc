@@ -7,22 +7,10 @@ image::8.jpg[align="left",title="5th page of Ordnung",link=self]
 
 [NOTE]
 ====
-These three words from Article 14 were struck out and replacement wording written above them:
-*"wird die Majorität der"*. Before the strike-throughs the text read:
+These three words from Article 14 were struck out and replacement wording written above them.
+[.line-through]#wurden zwei drittheil# was replaced with *wird die Majorität der*.
 
-Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der +
-4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und +
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;wird die Majorität der +
-zu einem für die Gemeinde gültigen Beschluß [.line-through]#wurden zwei drittheil# +
-Stimmen der Anwesenden erfordert.
-
-With the replacement wording it reads:
-
-Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der +
-4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und +
-zu einem für die Gemeinde gültigen Beschluß *wird die Majorität der* +
-Stimmen der Anwesenden erfordert.
-
+The replacement text appears in the transliterations below.
 ====
 
 [role="literal-narrower"]
