@@ -3,13 +3,36 @@
 
 image::9.jpg[align="left",title="page 19, image 9",link=self]
 
-NOTE: The first three words *"Ausgenommen bei Erwählung"* actually occur at the
-bottom of the previous page, but for clarity are also included here.
+NOTE: The top of page continues Article 14 from the prior page.
+The first three words *"Ausgenommen bei Erwählung"* actually occur at the
+bottom of the previous page, but they are also included here, too, to
+show the complete last sentence of Article 14.
 
+== Conservative Transliteration
+
+[role="literal-narrow"]
 ....
-Ausgenommen bei Erwählung einer Pastors bei Abänderung oder zusetzung zur
-Kirchenordnung in diesen  beiden angeführten Stücken müßen zwei Drittheil der
-Stimmberechtigten Gemeindeglieder beisammen sein und von diesen müßen zwei.
-Drittheil dafür stimmen.
+Ausgenommen bei Erwählung eines...[from bottom of prior page]
+Pastors bei Abänderung oder Zusetzung zur Kirchenordnung in
+diesen beiden angeführten Stücken müßen zwei Drittheil der Stimm-
+berechtigten Gemeindeglieder beisammen sein und von diesen müßen
+zwei Drittheil dafür stimmen.
 ....
 
+== Modern German Version
+
+[role="literal-narrow"]
+....
+Ausgenommen bei der Wahl eines Pastors oder bei Änderungen oder Ergänzungen
+der Kirchenordnung: In diesen beiden Fällen müssen zwei Drittel der stimm-
+berechtigten Gemeindeglieder anwesend sein, und von diesen müssen zwei
+Drittel zustimmen.
+....
+
+== English Translation
+
+=== Article 8 Continued
+
+Except in the case of electing a pastor or making changes or additions to the
+church constitution: In these two cases, two-thirds of the voting members of
+the congregation must be present, and of those, two-thirds must vote in favor.
