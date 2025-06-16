@@ -5,6 +5,25 @@ image::8.jpg[align="left",title="5th page of Ordnung",link=self]
 
 == Conservative Transliteration
 
+[NOTE]
+====
+Three words from Article 14--*"wurden zwei drittheil"*--were struck out and above them was written:
+*"wird die Majorität der"*. The original read:
+
+Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der +
+4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und +
+zu einem für die Gemeinde gültigen Beschluß *wurden zwei drittheil* +
+Stimmen der Anwesenden erfordert.
+
+With the replacement wording it reads:
+
+Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der +
+4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und +
+zu einem für die Gemeinde gültigen Beschluß *wird die Majorität der* +
+Stimmen der Anwesenden erfordert.
+
+====
+
 [role="literal-narrower"]
 ....
 a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen
@@ -39,7 +58,13 @@ f.) Überhaupt einen christlichen Lebenswandel zu führen und sich das gewohn
 g.) Die gewöhnlichen unter Artikel 4 benanten Ausgaben bestreiten helfen, besonders sich auch in andere Werken
     der Liebe und zur Erhaltung des Reiches Gottes nach außen hie thätig erweißen
 
+    14 Ar.
+    Versammlung und Beschlüße der Gemeinde
 
+    Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der
+    4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und
+    zu einem für die Gemeinde gültigen Beschluß wird die Majorität der
+    Stimmen der Anwesenden erfordert.
 ....
     
 == Contemporary German Version
@@ -77,6 +102,13 @@ f.) Überhaupt einen christlichen Lebenswandel zu führen und sich des gewohn-
 g.) Die gewöhnlichen, unter Artikel 4 benannten Ausgaben mit zu bestreiten helfen,
     sich besonders auch in anderen Werken der Liebe und zur Erhaltung des Reiches Gottes
     nach außen hin tätig erweisen.
+  
+    14 Ar.
+    Versammlung und Beschlüsse der Gemeinde
+
+    Für eine Gemeindeversammlung ist es erforderlich, dass mindestens ein Viertel
+    der stimmberechtigten Gemeindeglieder anwesend ist, und für einen gültigen
+    Beschluss der Gemeinde ist die Mehrheit der Stimmen der Anwesenden erforderlich.
 ....
 
 [role="section-narrower"]
@@ -114,3 +146,10 @@ f. To generally lead a Christian life and to refrain from the habitual visitatio
 drinking establishments and dance hall, etc.
 g. To help defray the ordinary expenses mentioned in Article 4, and to be particularly
 active in other works of love and for the preservation of the Kingdom of God.
+
+=== 14^th^ Article:
+Meetings and Resolutions of the Congregation 
+
+A congregational meeting requires that at least one quarter of the voting
+members be present, and a decision is valid only if it receives a majority of
+the votes of those present.
