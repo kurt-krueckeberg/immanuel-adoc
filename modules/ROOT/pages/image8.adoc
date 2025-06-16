@@ -8,7 +8,7 @@ image::8.jpg[align="left",title="5th page of Ordnung",link=self]
 [NOTE]
 ====
 These three words from Article 14 were struck out and replacement wording written above them.
-[.line-through]#wurden zwei drittheil# was replaced with *wird die Majorität der*.
+"[.line-through]#wurden zwei drittheil#" was replaced with *"wird die Majorität der"*.
 
 The replacement text appears in the transliterations below.
 ====
