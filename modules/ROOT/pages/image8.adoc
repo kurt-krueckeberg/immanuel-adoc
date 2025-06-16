@@ -14,7 +14,7 @@ These three words from Article 14 *"wurden zwei drittheil"* were struck out and 
 
 Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der +
 4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und +
-zu einem für die Gemeinde gültigen Beschluß[line-through]#wurden zwei drittheil# +
+zu einem für die Gemeinde gültigen Beschluß [.line-through]#wurden zwei drittheil# +
 Stimmen der Anwesenden erfordert.
 
 With the replacement wording it reads:
