@@ -10,7 +10,7 @@ show the complete last sentence of Article 14.
 
 == Conservative Transliteration
 
-[role="literal-narrow"]
+[role="literal-narrower"]
 ....
 [from bottom of prior page] Ausgenommen bei Erwählung eines...
 Pastors bei Abänderung oder Zusetzung zur Kirchenordnung in
@@ -21,7 +21,7 @@ zwei Drittheil dafür stimmen.
 
 == Modern German Version
 
-[role="literal-narrow"]
+[role="literal-narrower"]
 ....
 Ausgenommen bei der Wahl eines Pastors oder bei Änderungen oder Ergänzungen
 der Kirchenordnung: In diesen beiden Fällen müssen zwei Drittel der stimm-
@@ -29,6 +29,7 @@ berechtigten Gemeindeglieder anwesend sein, und von diesen müssen zwei
 Drittel zustimmen.
 ....
 
+[role="section-narrower"]
 == English Translation
 
 === Article 8 Continued
