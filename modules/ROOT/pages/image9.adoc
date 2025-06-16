@@ -1,5 +1,15 @@
 = Page 11, Image 9
 :page-role: doc-width
 
-image::9.jpg[align="left",title="?????",link=self]
+image::9.jpg[align="left",title="page 19, image 9",link=self]
+
+NOTE: The first three words *"Ausgenommen bei Erwählung"* actually occur at the
+bottom of the previous page, but for clarity are also included here.
+
+....
+Ausgenommen bei Erwählung einer Pastors bei Abänderung oder zusetzung zur
+Kirchenordnung in diesen  beiden angeführten Stücken müßen zwei Drittheil der
+Stimmberechtigten Gemeindeglieder beisammen sein und von diesen müßen zwei.
+Drittheil dafür stimmen.
+....
 
