@@ -10,6 +10,8 @@ image::8.jpg[align="left",title="5th page of Ordnung",link=self]
 These three words from Article 14 *"wurden zwei drittheil"* were struck out and written above them was:
 *"wird die Majorität der"*. Before the strike-throughs the text read:
 
+³[.line-through]#This text is struck through.#
+
 Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der +
 4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und +
 zu einem für die Gemeinde gültigen Beschluß[line-through]#wurden zwei drittheil# +
