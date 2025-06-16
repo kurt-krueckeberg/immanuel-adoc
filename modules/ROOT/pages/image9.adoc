@@ -12,7 +12,7 @@ show the complete last sentence of Article 14.
 
 [role="literal-narrower"]
 ....
-[Start of sentence from bottom of prior page:] Ausgenommen bei Erwählung eines
+[The sentence starts at the bottom of prior page:] Ausgenommen bei Erwählung eines
 Pastors bei Abänderung oder Zusetzung zur Kirchenordnung in
 diesen beiden angeführten Stücken müßen zwei Drittheil der Stimm-
 berechtigten Gemeindeglieder beisammen sein und von diesen müßen
