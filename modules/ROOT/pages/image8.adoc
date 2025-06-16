@@ -12,9 +12,9 @@ These three words from Article 14 were struck out and replacement wording writte
 
 Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der +
 4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und +
-++++
-                                             *wird die Majorität der*
-++++
+....
+                                             wird die Majorität dex
+....
 zu einem für die Gemeinde gültigen Beschluß [.line-through]#wurden zwei drittheil# +
 Stimmen der Anwesenden erfordert.
 
