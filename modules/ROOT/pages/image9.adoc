@@ -48,6 +48,14 @@ a. Grobe öffendliche Sünden sollen auch öffendlich gestraft werden.
     Kirchenordnung bekannt gemacht worden sind sogleich aufgenom̅en
     werden, welche sie zum Zeugniß ihrer Übereinstimmung zu un-
     terschreiben haben.
+
+a.  Sollte aber die Gemeinde in ihrer Mehr oder Minderzahl Bedenken tragen, die
+    Bittenden sogleich aufzunehmen, so müßen sie sich eine vierteljährige Probezeit
+    gefallen lassen.
+    
+b.  Lutheraner hier zu lande, sollen angehalten werden, von ihren
+    bisherigen Seelsorgern Zeugniße beizubringen, nach welchen für so-
+    gleich aufgenommen werden können.
 ....
     
 == Modern German Version
@@ -84,7 +92,16 @@ a. Grobe öffentliche Sünden sollen auch öffentlich geahndet werden.
     Verhalten hat und nichts gegen sie einzuwenden ist, so können sie, nachdem sie
     mit der Kirchenordnung bekannt gemacht worden sind, sogleich aufgenommen
     werden, welche sie zum Zeugnis ihrer Übereinstimmung zu unterschreiben haben.
+
+a.  Sollte aber die Gemeinde in ihrer Mehrzahl oder Minderzahl Bedenken tragen, die
+    Bittenden sogleich aufzunehmen, so müssen sie sich eine vierteljährige
+    Probezeit gefallen lassen.
+    
+b.  Lutheraner hierzulande sollen angehalten werden, von ihren bisherigen
+    Seelsorgern Zeugnisse beizubringen, nach welchen sie sogleich aufgenommen
+    werden können.
 ....
+
     
 [role="section-narrower"]
 == English Translation
@@ -119,3 +136,10 @@ petition to the congregation. Should the congregation now have spiritual
 knowledge of their conduct and no objection can be raised against them, then
 they can, after they have been made acquainted with the Church Order, be
 immediately admitted, which they must sign as a testimony of their agreement.
+
+a. Should the congregation, however, in its majority or minority, have
+reservations about immediately admitting the petitioners, then they must submit
+to a quarter-year probationary period.
+
+b. Lutherans in this country shall be required to provide testimonials from
+their previous pastors, according to which they can be immediately admitted.
