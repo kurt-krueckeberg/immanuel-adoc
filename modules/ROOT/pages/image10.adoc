@@ -37,24 +37,24 @@ image::10.jpg[align="left",title="Image 10",link=self]]
 
 [role="literal-narrower"]
 ....
-Artikel 17
+                  Artikel 17
     
    Die Kinder sollen, wenn sie die gehörige Reife der Erkenntnis erlangt haben,
    zum Konfirmandenunterricht angenommen werden. Wenn dieser beendet ist, sollen
    sie öffentlich vor der Gemeinde geprüft und, wenn sie fähig erfunden,
    konfirmiert und zum Abendmahl zugelassen werden.
    
-   Artikel 18
+         [written in pencil: 18]
    
    Die Ordnung soll jährlich mindestens einmal vor versammelter Gemeinde
    vorgelesen und auf Verlangen näher erklärt und ausgelegt werden.
    
-   Artikel 19
+         [written in pencil: 19]
    
    Die Wahl der Gemeindebeamten und die Ablegung der Rechnung derselben, so
    alljährlich in der Adventszeit oder vor dem Schlusse des Jahres stattfinden.
    
-   Artikel 20
+         [written in pencil: 20]
    
    Unveränderlich sind die Artikel 2, 3, 4, Absatz C, 7, 8, 13, 15 und dieser
    20ste. Wider den Sinn der Ordnung soll nichts bestimmt werden, es sei denn, die
