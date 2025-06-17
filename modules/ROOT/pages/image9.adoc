@@ -28,14 +28,14 @@ show the complete last sentence of Article 14.
                Kirchenzucht
 
    Sollte ein Kirchenmitglied sich versündigen gegen die Lehre und Zucht
-   der Gemeinde, so ist jedes Gemeinderglied, welches es siehet verpflichtet
+   der Gemeinde, so ist jedes Gemeindeglied, welches es siehet verpflichtet
    das sündigende Glied in Liebe zu ermahnen, hört es dasselbe nicht, so soll
    es noch 2 dazu nehmen und die Vermahnung wiederhohlen, finden die
    3 kein Gehör so sollen sie es vor die Gemeinde bringen, erfolgt nun
    auch vor versammelter Gemeinde keine Buße, so soll das sündigende
    Glied ausgeschloßen werden von der versamelten Gemeinde bis es Buße
    thut und sich bessert.
-a. Grobe öffendliche Sünden sollen auch offendlich gestraft werden.
+a. Grobe öffendliche Sünden sollen auch öffendlich gestraft werden.
 ....
 
 == Modern German Version
@@ -88,4 +88,4 @@ the matter before the congregation. If no repentance is shown even before the as
 congregation, the offending member shall be excluded from the congregation’s assembly until
 they show repentance and amend their ways.
 
-a.) Gross public sins shall also be punished publicly.
+a.) Grave/Flagrant public sins shall also be publicly punished.
