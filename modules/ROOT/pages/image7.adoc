@@ -128,10 +128,10 @@ a. Er soll darauf sehen, dass die Kinder fleißig in die Schule geschickt und vo
 
 === Conclusion of Article 8: Of Preachers
 
-e. He shall be ordained or introduced by an orthodox preacher and committed to
+[loweralpha, start=5]
+. He shall be ordained or introduced by an orthodox preacher and committed to
 the confessional writings mentioned in Article 3.
-
-f. He shall use an orthodox agenda in the church and also perform his special
+. He shall use an orthodox agenda in the church and also perform his special
 official acts from it.
   
 ===  9^th^ Article: The Other Officers of the Parish
