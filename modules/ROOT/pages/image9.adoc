@@ -36,8 +36,20 @@ show the complete last sentence of Article 14.
    Glied ausgeschloßen werden von der versamelten Gemeinde bis es Buße
    thut und sich bessert.
 a. Grobe öffendliche Sünden sollen auch öffendlich gestraft werden.
-....
 
+               16. Ar.
+               Aufnahme neuer Mitglieder
+
+    Diejenigen lutheraner, welche begehren in die Gemeinde aufgenommen
+    zu werden haben sich bei dem Pastor oder Aeltesten zu melten
+    und durch diese ihre Gesuch an die Gemeinde zu bringen, in Fall
+    nun die Gemeinde [geistige?] Kenntniß von ihrem Vorhalten hat und
+    nichts gegen sie einzuwenden ist, so können sie, nachdem sie mit der
+    Kirchenordnung bekannt gemacht worden sind sogleich aufgenom̅en
+    werden, welche sie zum Zeugniß ihrer Übereinstimmung zu un-
+    terschreiben haben.
+....
+    
 == Modern German Version
 
 [role="literal-narrower"]
@@ -62,8 +74,18 @@ a. Grobe öffendliche Sünden sollen auch öffendlich gestraft werden.
    Gemeindeversammlung ausgeschlossen werden, bis es Reue zeigt und sich bessert.
     
 a. Grobe öffentliche Sünden sollen auch öffentlich geahndet werden.
-....
 
+               16. Ar.
+               Aufnahme neuer Mitglieder
+
+    Diejenigen Lutheraner, welche begehren, in die Gemeinde aufgenommen zu werden,
+    haben sich bei dem Pastor oder Ältesten zu melden und durch diese ihr Gesuch an
+    die Gemeinde zu bringen. Falls nun die Gemeinde geistige Kenntnis von ihrem
+    Verhalten hat und nichts gegen sie einzuwenden ist, so können sie, nachdem sie
+    mit der Kirchenordnung bekannt gemacht worden sind, sogleich aufgenommen
+    werden, welche sie zum Zeugnis ihrer Übereinstimmung zu unterschreiben haben.
+....
+    
 [role="section-narrower"]
 == English Translation
 
@@ -77,8 +99,7 @@ Anyone who is not present forfeits their right to vote in the event of their
 absence. The date of the congregational meeting must be announced to the
 assembled congregation at least on the preceding Sunday.
 
-
-==== Article 15: Church Discipline
+=== Article 15: Church Discipline
 
 If a church member commits an offense against the doctrine and order of the congregation,
 every member who observes this is obligated to admonish the offending member in a spirit of love.
@@ -89,3 +110,12 @@ congregation, the offending member shall be excluded from the congregation’s a
 they show repentance and amend their ways.
 
 a.) Grave/Flagrant public sins shall also be publicly punished.
+
+=== Article 16: Admission of New Members
+
+Those Lutherans, who desire to be admitted into the congregation, are to report
+themselves to the Pastor or Elder and through these [officials] to bring their
+petition to the congregation. Should the congregation now have spiritual
+knowledge of their conduct and no objection can be raised against them, then
+they can, after they have been made acquainted with the Church Order, be
+immediately admitted, which they must sign as a testimony of their agreement.
