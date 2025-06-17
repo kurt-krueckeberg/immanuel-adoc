@@ -56,11 +56,10 @@ a. Grobe öffendliche Sünden sollen auch offendlich gestraft werden.
    Sollte sich ein Kirchenmitglied gegen die Lehre und Ordnung der Gemeinde vergehen,
    so ist jedes Gemeindeglied, das dies bemerkt, verpflichtet, das fehlende Glied in
    Liebe zu ermahnen. Hört es nicht auf diese Ermahnung, so soll es zwei weitere
-   Gemeindeglieder hinzuziehen und die Ermahnung gemeinsam wiederholen. Wenn auch
-   diese drei kein Gehör finden, so sollen sie den Fall vor die Gemeinde bringen.
-   Erfolgt auch vor der versammelten Gemeinde keine Reue, so soll das sündigende
-   Glied von der Gemeindeversammlung ausgeschlossen werden, bis es Reue zeigt und
-   sich bessert.
+   Gemeindeglieder hinzuziehen und die Ermahnung gemeinsam wiederholen. Wenn auch diese
+   drei kein Gehör finden, so sollen sie den Fall vor die Gemeinde bringen. Erfolgt auch
+   vor der versammelten Gemeinde keine Reue, so soll das sündigende Glied von der
+   Gemeindeversammlung ausgeschlossen werden, bis es Reue zeigt und sich bessert.
     
 a. Grobe öffentliche Sünden sollen auch öffentlich geahndet werden.
 ....
@@ -90,5 +89,3 @@ congregation, the offending member shall be excluded from the congregation’s a
 they show repentance and amend their ways.
 
 a.) Gross public sins shall also be punished publicly.
-
-=== 
