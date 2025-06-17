@@ -1,5 +1,21 @@
 = Page 22, Image 11
 :page-role: doc-width
  
-image::11.jpg[]
+image::11.jpg[align="left",title="Final page of Ordnung (Click to Enlarge),link=self]
+
+== Consevervative Transliteration
+
+[role="literal-narrower"]
+....
+        Gemeindebeschlüsse.
+
+Beschlossen: daß ein jedes von außenher zur Gemeinde tretende Glied wenigsten 5
+Thaler zur Gemeindekasse bezahlen soll, dabei aber das Wann und das der Wie der
+bezahlung dem Kirchenrath überlassen bleibt, je nach es demselben am
+begamstenn, und auch für den Zahler am leichtesten erscheint
+
+Sind aber die Eintretenden vermögendliche Leute, so werden sie von selbst, da
+sie Kirche und Kircheneigenthum vorfinden, freiwillig mehr bezahlen.
+....
+
 
