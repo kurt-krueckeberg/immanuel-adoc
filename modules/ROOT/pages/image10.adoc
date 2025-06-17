@@ -1,4 +1,90 @@
 = Page 12, Image 10
 :page-role: doc-width
 
-image::10.jpg[]
+image::10.jpg[align="left",title="Image 10",link=self]]
+
+
+== Conservatively Transliterated Version
+
+[role="literal-narrower"]
+....
+                17. Ar.
+  
+  Die Kinder sollen, wenn sie die gehörige Reife der Erkentniß erlangt zum
+  Confirmantenunterricht angenom̅en, wenn dieser beendigt sollen sie öffendlich
+  vor der Gemeinde geprüft, und wenn sie fähig erfunden confirmirt und zum
+  Abendmahl zugelaßen werden.
+
+         [written in pencil: 18]
+
+   Die Ordnung soll jährlich wenigsten einmal vor versamelter Gemeinde
+   vorgelesen und auf Verlangen näher erklährt und ausgelegt werden.
+
+         [written in pencil: 19]
+
+   Die Wahl der Gemeindebeamten und die Ablegung der Rechnung
+   derselben, so alljährtig in der Advendszeit oder vor dem Schluße
+   des Jahres stattfinden.
+
+         [written in pencil: 20]
+
+   Unveränderlich sind die Artikel 2. 3. 4. C. 78. 1315. und dieser
+   20te wieder den Sinn der Ordnung soll nichts bestim̅mt werden
+   es sei denn die Gemeinde in allen Gliedern dafür. Amen.
+....
+
+== Modern German Version
+
+[role="literal-narrower"]
+....
+Artikel 17
+    
+   Die Kinder sollen, wenn sie die gehörige Reife der Erkenntnis erlangt haben,
+   zum Konfirmandenunterricht angenommen werden. Wenn dieser beendet ist, sollen
+   sie öffentlich vor der Gemeinde geprüft und, wenn sie fähig erfunden,
+   konfirmiert und zum Abendmahl zugelassen werden.
+   
+   Artikel 18
+   
+   Die Ordnung soll jährlich mindestens einmal vor versammelter Gemeinde
+   vorgelesen und auf Verlangen näher erklärt und ausgelegt werden.
+   
+   Artikel 19
+   
+   Die Wahl der Gemeindebeamten und die Ablegung der Rechnung derselben, so
+   alljährlich in der Adventszeit oder vor dem Schlusse des Jahres stattfinden.
+   
+   Artikel 20
+   
+   Unveränderlich sind die Artikel 2, 3, 4, Absatz C, 7, 8, 13, 15 und dieser
+   20ste. Wider den Sinn der Ordnung soll nichts bestimmt werden, es sei denn, die
+   Gemeinde sei in allen Gliedern dafür. Amen.
+....
+
+== English Translation
+
+=== Article 17
+
+The children shall, when they have attained the proper maturity of knowledge,
+be admitted to confirmation instruction. When this is concluded, they shall be
+publicly examined before the congregation and, when they are found capable,
+confirmed and admitted to Holy Communion.
+
+=== Article 18
+
+The Ordnung (Order/Regulation) shall be read at least once annually before the
+assembled congregation, and upon request, be explained and interpreted in more
+detail.
+
+=== Article 19
+
+The election of the congregational officials and the rendering of their
+accounts shall annually take place in Advent season or before the end of the
+year.
+
+=== Article 20
+
+Unchangeable are Articles 2, 3, 4, Paragraph C, 7, 8, 13, 15, and this 20th
+one. Nothing shall be determined contrary to the spirit of the Ordnung, unless
+the congregation in all its members is in favor of it. Amen.
+
