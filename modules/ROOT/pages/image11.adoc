@@ -3,19 +3,83 @@
  
 image::11.jpg[align="left",title="Final page of Ordnung (Click to Enlarge),link=self]
 
+[IMPORTANT]
+====
+The original "Gemeindebeschlüsse." or resolutions were struck through as can be seen in the image
+and English language, which is merely an translation into English of the German, appears below it
+written in pencil.
+====
+
 == Consevervative Transliteration
 
 [role="literal-narrower"]
 ....
         Gemeindebeschlüsse.
 
-Beschlossen: daß ein jedes von außenher zur Gemeinde tretende Glied wenigsten 5
-Thaler zur Gemeindekasse bezahlen soll, dabei aber das Wann und das der Wie der
-bezahlung dem Kirchenrath überlassen bleibt, je nach es demselben am
-begamstenn, und auch für den Zahler am leichtesten erscheint
+Beschlossen: daß ein jedes von außenher zur Gemeinde
+tretende Glied wenigsten 5 Thaler zur Gemeindekasse be-
+zahlen soll, dabei aber das Wann und das Wie der Be-
+zahlung dem Kirchenrath überlassen bleibt, je nach es demsel-
+ben am bequemsten, und auch für den Zahler am leichtesten
+erscheint
 
-Sind aber die Eintretenden vermögendliche Leute, so werden sie von selbst, da
-sie Kirche und Kircheneigenthum vorfinden, freiwillig mehr bezahlen.
+Sind aber die Eintretenden vermögendliche Leute, so wer-
+den sie von selbst, da sie Kirche und Kircheneigenthum vor-
+finden, freiwillig mehr bezahlen.
+
+       Congregational Resolutions
+
+Resolved that from outside of the compregation
+coming members pay at least $5.00 to
+congregational treasury, but the when
+and how of the payment is to be left up to
+the Church Council as is convenient to
+them and easiest to the joining member.
+
+Are the joining members people of property
+they will voluntarily give more, since they
+joinning an established congregation
+with Church property.
 ....
 
+== Modern German Version
 
+[role="literal-narrower"]
+....
+        Gemeindebeschlüsse.
+
+Beschlossen: dass jedes von außerhalb der Gemeinde beitretende Mitglied
+mindestens 5 Taler zur Gemeindekasse bezahlen soll, wobei jedoch das Wann und
+das Wie der Bezahlung dem Kirchenrat überlassen bleibt, je nachdem es diesem am
+bequemsten und auch für den Zahler am leichtesten erscheint.
+
+Sind aber die Eintretenden vermögende Leute, so werden sie von sich aus, da sie
+Kirche und Kircheneigentum vorfinden, freiwillig mehr bezahlen
+
+       Congregational Resolutions
+
+Resolved that from outside of the compregation
+coming members pay at least $5.00 to
+congregational treasury, but the when
+and how of the payment is to be left up to
+the Church Council as is convenient to
+them and easiest to the joining member.
+
+Are the joining members people of property
+they will voluntarily give more, since they
+joinning an established congregation
+with Church property.
+....
+
+[role="section-narrower"]
+== English Translation
+
+=== Church Resolutions
+
+Resolved: that every member joining the congregation from outside shall pay at
+least 5 Thaler to the church treasury, but the time and method of payment shall
+be left to the Church Council, as it appears most convenient/suitable to them,
+and also easiest for the payer.
+
+However, if those joining are wealthy people, they will voluntarily pay more on
+their own, as they find a church and church property already in place.
