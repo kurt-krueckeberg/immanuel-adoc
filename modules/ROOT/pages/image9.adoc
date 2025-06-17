@@ -36,39 +36,38 @@ show the complete last sentence of Article 14.
     Glied ausgeschloßen werden von der versamelten Gemeinde bis es Buße
     thut und sich bessert.
     a.) Grobe öffendliche Sünden sollen auch offendlich gestraft werden.
-    
 ....
 
 == Modern German Version
 
 [role="literal-narrower"]
 ....
-Ausgenommen bei der Wahl eines Pastors oder bei Änderungen oder Ergänzungen der
-Kirchenordnung: In diesen beiden Fällen müssen zwei Drittel der stimmberechtigten
-Gemeindeglieder anwesend sein, und von diesen müssen zwei Drittel zustimmen.
-
-Wer nicht anwesend ist, verzichtet im Falle seines Nichterscheinens auf sein
-Stimmrecht. Der Termin der Gemeindeversammlung soll mindestens am
-vorausgehenden Sonntag vor der versammelten Gemeinde bekanntgegeben werden.
-
-                  15. Ar.
-                Kirchenzucht
-
-Sollte sich ein Kirchenmitglied gegen die Lehre und Ordnung der Gemeinde vergehen,
-so ist jedes Gemeindeglied, das dies bemerkt, verpflichtet, das fehlende Glied in Liebe
-zu ermahnen. Hört es nicht auf diese Ermahnung, so soll es zwei weitere Gemeindeglieder
-hinzuziehen und die Ermahnung gemeinsam wiederholen. Wenn auch diese drei kein Gehör finden,
-so sollen sie den Fall vor die Gemeinde bringen. Erfolgt auch vor der versammelten Gemeinde
-keine Reue, so soll das sündigende Glied von der Gemeindeversammlung ausgeschlossen
-werden, bis es Reue zeigt und sich bessert.
-
+    Ausgenommen bei der Wahl eines Pastors oder bei Änderungen oder Ergänzungen der
+    Kirchenordnung: In diesen beiden Fällen müssen zwei Drittel der stimmberechtigten
+    Gemeindeglieder anwesend sein, und von diesen müssen zwei Drittel zustimmen.
+    
+    Wer nicht anwesend ist, verzichtet im Falle seines Nichterscheinens auf sein
+    Stimmrecht. Der Termin der Gemeindeversammlung soll mindestens am
+    vorausgehenden Sonntag vor der versammelten Gemeinde bekanntgegeben werden.
+    
+                      15. Ar.
+                    Kirchenzucht
+    
+    Sollte sich ein Kirchenmitglied gegen die Lehre und Ordnung der Gemeinde vergehen,
+    so ist jedes Gemeindeglied, das dies bemerkt, verpflichtet, das fehlende Glied in Liebe
+    zu ermahnen. Hört es nicht auf diese Ermahnung, so soll es zwei weitere Gemeindeglieder
+    hinzuziehen und die Ermahnung gemeinsam wiederholen. Wenn auch diese drei kein Gehör finden,
+    so sollen sie den Fall vor die Gemeinde bringen. Erfolgt auch vor der versammelten Gemeinde
+    keine Reue, so soll das sündigende Glied von der Gemeindeversammlung ausgeschlossen
+    werden, bis es Reue zeigt und sich bessert.
+    
 a.) Grobe öffentliche Sünden sollen auch öffentlich geahndet werden.
 ....
 
 [role="section-narrower"]
 == English Translation
 
-=== Article 8???? Continued from Prior Page
+=== Article 14 Continued from Prior Page
 
 Except in the case of electing a pastor or making changes or additions to the
 church constitution: In these two cases, two-thirds of the voting members of
@@ -79,13 +78,15 @@ absence. The date of the congregational meeting must be announced to the
 assembled congregation at least on the preceding Sunday.
 
 
-==== Article 
-Church Discipline
+==== Article 15: Church Discipline
 
-If a church member commits an offense against the doctrine and order of the congregation, every member who observes this is obligated to admonish the offending member in a spirit of love.
-If the person does not listen to this admonition, the member should bring along two others and repeat the admonition together.
-If the three still receive no response, they shall bring the matter before the congregation.
-If no repentance is shown even before the assembled congregation, the offending member shall be excluded from the congregation’s assembly until they show repentance and amend their ways.
+If a church member commits an offense against the doctrine and order of the congregation,
+every member who observes this is obligated to admonish the offending member in a spirit of love.
+If the person does not listen to this admonition, the member should bring along two others
+and repeat the admonition together. If the three still receive no response, they shall bring
+the matter before the congregation. If no repentance is shown even before the assembled
+congregation, the offending member shall be excluded from the congregation’s assembly until
+they show repentance and amend their ways.
 
 a.) Gross public sins shall also be punished publicly.
 
