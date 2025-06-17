@@ -15,92 +15,92 @@ The replacement text appears in the transliterations below.
 
 [role="literal-narrower"]
 ....
-a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen
-    die Coleckten zu erheben, das Nothige zum Gottesdienst und
-    Abendmahl herbeizuschaffen, und auf Ordnung bei demselben
-    zu sehen.
+a. Sie haben für den Unterhalt des Pastors Sorge zu tragen
+   die Coleckten zu erheben, das Nothige zum Gottesdienst und
+   Abendmahl herbeizuschaffen, und auf Ordnung bei demselben
+   zu sehen.
 
-    12. Ar.
-    Von den Pflichten der Trosties.
+   12. Ar.
+   Von den Pflichten der Trosties.
 
-    Sie haben auf das Kirchengut zu sehen daselbe, sowie
-    die Gebäude in gehörigen Stand zu erhalten, die in ihr Fach
-    einschlagende Rechnung zu führen, und allenfalls, so es nothig
-    die Gemeinde bei der weltlichen Obrigkeit zu vertreten.
+   Sie haben auf das Kirchengut zu sehen daselbe, sowie
+   die Gebäude in gehörigen Stand zu erhalten, die in ihr Fach
+   einschlagende Rechnung zu führen, und allenfalls, so es nothig
+   die Gemeinde bei der weltlichen Obrigkeit zu vertreten.
 
-    13. Ar.
-    Die Pflichten der einzeln Gemeindeglieder
+   13. Ar.
+   Die Pflichten der einzeln Gemeindeglieder
 
-a.) Alle Erweißungen des Predigamtes auch die persönliche Er-
-    mahnung willig an und Aufzunehmen.
-b.) Kein heimliches Partheiwesen gegen den Pastor anzuregen, förden
-    oder dulden, sondern in eigner Person oder durch den Mund der
-    Vorsteher mit ihm zu handeln, wo er wirklich oder vermeintlich
-    gefehlt hat, und dem Einen oder den Andere Anstoß gegeben.
-c.) Die Predigt sowie die Christenlehre fleißig zu besuchen, auch die
-    Kinder fleißig zur derselben sowie zur Schule angehalten.
-d.) Die Gemeindeversamlungen nicht ohne dringende Noth zu versäumen
-    und auf derselben alles fleischlichen Eifers sich zu entschlagen.
-e.) bei der Wahl der Gemeindebeamten nach Pflicht und Gewissen zu stimmen.
-f.) Überhaupt einen christlichen Lebenswandel zu führen und sich das gewohn
-    heitsmäßigen Besuch der Trinkhäuser und Tanzböden u. s. w. zu enthalten.
-g.) Die gewöhnlichen unter Artikel 4 benanten Ausgaben bestreiten
-    helfen, besonders sich auch in andere Werken der Liebe und zur Erhaltung
-    des Reiches Gottes nach außen hie thätig erweißen.
+a. Alle Erweißungen des Predigamtes auch die persönliche Er-
+   mahnung willig an und Aufzunehmen.
+b. Kein heimliches Partheiwesen gegen den Pastor anzuregen, förden
+   oder dulden, sondern in eigner Person oder durch den Mund der
+   Vorsteher mit ihm zu handeln, wo er wirklich oder vermeintlich
+   gefehlt hat, und dem Einen oder den Andere Anstoß gegeben.
+c. Die Predigt sowie die Christenlehre fleißig zu besuchen, auch die
+   Kinder fleißig zur derselben sowie zur Schule angehalten.
+d. Die Gemeindeversamlungen nicht ohne dringende Noth zu versäumen
+   und auf derselben alles fleischlichen Eifers sich zu entschlagen.
+e. bei der Wahl der Gemeindebeamten nach Pflicht und Gewissen zu stimmen.
+f. Überhaupt einen christlichen Lebenswandel zu führen und sich das gewohn
+   heitsmäßigen Besuch der Trinkhäuser und Tanzböden u. s. w. zu enthalten.
+g. Die gewöhnlichen unter Artikel 4 benanten Ausgaben bestreiten
+   helfen, besonders sich auch in andere Werken der Liebe und zur Erhaltung
+   des Reiches Gottes nach außen hie thätig erweißen.
 
-    14 Ar.
-    Versammlung und Beschlüße der Gemeinde
+   14 Ar.
+   Versammlung und Beschlüße der Gemeinde
 
-    Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der
-    4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und
-    zu einem für die Gemeinde gültigen Beschluß wird die Majorität der
-    Stimmen der Anwesenden erfordert. Ausgenommen bei Erwählung eines [continues
-    on next page]
+   Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der
+   4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und
+   zu einem für die Gemeinde gültigen Beschluß wird die Majorität der
+   Stimmen der Anwesenden erfordert. Ausgenommen bei Erwählung eines [continues
+   on next page]
 ....
     
 == Contemporary German Version
 
 [role="literal-narrower"]
 ....
-a.) Sie haben für den Unterhalt des Pastors Sorge zu tragen, die Kollekten zu
-    erheben, das Nötige zum Gottesdienst und Abendmahl herbeizuschaffen und auf
-    Ordnung bei demselben zu achten.
+a. Sie haben für den Unterhalt des Pastors Sorge zu tragen, die Kollekten zu
+   erheben, das Nötige zum Gottesdienst und Abendmahl herbeizuschaffen und auf
+   Ordnung bei demselben zu achten.
 
-    12. Ar.
-    Von den Pflichten der Trosties.
+   12. Ar.
+   Von den Pflichten der Trosties.
 
-    Sie haben auf das Kirchengut zu sehen, dasselbe sowie die Gebäude in gehörigen
-    Stand zu erhalten, die in ihr Fach einschlagende Rechnung zu führen, und
-    allenfalls, so es nötig, die Gemeinde bei der weltlichen Obrigkeit zu vertreten
+   Sie haben auf das Kirchengut zu sehen, dasselbe sowie die Gebäude in gehörigen
+   Stand zu erhalten, die in ihr Fach einschlagende Rechnung zu führen, und
+   allenfalls, so es nötig, die Gemeinde bei der weltlichen Obrigkeit zu vertreten
 
-    13. Ar.
-    Die Pflichten der einzeln Gemeindeglieder
+   13. Ar.
+   Die Pflichten der einzeln Gemeindeglieder
 
-a.) Alle Weisungen des Predigtamts sowie persönliche Ermahnungen sollen willig
-    angenommen und aufgenommen werden.
-    
-b.) Es soll keine heimliche Parteilichkeit gegen den Pastor angestiftet, gefördert
-    oder geduldet werden, sondern man soll persönlich oder durch die Vorsteher mit
-    ihm sprechen, wenn er tatsächlich oder vermeintlich gefehlt hat und jemandem
-    Anstoß gegeben wurde.
-c.) Die Predigt sowie die Christenlehre fleißig zu besuchen, auch die
-    Kinder fleißig zur selben sowie zur Schule angehalten.
-d.) Die Gemeindeversamlungen nicht ohne dringende Not zu versäumen
-    und auf denselben alles fleischlichen Eifers sich zu entschlagen.
-e.) bei der Wahl der Gemeindebeamten nach Pflicht und Gewissen zu stimmen.
-f.) Überhaupt einen christlichen Lebenswandel zu führen und sich des gewohn-
-    heitsmäßigen Besuchs der Trinkhäuser und Tanzböden u. s. w. zu enthalten.
-g.) Die gewöhnlichen, unter Artikel 4 benannten Ausgaben mit zu bestreiten
-    helfen, sich besonders auch in anderen Werken der Liebe und zur Erhaltung des
-    Reiches Gottes nach außen hin tätig erweisen.
+a. Alle Weisungen des Predigtamts sowie persönliche Ermahnungen sollen willig
+   angenommen und aufgenommen werden.
+   
+b. Es soll keine heimliche Parteilichkeit gegen den Pastor angestiftet, gefördert
+   oder geduldet werden, sondern man soll persönlich oder durch die Vorsteher mit
+   ihm sprechen, wenn er tatsächlich oder vermeintlich gefehlt hat und jemandem
+   Anstoß gegeben wurde.
+c. Die Predigt sowie die Christenlehre fleißig zu besuchen, auch die
+   Kinder fleißig zur selben sowie zur Schule angehalten.
+d. Die Gemeindeversamlungen nicht ohne dringende Not zu versäumen
+   und auf denselben alles fleischlichen Eifers sich zu entschlagen.
+e. bei der Wahl der Gemeindebeamten nach Pflicht und Gewissen zu stimmen.
+f. Überhaupt einen christlichen Lebenswandel zu führen und sich des gewohn-
+   heitsmäßigen Besuchs der Trinkhäuser und Tanzböden u. s. w. zu enthalten.
+g. Die gewöhnlichen, unter Artikel 4 benannten Ausgaben mit zu bestreiten
+   helfen, sich besonders auch in anderen Werken der Liebe und zur Erhaltung des
+   Reiches Gottes nach außen hin tätig erweisen.
   
-    14 Ar.
-    Versammlung und Beschlüsse der Gemeinde
+   14 Ar.
+   Versammlung und Beschlüsse der Gemeinde
 
-    Für eine Gemeindeversammlung ist es erforderlich, dass mindestens ein Viertel
-    der stimmberechtigten Gemeindeglieder anwesend ist, und für einen gültigen
-    Beschluss der Gemeinde ist die Mehrheit der Stimmen der Anwesenden erforderlich.
-    Ausgenommen bei Erwählung eines [continues on next page]...
+   Für eine Gemeindeversammlung ist es erforderlich, dass mindestens ein Viertel
+   der stimmberechtigten Gemeindeglieder anwesend ist, und für einen gültigen
+   Beschluss der Gemeinde ist die Mehrheit der Stimmen der Anwesenden erforderlich.
+   Ausgenommen bei Erwählung eines [continues on next page]...
 ....
 
 [role="section-narrower"]
@@ -108,7 +108,7 @@ g.) Die gewöhnlichen, unter Artikel 4 benannten Ausgaben mit zu bestreiten
 
 === Continuation of 11^th^ Article: 
 
-a.) They have to take care of the pastor's upkeep, take up the collections, provide
+a. They have to take care of the pastor's upkeep, take up the collections, provide
 what is necessary for the church service and communion and ensure that it is
 conducted in an orderly manner.
 
