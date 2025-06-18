@@ -1,0 +1,11 @@
+
+[width="100%",cols="20%,20%,60%",options="header",]
+|===
+|PDF Page #er Range |Hand-drawn page #er Range |Topic
+|4-10 |6-12 |Bylaws
+|11 |22 |Bylaws
+|12-16 |23-27 |List of Constitution Signers
+|17-36 |31-50 (some pages not numbered) |Founder Biographies
+|37 |51 |Pastors List
+|38 |53 |Marriages in 1905
+|===
