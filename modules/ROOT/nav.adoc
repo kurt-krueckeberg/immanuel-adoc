@@ -21,7 +21,7 @@
 ** xref:image24.adoc[]
 ** xref:image25.adoc[]
 ** xref:image26.adoc[]
-** xref:bios/carl-heinrich-ludwig-koldewey.adoc[]
+** xref:image27.adoc[]
 ** xref:bios/jakob-stöhr.adoc[]
 ** xref:bios/christian-dietrich-schamerloh.adoc[]
 ** xref:bios/jacob-fridrich-höriger.adoc[]
