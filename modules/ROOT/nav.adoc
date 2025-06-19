@@ -37,7 +37,6 @@
 ** xref:image47.adoc[]
 ** xref:image48.adoc[]
 ** xref:image49.adoc[]
-** xref:image49.adoc[]
 ** xref:image50.adoc[]
 ** xref:image51.adoc[]
 ** xref:image52.adoc[]
