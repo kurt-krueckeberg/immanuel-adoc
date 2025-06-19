@@ -3,6 +3,7 @@
 
 image::55.jpg[align="left",title="Page 86, image 55 (Click to enlarge)",link=self]
 
+[role="literal-narrower"]
 ....
 55. Maria Catharina Elisabeth
 geboren den 30 September getauft den 10 November 1865.

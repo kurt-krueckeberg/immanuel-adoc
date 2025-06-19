@@ -3,6 +3,7 @@
 
 image::53.jpg[align="left",title="Page 84, image 53 (Click to enlarge)",link=self]
 
+[role="literal-narrower"]
 ....
 43. Ludwig Wilhelm
 geboren den 11ten Januar und getauft den 7ten Februar 1864.

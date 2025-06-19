@@ -2,8 +2,9 @@
 :page-role: doc-width
 
 image::58.jpg[align="left",title="Page 89, image 58 (Click to enlarge)",link=self]
-....
 
+[role="literal-narrower"]
+....
 73. Louise Rosete
 
 geboren den 19ten December 1858, getauft den 23ten Januar 1868.

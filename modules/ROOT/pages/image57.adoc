@@ -3,6 +3,7 @@
 
 image::57.jpg[align="left",title="Page 88, image 57 (Click to enlarge)",link=self]
 
+[role="literal-narrower"]
 ....
 67. Christian Wilhelm
 geboren den 28ten Januar und getauft den 10 Februar 1867.

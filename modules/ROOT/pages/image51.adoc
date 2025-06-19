@@ -3,6 +3,7 @@
 
 image::51.jpg[align="left",title="Page 82, image 51 (Click to enlarge)",link=self]
 
+[role="literal-narrower"]
 ....
 31. Caroline Wilhelmine Louise
 geboren den 18ten März und getauft den 23ten März 1862

@@ -3,6 +3,7 @@
 
 image::54.jpg[align="left",title="Page 85, image 54 (Click to enlarge)",link=self]
 
+[role="literal-narrower"]
 ....
 49. Louise Sophie Wilhelmine
 geboren den 10ten Juli und getauft den 17 ten Juli 1864.
