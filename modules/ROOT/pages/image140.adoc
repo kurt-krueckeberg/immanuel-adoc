@@ -34,7 +34,7 @@
 
 |50|Friedr. Bleeke|35|Christ. Bleke
 
-.2+.^2+|Am Weihnachtsfest +
+.2+|Am Weihnachtsfest +
 1870|
 |===
 
