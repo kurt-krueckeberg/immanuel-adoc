@@ -10,6 +10,12 @@ image::carl-dietrich-wilhelm-schamerloh.jpg[align=left,title='Carl Dietrich Wilh
 
 == Transliteration from old German script
 
+[NOTE]
+====
+A penciled-in addendum occurs before the list of children, evidently a reference
+to the first son and child, Carl Wilhelm, who was omitted from the biography.
+====
+
 [role="literal-narrower"]
 ....
 No. 9
@@ -29,8 +35,8 @@ confirmiert um Ostern 1851.
 
 Kinder dieser Ehe sind:
 
-[This is a left margin pencil-in comment, written before the childrens
-names: _Carl Wilhelm Christian, see Taufregister No. 17_)
+[Carl Wm Christian
+see Taufregister No. 17]
 
 1. Louise Sophie Caroline, geb. den 10. April, getauft den 15ten
 April 1860. Taufpathen: Caroline Schamerloh und Caroline Krückeberg.
@@ -70,8 +76,8 @@ Dorathea neé Weiland.
 
 Children from this marriage are:
 
-(insert in pencil on the side: Carl Wilhelm Christian, see baptismal
-register Nr. 17)
+[Carl Wm Christian
+see Taufregister No. 17]
 
 1. Louise Sophie Caroline, born on 10 April, baptized on 15 April
 \1860. Godparents: Caroline Schamerloh and Caroline Krückeberg.
