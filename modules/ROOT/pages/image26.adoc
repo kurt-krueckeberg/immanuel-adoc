@@ -1,7 +1,7 @@
 = Carl Dietrich Wilhelm Schamerloh
 :page-role: doc-width
 
-image::24.jpg[align="left",title="Carl Dietrich Wilhelm Schamerloh biography (Click to Enlarge)",link=self]
+image::26.jpg[align="left",title="Carl Dietrich Wilhelm Schamerloh biography (Click to Enlarge)",link=self]
 
 
 == Biography
