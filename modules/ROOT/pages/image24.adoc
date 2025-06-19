@@ -35,6 +35,7 @@ Pathen: Philippine Schamerloh und Sophie Buuck
 den 17 Juli d.J. Pathen: Caroline Schamerloh und Emma Belz
 
 * [blank space]
+....
 
 [role="section-narrow"]
 == English Translation
