@@ -1,4 +1,0 @@
-= 1859 Carl Fridrich Wilhelm Schamerloh Birth
-:page-role: doc-width
-
-include::image49.adoc[]

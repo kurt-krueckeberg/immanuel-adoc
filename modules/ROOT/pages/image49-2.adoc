@@ -1,4 +1,0 @@
-= 1859 Caroline Elisabeth Bleeke Birth
-:page-role: doc-width
-
-include::image49.adoc[]
