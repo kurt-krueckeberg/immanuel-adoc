@@ -1,7 +1,7 @@
 = Page 84
 :page-role: doc-width
 
-image::53.jpg[align="left",title="Page 84, image 53 (Click to enlarge),link=self]
+image::53.jpg[align="left",title="Page 84, image 53 (Click to enlarge)",link=self]
 
 ....
 61. Conrad Christian Wilhelm
