@@ -1,12 +1,16 @@
 = Carl Dietrich Wilhelm Schamerloh
 :page-role: doc-width
 
+image::24.jpg[align="left",title="Carl Dietrich Wilhelm Schamerloh biography (Click to Enlarge)",link=self]
+
+
 == Biography
 
 image::carl-dietrich-wilhelm-schamerloh.jpg[align=left,title='Carl Dietrich Wilhelm Schamerloh bio (Click to enlarge)',link=self]
 
 == Transliteration from old German script
 
+[role="literal-narrow"]
 No. 9
 
 ehelicher Sohn des Colon Heinrich Christian Schamerloh und dessen
@@ -39,6 +43,7 @@ März 1865. Taufpathen: Heinrich Krückeberg und Wilhelm Weiland
 4. Sophie Wilhelmine, geboren den 20. Oktober und getauft den 31.
 Oktober 1863. Pathen: Wilhelmine Weiland und Louise Heckmann
 
+[role="section-narrow"]
 == English Translation
 
 Nr. 9
