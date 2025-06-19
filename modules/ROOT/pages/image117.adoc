@@ -7,7 +7,7 @@ image::117.jpg[align=left,title='Page 193 (Click to enlarge)',link=self]
 
 TODO:  Finish adding Nachträge
 
-[role="literal-narrow]
+[role="literal-narrow"]
 ....
                                                                       193
              Confirmandenregister.
