@@ -1,5 +1,7 @@
 = Carl Heinrich Ludwig Koldeweÿ
+:page-role: doc-width
 
+image::27.jpg[align="left",title="Carl Heinrich Ludwig Koldeweÿ biography (Click to Enlarge)",link=self]
 
 [NOTE]
 .Koldeweÿ in modern German
@@ -9,8 +11,8 @@ In modern German, the surname Koldeweÿ will become Koldewei or Koldewey
 
 == Transliteration from old German script
 
-//Download xref:attachment$11-carl-heinrich-ludwig-koldewey.jpg[original image of biography]
-
+[role="literal-narrower"]
+....
 No. 11(?)
 
 Ehelicher Sohn von Johann Heinrich Christoph Koldeweÿ und Sophie Mare
@@ -34,8 +36,10 @@ Januar 1862. Pathen: Johann Heinrich Bleeke und Fridrich Koldeweÿ.
 25 December 1863. Pathen: Maria Tiemann und Catharina Koldeweÿ.
 
 3. Louise Maria, geborene den 22 Januar und getauft den 28 Januar
-1866\. Pathen: Louise Wittfeld und Maria Thile.
+1866. Pathen: Louise Wittfeld und Maria Thile.
+....
 
+[role="section-narrower"]
 == English Translation
 
 No. 11(?)
@@ -67,4 +71,4 @@ January 1862. Godparents: Johann Heinrich Bleeke and Fridrich Koldeweÿ.
 December 1863. Godparents: Maria Tiemann and Catharina Koldeweÿ.
 
 3. Louise Maria, born on 22 January, and baptized on 28 January
-1866\. Godparents: Louise Wittfeld and Maria Thile.
+\1866. Godparents: Louise Wittfeld and Maria Thile.
