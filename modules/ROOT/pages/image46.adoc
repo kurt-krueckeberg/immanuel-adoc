@@ -11,6 +11,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 "Mrs Hy Heier" in entry #3.
 ====
 
+[role="literal-narrow"]
 ....
 
 1.             Marie Louise
@@ -77,6 +78,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 == Translation
  
 
+[role="literal-narrow"]
 ....
 1.         Marie Louise
 

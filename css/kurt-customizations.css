@@ -3,6 +3,12 @@ body.doc-width .doc
    max-width: 80rem;  /* Changing this to 'none' widens the page */
 }
 
+.literal-narrow {
+    max-width: 95ch;
+    border-left: 3px solid #ccc; /* A visual separator */ 
+}
+
+
 /* used in: [role="literal-max-width"] */
 .literal-narrower {
     max-width: 90ch;

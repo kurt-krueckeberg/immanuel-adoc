@@ -5,7 +5,7 @@ image::47.jpg[align=left,title='Image 47, Page 78 (Click to enlarge)',link=self]
 
 == Transliteration
 
-[role="literal-narrower"]
+[role="literal-narrow"]
 ....
 7.             Johann Heinrich
 
@@ -72,7 +72,7 @@ image::47.jpg[align=left,title='Image 47, Page 78 (Click to enlarge)',link=self]
 
 == Translation
 
-[role="literal-narrower"]
+[role="literal-narrow"]
 ....
 
 7.   Johann Heinrich
