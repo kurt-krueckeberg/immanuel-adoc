@@ -36,6 +36,10 @@
 
 .2+.^2+|Am Weihnachtsfest +
 1870|
+|===
+
+....
+TO:
 
 desse Fr. Anna Maria
 
@@ -148,3 +152,4 @@ Louisa Reinking
 Ferrd. Reinking.
 dessen Frau Maria.
 45 Benj. Pells.
+....
