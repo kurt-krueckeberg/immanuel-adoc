@@ -3,7 +3,7 @@
 
 image::53.jpg[align="left",title="Page 84, image 53 (Click to enlarge),link=self]
 
-
+....
 61. Conrad Christian Wilhelm
 
 geboren den 25ten Februar und getauft den 4ten März 1866.
@@ -46,4 +46,4 @@ geboren den 16ten September 1866 getauft den 1ten Januar 1867.
 Michael Bräuner
 Eltern Johanna geb. Belz.
 Pathen: Abraham Steudler und dessen Ehefrau Maria.
-.
+....

@@ -3,7 +3,7 @@
 
 image::56.jpg[align="left",title="Page 87, image 56 (Click to enlarge),link=self]
 
-
+....
 79. Conrad Christian Wilhelm
 
 geboren den 29ten Februar Vormittags 11 Uhr getauft den 1ten März 1868.
@@ -45,3 +45,4 @@ Georg Blum
 Eltern
 Catharina geb. Feldner
 Pathen: Conrad Fells und Jakob Stöhr
+....

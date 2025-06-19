@@ -4,7 +4,7 @@
 image::55.jpg[align="left",title="Page 86, image 55 (Click to enlarge),link=self]
 
 
-
+....
 73. Louise Rosete
 
 geboren den 19ten December 1858, getauft den 23ten Januar 1868.
@@ -48,3 +48,4 @@ Carl Fridrigs Wilhelm Blocke
 Eltern
 Maria geb. Bibelheimer
 Pathen Jungfrau Maria Blecke, u. Jungfr. Isabella Bibelheimer.
+....

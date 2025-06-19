@@ -3,5 +3,3 @@
 
 image::58.jpg[align="left",title="Page 89, image 58 (Click to enlarge)",link=self]
 
-
-

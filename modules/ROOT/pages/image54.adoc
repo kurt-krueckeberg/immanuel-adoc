@@ -3,6 +3,7 @@
 
 image::54.jpg[align="left",title="Page 85, image 54 (Click to enlarge),link=self]
 
+....
 67. Christian Wilhelm
 geboren den 28ten Januar und getauft den 10 Februar 1867.
 Christian Fridrich Bleeke
@@ -50,3 +51,4 @@ Fridrich Schönstedt
 Eltern
 Agnese geb. Mitteldorp
 Taufzeugen: Jakob Stöhr und dessen Ehefrau Elisabeth
+....
