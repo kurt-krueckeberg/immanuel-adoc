@@ -5,7 +5,7 @@ image::22.jpg[align="left",title="Johann Andreas Thieme Biography (Click to Enla
 
 == Transliteration from old German script
 
-[role="literal-narrower"]
+[role="literal-narrow"]
 ....
 page 36
 
@@ -52,7 +52,7 @@ Oktober 1865. Ihre Taufpathen sind: Philippine Weÿland und Philippine
 Christine Koldewey.
 ....
 
-[role="section-narrower"]
+[role="section-narrow"]
 == English Translation
 
 page 36
