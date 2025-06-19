@@ -15,6 +15,11 @@ body.doc-width .doc
     border-left: 3px solid #ccc; /* A visual separator */ 
 }
 
+.section-narrow {
+    max-width: 95ch;
+}
+
+
 .section-narrower {
     max-width: 90ch;
 }
