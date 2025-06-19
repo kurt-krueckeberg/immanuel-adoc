@@ -1,11 +1,14 @@
+= Page 80
+:page-role: doc-width
 
-image::49.jpg[align=left,title='Image 49, Page 80 (Click to enlarge)',link=self]
+image::49.jpg[align=left,title='Page 80, image 49 (Click to enlarge)',link=self]
 
 == Transliteration
 
 NOTE: The later penciled-in addenda that begin with "+" signify the date of death,
 Penciled-in names apparently signify the name of an individual's eventual spouse.
 
+[role="literal-narrow"]
 ....
 [+5/18/32] 
           19.      Carl Fridrich Wilhelm
@@ -77,6 +80,7 @@ Penciled-in names apparently signify the name of an individual's eventual spouse
 
 == Transliteration
 
+[role="literal-narrow"]
 ....
 [+5/18/32] 
           19.       Carl Fridrich Wilhelm

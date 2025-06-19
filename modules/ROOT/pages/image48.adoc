@@ -1,9 +1,11 @@
 = Page 79
+:page-role: doc-width
 
 image::48.jpg[align="left",title="Page 79, image 48 (Click to enlarge),link=self]
 
 == Transliteration
 
+[role="literal-narrow"]
 ....
 13.         Maria Louise                      [+]
 
@@ -58,6 +60,7 @@ image::48.jpg[align="left",title="Page 79, image 48 (Click to enlarge),link=self
 
 == Transliteration
 
+[role="literal-narrow"]
 ....
 13.     Maria Louise                [+]
 
