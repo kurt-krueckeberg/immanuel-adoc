@@ -5,8 +5,7 @@ image::47.jpg[align=left,title='Image 47, Page 78 (Click to enlarge)',link=self]
 
 == Transliteration
 
-NOTE: Only entries 7, 8 and 9 are shown.
-
+[role="literal-narrower"]
 ....
 7.             Johann Heinrich
 
@@ -73,6 +72,7 @@ NOTE: Only entries 7, 8 and 9 are shown.
 
 == Translation
 
+[role="literal-narrower"]
 ....
 
 7.   Johann Heinrich
