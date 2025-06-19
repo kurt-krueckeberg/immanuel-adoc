@@ -1,9 +1,12 @@
 = Carl Heinrich Wilhelm Krückeberg
+:page-role: doc-width
+
+image::24.jpg[align="left",title="Carl Heinrich Wilhelm Krückeberg biography (Click to Enlarge)",link=self]
 
 == Transliteration from old German script
 
-//Download xref:attachment$carl-heinrich-wilhelm-krückeberg.jpg[original scanned image of biography]
-
+[role="literal-narrow"]
+....
 No. ?
 
 Sohn von Carl Gottlieb Krückeberg und Dorathea geb. Weiland geboren in
@@ -33,6 +36,7 @@ den 17 Juli d.J. Pathen: Caroline Schamerloh und Emma Belz
 
 * [blank space]
 
+[role="section-narrow"]
 == English Translation
 
 No. ?

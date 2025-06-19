@@ -18,7 +18,7 @@
 ** xref:image21.adoc[]
 ** xref:image22.adoc[]
 ** xref:image23.adoc[]
-** xref:bios/carl-heinrich-wilhelm-krueckeberg.adoc[]
+** xref:image24.adoc[]
 ** xref:bios/carl-dietrich-wilhelm-schamerloh.adoc[]
 ** xref:image25.adoc[]
 ** xref:bios/carl-heinrich-ludwig-koldewey.adoc[]
