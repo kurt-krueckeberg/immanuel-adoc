@@ -1,6 +1,7 @@
 = Register
-image::229.jpg[align=left,title='Page 193 (Click to enlarge)',link=self]
 :page-role: doc-width
+
+image::229.jpg[align=left,title='Page 193 (Click to enlarge)',link=self]
 
 [role="section-narrow"]
 == Transliteration
