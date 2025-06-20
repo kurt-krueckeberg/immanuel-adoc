@@ -49,7 +49,8 @@
 ** xref:image58.adoc[]
 * Confirmandenregister
 ** xref:image117.adoc[]
-* Leichenbegängnisse
+* Register +
+der Leichenbegängnisse
 ** xref:image229.adoc[]
 ** xref:image230.adoc[1869 Christian Wilhelm Bleeke Burial]
 ** xref:image231.adoc[1874 Heinrich Wilhelm Weyland Burial]
