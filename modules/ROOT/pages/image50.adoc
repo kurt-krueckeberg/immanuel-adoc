@@ -6,7 +6,7 @@ image::50.jpg[align="left",title="Page 81, image 50 (Click to enlarge)",link=sel
 == Translation
 [role="literal-narrower"]
 ....
-      25. Heinrich ???????
+      25. Heinrich                                                   [+5/4/61]
 
             born on May 2nd and baptized on the same day, 1861.
 
@@ -18,22 +18,22 @@ image::50.jpg[align="left",title="Page 81, image 50 (Click to enlarge)",link=sel
 
       26. Wilhelmine Christine
 
-            born on April 20th and baptized on May 5th, 1861.
+            born on April 20th and baptized on May 5th, 1861.         [+1/26/97]
 
                   Conrad Dietrich Ferdinand Reinking
             Parents
                   Maria Louise Eleonore, née Bleeke.
 
-            Godparents: Wilhelmine Reinking, Sophie Herkmann, and
+            Godparents: Wilhelmine Reinking, Sophie Heckmann, and
             Maria Bleeke.
 
       27. a) Christine Emilie
 
-            born on September 8th and baptized on September 89th, 1861.
+            born on September 8th and baptized on September 29th, 1861. [+4/16/98]
 
                   Carl Fridrich Wilhelm Bleeke.
             Parents
-                  Maria, née Bibelheimer.
+                  Maria née Bibelheimer.
 
             Godparents: Christine Heckmann and Caroline Scheumann.
             (For the next child, see the following page 35)
@@ -48,16 +48,16 @@ image::50.jpg[align="left",title="Page 81, image 50 (Click to enlarge)",link=sel
 
             Godparents: Jakob Stöhr and his wife Elisabeth.
 
-      29. Maria Margaretha Elisabeth
+      29. Maria Margaretha Elisabeth   [Moved to Hebr(on Nebraska) with a ????? 1877]
 
-            Born on January 20 and baptized 1862????
+            Born on January 20 and baptized 1862
 
                   Christian Wilhelm Fells.
             Parents
-                  Elisabeth née Ruß.
+                  Elisabeth née Ruß???
 
             Godparents: Maria Blecke and Margaretha Christiäner
-            Moved to me with a little 1977???
+         
 
       30. Caroline Sophie Louise
 
