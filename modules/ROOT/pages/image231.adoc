@@ -8,7 +8,7 @@ image::231.jpg[align=left,title='Image 231 (Click to enlarge)',link=self]
 
 [arabic,start=16]
 . Ein todtgebornes Söhnlein des Herrn Christian Bischoff.
-u. seiner Ehefrau Cawlina, den 11. Febr. 1872.
+\u. seiner Ehefrau Cawlina, den 11. Febr. 1872.
 873.
 . Carolina Philippina Sofhia Schamerloh, Ehefrau des Christian
 Diedrich Schamerloh, gestorben den 2t Januar 1873, im Alter von
