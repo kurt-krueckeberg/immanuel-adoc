@@ -4,7 +4,7 @@
 image::37.jpg[align="left",title="Pastors of Congregation",link=self]
 
 
-
+[role="section-narrow"]
 == Transliteration
 
 This was later written in pencil at the top of the page.
@@ -13,7 +13,7 @@ This was later written in pencil at the top of the page.
                        Pastors of the congregation
 ....
 
-[%noheader,cols="<2,<6,>3",width="75%",frame="none"]
+[%noheader,cols="<2,<6,>3",frame="none"]
 |===
 ||A Fritze|
 
@@ -49,7 +49,7 @@ Vacancy pastor
 
 == Translation
 
-[%noheader,cols="<2,<6,>3",width="75%",frame="none"]
+[%noheader,cols="<2,<6,>3",frame="none"]
 |===
 ||A Fritze|
 
