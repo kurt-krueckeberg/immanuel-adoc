@@ -1,25 +1,24 @@
 = Entries 153-157
 
-107,
-Taufregister.
-1881.
-.
-Justinus Hermann
+== Transliteration
+
+=== Taufregister.
+
+[arabic,start="153"]
+. Justinus Hermann
 geboren den 5 August u. getauft den 14 August 1881.
 Wilhelm Holle.
 Eltern.
 Sophie -
 geb. Bleekn.
 Pathen: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege
-ist
-Hermann Jakob Ferdina
+. Hermann Jakob Ferdina
 geboren den 27 September und getauft den 9t October 1881.
 Christian Schamerloh.
 Eltern
 Emilie = = geb. Bürger.
 Pathen: Heinrich Arückeberg, Jakob Bürger, Ferdinand Reikirg.
-Frieda Caroline Maria
-.
+. Frieda Caroline Maria
 1881.
 geboren den 2t und getauft den 8t September
 Heinrich Bischoff.
@@ -28,7 +27,7 @@ Christine = - geb: Bleeke.
 Pathen: Caroline Bischoff u. Maria Blenke
 (Großmütter)
 1882.
-Johanna Doris Elise
+. Johanna Doris Elise
 geboren den 29t December 1881, getauft den 20 Januar 1882.
 Hermann Büttner
 Eltern]
@@ -36,11 +35,7 @@ geb. Roth.
 Louise.
 W
 Pathen: Frau Doris Haŭgt und Fraŭ Therese Roth.
-line
-Maria
-ar
-um
-Elisommen.
+. Maria Elisommen.
 geboren den 14 Jannar u. getauft den 29 Januar 1882,
 Wilhelm Reinking.
 Eltern
@@ -48,7 +43,7 @@ Louise
 geb. Blenke
 Pathen: Frau Maria Runkinger u. Darhier Ehemann
 60
-Marie Louise Rosine,
+. Marie Louise Rosine,
 3.
 Februar 1882.
 geboren den 25 Januar und getauft den
