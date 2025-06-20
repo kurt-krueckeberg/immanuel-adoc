@@ -3,9 +3,9 @@
 
 image::231.jpg[align=left,title='Image 231 (Click to enlarge)',link=self]
 
-[role="section
 == Transliteration
 
+[options="noheader",cols="<1,<9"]
 |===
 |16| Ein todtgeborenes Söhnlein des Herrn Christian Bischoff. u.
 seiner Ehefrau Caroline, den 1. Febr. 1872.
