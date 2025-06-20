@@ -1,4 +1,4 @@
-= 1877-1879 Entries 24-30
+= 1877-1879, Entries 24-30
 :page-role: doc-width
 
 image::232.jpg[align=left,title='Image 232 (Click to enlarge)',link=self]
