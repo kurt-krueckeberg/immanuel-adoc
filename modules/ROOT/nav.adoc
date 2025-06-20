@@ -31,7 +31,7 @@
 ** xref:bios/abraham-stendler.adoc[]
 ** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
 ** xref:bios/david-bibelheimer.adoc[]
-* xref:bios/pastors-at-immanuel.adoc[Pastors]
+* xref:image37.adoc[]
 * xref:taufregister.adoc[]
 ** xref:image46.adoc[]
 ** xref:image47.adoc[]
