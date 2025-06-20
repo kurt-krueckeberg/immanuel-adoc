@@ -3,6 +3,7 @@
 
 image::38.jpg[align="left",title="Click to Enlarge",link=self]
 
+[role="section-narrower"]
 == Transliteration
 
 Written later in pencil at the top of the page:
@@ -26,6 +27,7 @@ Johann Lahmann, Ida Reinking +
 \G. Bauer Pastor
 |===
 
+[role="section-narrower"]
 == Translation
 
 .Trauungen im Jahre 1905
