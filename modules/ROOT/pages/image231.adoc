@@ -7,39 +7,52 @@ image::231.jpg[align=left,title='Image 231 (Click to enlarge)',link=self]
 
 [options="noheader",cols="2,1,12"]
 |===
-|1872|16| Ein todtgeborenes Söhnlein des Herrn Christian Bischoff. u.
+|1872
+|15
+| Ein todtgeborenes Söhnlein des Herrn Christian Bischoff. u.
 seiner Ehefrau Caroline, den 1. Febr. 1872.
 
-|1873|17| Carolina Philippina Sophia Schamerloh, Ehefrau des Christian
+|1873
+|16
+| Carolina Philippina Sophia Schamerloh, Ehefrau des Christian
 Diedrich Schamerloh, gestorben den 2ten Januar 1873, im Alter von
 32 Jahren, 3 Monaten u. 25 Tagen. Christlich zur Erde bestattet den
 4 Januar.
 
-.2+|1874|18|Louise, Maria Auguste, Töchterlein der Herrn Herrmann
+.2+|1874
+|17
+|Louise, Maria Auguste, Töchterlein der Herrn Herrmann
 Reinking und seiner Ehefrau Maria, geb. Bleeke, gestorben
 den 11. Juli 1874. im Alter von 1 Monat und 20 Tagen.
 Christlich zur Erde bestattet den 12 Juli. (Taufregister No 130)
 
-.2+|1875|19|Heinrich Wilhelm Weyland, gestorben den 5 Sept.
+|18
+|Heinrich Wilhelm Weyland, gestorben den 5 Sept.
 1874 in einem Alter von 59. Jahren 8 Monaten u. 22 Tagen.
 christlich zur Erde bestattet den 7. Sept. 1874 Er
 hinterläßt seine Ehefrau Sophie Wilhelmine, geb. Piehl, und drei 
 erwachsene Kinder (Siehe. Kirchenbuch Seite 35, No. 5).
 
-|20|Ein [line-through]#todtgeborenes# Söhnlein des Herrn Andreas Thieme,
+|19|Ein [line-through]#todtgeborenes# Söhnlein des Herrn Andreas Thieme,
 und seiner Ehefrau Sophie. Unmittelbar nach der Nothlaufe gestorben
 
-|22|Sophia Maria Mathilda, Töchterlein des Herrn Gottfried Thieme
+|20|Sophia Maria Mathilda, Töchterlein des Herrn Gottfried Thieme
 und seiner Ehefrau Amalie, geb. Roscher. geboren den 24. Juni 1874.
 gestorben am 29 Oct und christlich zur Erde bestattet den 31. Oct.
 1876. Alter 2 Jahre 4 Monate. (Taufregister No. 132.).
 
-.3+|1876|23|Heinrich Herman, Söhnlein von W. Fells und
+.3+|1876
+|21
+|Heinrich Herman, Söhnlein von W. Fells und
 Elisabeth geb. Rup. gestorben den 22. Sept. 1876.
 christlich begraben am 23. Sept. (Siehe Taufregister 142)
-|24|Ein todtgeborenes Söhnlein von Ludwig Coldewey, u. d. s. Ehefrau,
+
+|22
+|Ein todtgeborenes Söhnlein von Ludwig Coldewey, u. d. s. Ehefrau,
 Sophie.
-|25|Caroline Philipine Ehefrau des Herrn Carl Dietrich Wilhelm
+
+|23
+|Caroline Philipine Ehefrau des Herrn Carl Dietrich Wilhelm
 gestorben am 16. März 1877 christlich zur Erde bestattet
 am 19. März. Alter: 39 Jahre 5 Monate.
 |===
