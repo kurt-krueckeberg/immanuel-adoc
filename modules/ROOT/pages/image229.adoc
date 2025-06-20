@@ -3,11 +3,10 @@
 
 image::229.jpg[align=left,title='Page 193 (Click to enlarge)',link=self]
 
+[role="section-narrower"]
 == Translation
 
-[role="literal-narrower"]
-....
-Register der Leichenbegängnisse
+=== Register der Leichenbegängnisse
 
 1. Fridrich Jacob Söhnlein des Herrn Heinrich Rücklis und seiner
 Ehefrau Friderike geb. Dauer, starb am 20t. Juny 1866 in einem
