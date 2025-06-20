@@ -7,36 +7,37 @@ image::230.jpg[align=left,title='Image 230 (Click to enlarge)',link=self]
 == Transliteration
 
 === Register der Leichenbegängnisse
+
 [arabic,start="8"]
-8. Wilhelm Söhnlein des Herrn Christian Bleeke und
+. Wilhelm Söhnlein des Herrn Christian Bleeke und
 seiner Ehefrau Maria geb. Rup, starb in einem
 Alter von 2 Jahren, 7 Monaten u. 14 Tagen den 11ten
 September 1869 u. wurde am 13ten d. M. christlich zur
 Erde bestattet. (Taŭfregister No 67)
-9. Auguste Maria Johanne Töchterlein des Pastors Heinrich
+. Auguste Maria Johanne Töchterlein des Pastors Heinrich
 Steger und seiner Ehefrau Elise geb. Stoppenhagen starb
 am 5 December 1869 im Alter von 3 Jahren 3 Monat.
 und 7 Tagen, und wurde am 8 December christlich
 zur Erde bestattet. (Taufregister No 62.)
-10. Fridrich Christian Söhnlein des Herrn Christian Schamer-
+. Fridrich Christian Söhnlein des Herrn Christian Schamer-
 loh und seiner Ehefrau Caroline geb: Krückeberg, ge-
 storben den 24 December 1869 in einem Alter von
 3 Jahren, 11 Monaten u. 24 Tagen, christlich zur Erde be-
 stattet den 26 December 1869. (Taufregischer No 58.)
-11. Louise Sophie Caroline Tochter des Herrn Christian Scha-
+. Louise Sophie Caroline Tochter des Herrn Christian Scha-
 merloh u. seiner Ehefrau Caroline geb. Krückeberg gestor-
 ben den 9te Januar 1870 in einem Alter von 7 Jahren
 9 Monaten u. 22 Tagen, christlich zur Erde bestattet den
 11 Januar 1870. (Taufregister No 31.)
-12. Anna Pauline Elisabeth, Töchterlein des Herrn Carl Martin
+. Anna Pauline Elisabeth, Töchterlein des Herrn Carl Martin
 Friedrich Scharbade, und seiner Ehefrau Christina Friedricke,
 geb. Meile, gestorben den 5t Mai 1870. im Alter von
-3. Monaten u. 16. Tagen, christl. zur Ende bestattet den 6 Mai
+\3. Monaten u. 16. Tagen, christl. zur Ende bestattet den 6 Mai
 1870 (Taufregister Nov. 94)
-13. Ein todtgebornes Söchnlein des Herrn Carl Martin Friedrich
+. Ein todtgebornes Söchnlein des Herrn Carl Martin Friedrich
 Scharbade, u. seiner Ehefrau Friedricha Christina, geb. Meiler
 den 3ten Juni 1871.
-14. Ervin, Söhnlein des Herrn Eduard Pellz u. seiner Ehefrau Sophie
+. Ervin, Söhnlein des Herrn Eduard Pellz u. seiner Ehefrau Sophie
 gestorben den 20 Nov: 1871. in einem Alter von 6 Jahr. 7 Monat u. 5 Tage
 und christl. bestattet den 21 Nov. 1871.
 
@@ -46,14 +47,14 @@ und christl. bestattet den 21 Nov. 1871.
 === Register of Burials
 
 [arabic,start="8"]
-8. Wilhelm, son of Mr. Christian Bleeke and his wife Maria, née Rup, died on September 11, 1869, at the age of 2 years, 7 months, and 14 days, and was given a Christian burial on the 13th of this month. (Baptismal Register No. 67)
-9. Auguste Maria Johanne, daughter of Pastor Heinrich Steger and his wife Elise, née Stoppenhagen, died on December 5, 1869, at the age of 3 years, 3 months, and 7 days, and was given a Christian burial on December 8. (Baptismal Register No. 62.)
-10. Fridrich Christian, son of Mr. Christian Schamerloh and his wife Caroline, née Krückeberg, died on December 24, 1869, at the age of 3 years, 11 months, and 24 days. Buried in a Christian ceremony on December 26, 1869. (Baptismal Register No. 58.)
-11. Louise Sophie Caroline, daughter of Mr. Christian Schamerloh and his wife Caroline, née Krückeberg, died on January 9, 1870, at the age of 7 years, 9 months, and 22 days. Buried in a Christian ceremony on January 11, 1870. (Baptismal Register No. 31.)
-12. Anna Pauline Elisabeth, daughter of Mr. Carl Martin Friedrich Scharbade and his wife Christina Friedricke, née Meile, died on May 5 1870, at the age of
+. Wilhelm, son of Mr. Christian Bleeke and his wife Maria, née Rup, died on September 11, 1869, at the age of 2 years, 7 months, and 14 days, and was given a Christian burial on the 13th of this month. (Baptismal Register No. 67)
+. Auguste Maria Johanne, daughter of Pastor Heinrich Steger and his wife Elise, née Stoppenhagen, died on December 5, 1869, at the age of 3 years, 3 months, and 7 days, and was given a Christian burial on December 8. (Baptismal Register No. 62.)
+. Fridrich Christian, son of Mr. Christian Schamerloh and his wife Caroline, née Krückeberg, died on December 24, 1869, at the age of 3 years, 11 months, and 24 days. Buried in a Christian ceremony on December 26, 1869. (Baptismal Register No. 58.)
+. Louise Sophie Caroline, daughter of Mr. Christian Schamerloh and his wife Caroline, née Krückeberg, died on January 9, 1870, at the age of 7 years, 9 months, and 22 days. Buried in a Christian ceremony on January 11, 1870. (Baptismal Register No. 31.)
+. Anna Pauline Elisabeth, daughter of Mr. Carl Martin Friedrich Scharbade and his wife Christina Friedricke, née Meile, died on May 5 1870, at the age of
 3 months and 16 days, was given a christian burial on May 6, 1870 (baptismal register November 94).
-13. A stillborn son of Mr. Carl Martin Friedrich Scharbade and his wife Friedricha Christina, née Meiler, on June 3, 1871.
-14. Ervin, son of Mr. Eduard Pellz and his wife Sophie, died on November 20, 1871, at the age of 6 years, 7 months and 5 days, and was given a christian burial on November 21, 1871.
+. A stillborn son of Mr. Carl Martin Friedrich Scharbade and his wife Friedricha Christina, née Meiler, on June 3, 1871.
+. Ervin, son of Mr. Eduard Pellz and his wife Sophie, died on November 20, 1871, at the age of 6 years, 7 months and 5 days, and was given a christian burial on November 21, 1871.
 
 [bibliography]
 == Citation
