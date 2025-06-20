@@ -32,6 +32,7 @@
 ** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
 ** xref:bios/david-bibelheimer.adoc[]
 * xref:image37.adoc[]
+* xref:image38.adoc[]
 * xref:taufregister.adoc[]
 ** xref:image46.adoc[]
 ** xref:image47.adoc[]
