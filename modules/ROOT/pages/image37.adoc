@@ -6,94 +6,76 @@ image::37.jpg[align="left",title="Pastors of Congregation",link=self]
 
 [_Pastors of the congregation_ is written in large pencil at the top of]
 
-== Transliteration from old German script
+== Transliteration
 
-No. 21
- 
+[%noheader,cols="<2,<6,>3",frame="none"]
+|===
+||A Fritze|
 
-*A. Fritze*
+.4+|+++<br />Steger at<br />Hunington<br />1873-1879+++|H. Steger von  Nov. 5 1865. - 7. Febr. 1870 .3+>|+++<br /> A Fritz<br /> Vakanzpred[iger]+++
 
-_Seger at Hunington 1873-1879_ [penciled in the left margin, to the left
-of and applying to the next four names below]
+|P. Rupprecht von Mai 29 1870 - Nov 1873
 
-_A Fritze Vakanz Prediger_ [written in ink on far right, opposite of and
-applying to the next 3 names below]
+|H. Cämmerer Juni 1874- Febr. 1879
 
-*H Steger* von Nov. 5 1865 – 7 Feb. 1870
+|H. Steger Febr. 23 1879 - Febr 1885 >| Fr. Berg Vakanzpredig
 
-*P. Rupprecht* von Mai 29 1870
+||W. Schmidt, 23. Mai 1886 - 1. Jan. 1905|
 
-*H Cämmerer* Juni 1874 – Feb 1879
+||G. Bauer 23 Mär 1905 - 1913 June 29 >|K. Wyneken Vakanzprediger
 
-*H Steger* Feb23 1879 – Febr. 1885 F[the F is uncertain] Berg Vakanz
-Prediger
+||R. Hoffmann (called 7/20 / 1913) 1913 - 1916 Jan. 17, 1917 >|Zoch, Convoy,Vacancy P.
 
-*W. Schmidt* 23 Mai 1886 – 1. Jan. 1905
+||F. Mohn (called 4/6/17) 1917-1922 Oct. 15 >|A. Hi[?] Vakanzp.
 
-[G?] *Bauer* 23 März 1905 – 1913 June 29 K. Wyneken Vakanz Predige
+||J.H. Lindhorst (called 11/23/22) Jan 21 1923-1924  died July 25. >| A Moeller Vakpred.
 
-{empty}[Z?]ock, Convoy, Vacancy P. [written in pencil, on right side]
+||M. J. Frosch 28. Sept. 1924 - 7. Juli 1940  died Aug. 13, 1941|
 
-*K*[or possilby H?] *Hoffmann* (called 7/20/1913) Sept. 7 1913 –
-[line-through]*1916* Jan. 17, 1917
+||W. H. [Runmut], Oct. 25, 1940-Aug 6, 1944|
 
-*F. Mohn* (called 4/6/17) May 13, 1917 – 1922 Oct 5 A. H[rest of name is
-unclear] Vakanz P.
+|| >|H. J. A. Borman +
+Vacancy pastor
 
-*J. H. Lindhorst* (called 11/243/22) Jan. 21 1923 – 1924 died July 25 _A.
-Moeller Vak. Pred._ [written in pencil on right side]
+||E. B. Allwardt Oct 15, 1944-June 11, 1950|
 
-*M. J. Frosch* 28. Sept. 1924 – 7 Juli 1940 died Aug 13, 1941
+||N. C. Vetter. Dec. 3 1950-|
+|===
 
-*W. H. Rummert* [Rummmut?], Oct. 25, 1940 – Aug. 6, 1944. _H.H.A. Bauman
-[Borman?]_ vacancy pastor
+== Translation
 
-*E.B. Allwardt* Oct. 15, 1944 – June 11, 1950
+[%noheader,cols="<2,<6,>3",frame="none"]
+|===
+||A Fritze|
 
-*W. [N.?] C. Vetter* Dec 3, 1950 –
+.4+|+++<br />Steger at<br />Hunington<br />1873-1879+++|H. Steger von  Nov. 5 1865. - 7. Febr. 1870 .3+>|+++<br /> A Fritz<br />vacancy preacer+++
 
+|P. Rupprecht von Mai 29 1870 - Nov 1873
 
-== English Translation
+|H. Cämmerer Juni 1874- Febr. 1879
 
-No. 21
+|H. Steger Febr. 23 1879 - Febr 1885 >| Fr. Berg vacancy preacher
 
-*A. Fritze*
+||W. Schmidt, 23. Mai 1886 - 1. Jan. 1905|
 
-_Steger at Hunington 1873-1879_ [penciled in the left margin, to the left
-of and applying to the next four names below]
+||G. Bauer 23 Mär 1905 - 1913 June 29 >|K. Wyneken Vakanzprediger
 
-_A Fritze vacany preacher_ [written in ink on far right, opposite of and
-applying to the next 3 names below]
+||R. Hoffmann (called 7/20 / 1913) 1913 - 1916 Jan. 17, 1917 >|Zoch, Convoy,Vacancy P.
 
-*H Steger* von Nov. 5 1865 – 7 Feb. 1870
+||F. Mohn (called 4/6/17) 1917-1922 Oct. 15 >|A. Hi[?] Vakanzp.
 
-*P. Rupprecht* von May 29 1870
+||J.H. Lindhorst (called 11/23/22) Jan 21 1923-1924  died July 25. >| A Moeller vacancy p.
 
-*H Cämmerer* June 1874 – Feb 1879
+||M. J. Frosch 28. Sept. 1924 - 7. Juli 1940  died Aug. 13, 1941|
 
-*H Steger* Feb 23 1879 – Febr. 1885 F[the F is uncertain] Berg vacancy preacher
+||W. H. [Runmut], Oct. 25, 1940-Aug 6, 1944|
 
-*W. Schmidt* 23 Mai 1886 – 1. Jan. 1905
+|| >|H. J. A. Borman +
+Vacancy pastor
 
-*[G?] Bauer* 23 März 1905 – 1913 June 29 K. Wyneken Vakanz Predige
+||E. B. Allwardt Oct 15, 1944-June 11, 1950|
 
-{empty}[Z?]ock, Convoy, Vacancy P. [written in pencil, on right side]
+||N. C. Vetter. Dec. 3 1950-|
+|===
 
-*K[or possilby H?] Hoffmann (called 7/20/1913) Sept. 7 1913 –
-[line-through]*1916* Jan. 17, 1917
-
-*F. Mohn* (called 4/6/17) May 13, 1917 – 1922 Oct 5 A. H[rest of name is
-unclear] Vakanz P.
-
-*J. H. Lindhorst* (called 11/243/22) Jan. 21 1923 – 1924 died July 25 _A.
-*Moeller vac. preacher_ [written in pencil on right side]
-
-*M. J. Frosch* 28. Sept. 1924 – 7 Juli 1940 died Aug 13, 1941
-
-*W. H. Rummert* [Rummmut?], Oct. 25, 1940 – Aug. 6, 1944. _H.H.A. Bauman
-[Borman?]_ vacancy pastor
-
-*E.B. Allwardt* Oct. 15, 1944 – June 11, 1950
-
-*W. [N.?] C. Vetter* Dec 3, 1950 –
 
