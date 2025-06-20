@@ -3,6 +3,7 @@
 
 image::231.jpg[align=left,title='Image 231 (Click to enlarge)',link=self]
 
+[role="section-narrower"]
 == Transliteration
 
 [options="noheader",cols="5%,5%,90%",frame="none"]
