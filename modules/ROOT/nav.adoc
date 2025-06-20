@@ -47,6 +47,14 @@
 ** xref:image56.adoc[]
 ** xref:image57.adoc[]
 ** xref:image58.adoc[]
+** xref:image59.adoc[]
+** xref:image60.adoc[]
+** xref:image61.adoc[]
+** xref:image62.adoc[]
+** xref:image63.adoc[]
+** xref:image64.adoc[]
+** xref:image65.adoc[]
+** xref:image66.adoc[]
 * Confirmandenregister
 ** xref:image117.adoc[]
 * Register +
