@@ -8,7 +8,7 @@ image::37.jpg[align="left",title="Pastors of Congregation",link=self]
 
 == Transliteration
 
-[%noheader,cols="<2,<6,>3",frame="none"]
+[%noheader,cols="<2,<6,>3",width="80%",frame="none"]
 |===
 ||A Fritze|
 
