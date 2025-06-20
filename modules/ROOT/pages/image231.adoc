@@ -5,22 +5,40 @@ image::231.jpg[align=left,title='Image 231 (Click to enlarge)',link=self]
 
 == Transliteration
 
-NOTE: Only entry #18 is shown.
 
-....
-18. Heinrich Wilhelm Weyland, gestorben den 5 Sept.
-1874. in einem Altero von 59 Jahren 8 Monaten und 22 Tagen.
-christlich zur Erde bestattet den 7ten Sept 1874. Er hinterläßt
-sein Ehefrau Sophie Wilhelmine geb. Piehl und drei er-
-wachsene Kinder (Siehe Kirchenbuch Seite 35, No. 5)
-....
+[arabic,start=16]
+. Ein todtgebornes Söhnlein des Herrn Christian Bischoff.
+u. seiner Ehefrau Cawlina, den 11. Febr. 1872.
+873.
+. Carolina Philippina Sofhia Schamerloh, Ehefrau des Christian
+Diedrich Schamerloh, gestorben den 2t Januar 1873, im Alter von
+32 Jahren, 3 Monaten u. 25 Tagen. Christl. zur Erde bestattet den
+4 vanuar.
+. Louise, Maria Auguste, Töchterlein der Herrr Herrmann
+Reinking und seiner Ehefrau Maria, geb. Blerke, gestorben.
+den 11. Juli 1874. Alter von 1 Monat
+und 20 Tagen.
+Christl. zur Erde bestattet den 12 Juli. (Tausrepister No 130)
+. Heinrich Wilhelm Weyland, gestorben den 5 Sept.
+1874 in einem Alter von 59. Jahren 8 Monate u. 22 Tlper.
+grichtlich zur Erde bestattet den 7. Sept. 1874 E
+hinterläßt.
+seine Ehefrau Sophie Wilhelm, geb. Piehl, und drei er¬
+wachsene Kinders (Siehe. Kirchenbuch Seite 35, No. 5).
+1875.1a
+. Ein [line-through]#todtgeborenes# Söhnlein des Herrn Andreas Thieme,
+und seiner Ehefrau Sophie Unmittelbar nach der Nothlaufe gestorben
+. Sophia Maria Mathilda, Töchterlein des Herrn Gott seines Thüre
+und seiner Ehefrau-Amalie, geb. Roscher. geboren den 24. Juni 1874.
+gestorben am 29t Oct und heistl. zur Erde bestattet den 31. Oct.
+Alter 2 Jahre 4 Monate. (Taufregister No. 132.).
+. Heinrich Herman, Söhnlere von W. Fello und
+Elisabeth geb. Rup. gestorben den 22. Sept. 1876.
+christl begraben am 23. Sept. (Siehe Taufmeister S. 1. 2)
+. Ein tratgeborenes Söhnlein von Ludwig Coldewey, u. d. s. Ehefrau,
+Sophie.
+. Caroline Philipine Ehefrau des Herrn Carl Dietrich Wilhelm
+gestorben am 16. März 1877 christl. zur Erde bestattet
+am 19. März. Alter.
+39 Jahre 5 Monate.
 
-== Translation
-
-....
-18. Heinrich Wilhelm Weyland, died the 5th Sept.
-1874. at the age of 59 years 8 months and 22 days.
-Christian burial on the 7th Sept. 1874. He leaves behind
-his wife Sophie Wilhelmine née Piehl and three
-grown children (see church register page 35, No. 5)
-....
