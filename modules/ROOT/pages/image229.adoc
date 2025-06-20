@@ -6,8 +6,6 @@ image::229.jpg[align=left,title='Page 193 (Click to enlarge)',link=self]
 [role="section-narrow"]
 == Transliteration
 
-NOTE: Only entries #2 and #6 from the image have been transliterated.
-
 [role="literal-narrower"]
 ....
            Register
