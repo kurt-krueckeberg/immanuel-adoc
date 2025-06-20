@@ -3,7 +3,6 @@
 
 image::37.jpg[align="left",title="Pastors of Congregation",link=self]
 
-
 [role="section-narrow"]
 == Transliteration
 
@@ -47,6 +46,7 @@ Vacancy pastor
 ||N. C. Vetter. Dec. 3 1950-|
 |===
 
+[role="section-narrow"]
 == Translation
 
 [%noheader,cols="<2,<6,>3",frame="none"]
