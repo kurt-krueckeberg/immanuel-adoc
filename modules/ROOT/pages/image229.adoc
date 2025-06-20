@@ -44,12 +44,10 @@ zur Erda bestattet. Alter 2 Jahre 8 Monate u. 28 Tage.
 (Taufregiser No 65.)
 ....
 
+[role="section-narrower"]
 == Translation
 
-[role="literal-narrower"]
-....
-        Register
-     of the Funerals
+===  Register of the Funerals
 
 1. Fridrich Jacob, son of Mr. Heinrich Rücklis and his wife Friderike,
    née Dauer, died on June 20, 1866, at the age of 2 years, 1 month,
@@ -78,7 +76,6 @@ zur Erda bestattet. Alter 2 Jahre 8 Monate u. 28 Tage.
    née Busch, died on August 21, 1869, and was buried in a Christian burial
    on the 23rd of this month. Age 2 years, 8 months, and 28 days.
    (Baptismal Register No. 65.)
-....
 
 [bibliography]
 == Citation
