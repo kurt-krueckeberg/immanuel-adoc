@@ -1,4 +1,4 @@
-= Register
+= Entries 1-7
 :page-role: doc-width
 
 image::229.jpg[align=left,title='Page 193 (Click to enlarge)',link=self]
