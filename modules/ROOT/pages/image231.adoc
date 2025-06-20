@@ -1,4 +1,4 @@
-= Image 231
+= 1872-1875, Entries 15-23
 :page-role: doc-width
 
 image::231.jpg[align=left,title='Image 231 (Click to enlarge)',link=self]
