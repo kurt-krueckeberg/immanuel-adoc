@@ -70,5 +70,5 @@ der Leichenbegängnisse
 ** xref:image229.adoc[]
 ** xref:image230.adoc[]
 ** xref:image231.adoc[]
-** xref:image232.adoc[TODO: 4 Persons]
+** xref:image232.adoc[]
 * link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
