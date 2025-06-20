@@ -21,59 +21,62 @@ image::49.jpg[align=left,title='Page 80, image 49 (Click to enlarge)',link=self]
       
  [+?] 20. Caroline Elisabeth
       
-      [E.C. Gallmeier]
+ [E.C. Gallmeier]
       
-      born on November 1st and baptized on November 20th, 1859.
-      
-            Carl Fridrich Wilhelm Bleeke.
-      Parents:
-            Maria née Bibelheimer
-      
-      Godparents: Elisabeth Bibelheimer and Maria Bleeke.
-      
-      (For the next child, see No. 33.)
+         born on November 1st and baptized on November 20th, 1859.
+         
+               Carl Fridrich Wilhelm Bleeke.
+         Parents:
+               Maria née Bibelheimer
+         
+         Godparents: Elisabeth Bibelheimer and Maria Bleeke.
+         
+         (For the next child, see No. 33.)
       
       21. Maria Elise
       
-      [+3/10/95] Born on June 23rd and baptized on July 8th, 1860
+ [+3/10/95] 
+         born on June 23rd and baptized on July 8th, 1860
+         
+               Christian Fridrich Bleeke
+         Parents:
+               Anna Maria née Rup.
+         
+         Godparents: Maria Reinking and Sahra Rup.
+         
+     22. Fridrich Wilhelm
       
-            Christian Fridrich Bleeke
-      Parents:
-            Anna Maria née Rup.
-      
-      Godparents: Maria Reinking and Sahra Rup.
-      
-      22. Fridrich Wilhelm
-      
-      + Born on July 16th and baptized on July 29th, 1860.
-      
-            Johann Andreas Thieme
-      Parents:
-            Christine Sophie Eleonore née Krückeberg.
-      
-      Godparents: Wilhelm Weiland and Carl Krückeberg.
+[+]      born on July 16th and baptized on July 29th, 1860.
+        
+               Johann Andreas Thieme
+         Parents:
+               Christine Sophie Eleonore née Krückeberg.
+         
+         Godparents: Wilhelm Weiland and Carl Krückeberg.
       
       23. Fridrich Christian Wilhelm
       
-      [+2/1/40] Born on September 30th and baptized on October 6th, 1860
-      
-            Carl Heinrich Wilhelm Krückeberg
-      Parents:
-            Caroline Wilhelmine née Kleinschmidt.
-      
-      Godparents: Wilhelm Schamerloh Christian Kleinschmidt.
-      
+[+2/1/40] 
+          born on September 30th and baptized on October 6th, 1860
+          
+                Carl Heinrich Wilhelm Krückeberg
+          Parents:
+                Caroline Wilhelmine née Kleinschmidt.
+       
+          Godparents: Wilhelm Schamerloh Christian Kleinschmidt.
+       
       24. Carl Wilhelm Christian
       
-      [+1/2/62] Born on September 15th and baptized on October 6th, 1860
-      
-      Johann Heinrich Wilhelm Carl Grote
-      Parents:
-      Caroline Philippine Dorathea née Krückeberg
-      
-      Godparents: Carl Nürge and Christian Schamerloh.
+[+1/2/62] 
+          born on September 15th and baptized on October 6th, 1860
+                 
+                 Johann Heinrich Wilhelm Carl Grote
+          Parents:
+                 Caroline Philippine Dorathea née Krückeberg
+                 
+          Godparents: Carl Nürge and Christian Schamerloh.
 ....
-      
+                 
 
 [bibliography]
 == Citation
