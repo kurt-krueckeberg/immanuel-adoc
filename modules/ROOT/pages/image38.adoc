@@ -1,0 +1,43 @@
+= continuation of marriage register
+:page-role: doc-width
+
+image::38.jpg[align="left",title="Click to Enlarge",link=self]
+
+== Transliteration
+
+Written later in pencil at the top of the page:
+
+....
+                 continuation of marriage registers
+....
+
+
+.Trauungen im Jahre 1905
+[%noheader,cols="<1,<10",frame="none"]
+|=== 
+|1.| Gerhard G. Reinking u. Lilie Steele getraut am 30. April +
+in der Kirche. Zeugen, Edwin Steele +
+u. Maria Reinking      G. Bauer Pastor
+
+|2|Eduard Lahmann u. Elias Reinking getraut +
+am 7. Mai in der Kirche. +
+Zeugen: Edwan Reinking, Tina Biermann +
+Johann Lahmann, Ida Reinking +
+\G. Bauer Pastor
+|===
+
+== Translation
+
+.Trauungen im Jahre 1905
+[%noheader,cols="<1,<10",frame="none"]
+|=== 
+|1.| Gerhard G. Reinking u. Lilie Steele married on 30. April +
+in the church. Witnesses, Edwin Steele +
+u. Maria Reinking      G. Bauer Pastor
+
+|2|Eduard Lahmann u. Elias Reinking married +
+on 7^th^ May in the church. +
+Witnesses: Edwan Reinking, Tina Biermann +
+Johann Lahmann, Ida Reinking +
+\G. Bauer Pastor
+|===
