@@ -7,7 +7,7 @@ image::230.jpg[align=left,title='Image 230 (Click to enlarge)',link=self]
 == Transliteration
 
 === Register der Leichenbegängnisse
-
+[arabic,start="8"]
 8. Wilhelm Söhnlein des Herrn Christian Bleeke und
 seiner Ehefrau Maria geb. Rup, starb in einem
 Alter von 2 Jahren, 7 Monaten u. 14 Tagen den 11ten
