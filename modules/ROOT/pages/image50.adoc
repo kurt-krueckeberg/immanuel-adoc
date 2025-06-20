@@ -3,7 +3,12 @@
 
 image::50.jpg[align="left",title="Page 81, image 50 (Click to enlarge)",link=self]
 
+[role="section-narrower"]
 == Translation
+
+NOTE: *Hebr.* below refers to Hebron, Nebraska, where the Andreas Thieme and other families
+moved in 1877.
+
 [role="literal-narrower"]
 ....
       25. Heinrich                                                   [+5/4/61]
@@ -48,7 +53,7 @@ image::50.jpg[align="left",title="Page 81, image 50 (Click to enlarge)",link=sel
 
             Godparents: Jakob Stöhr and his wife Elisabeth.
 
-      29. Maria Margaretha Elisabeth   [Moved to Hebr(on Nebraska) with a ????? 1877]
+      29. Maria Margaretha Elisabeth   [Moved to Hebr. with a ????? 1877]
 
             Born on January 20 and baptized 1862
 
